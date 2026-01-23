@@ -1,0 +1,132 @@
+import Link from "next/link"
+import Image from "next/image"
+import { Mail, Phone, MapPin } from "lucide-react"
+
+const quickLinks = [
+  { name: "Home", href: "/" },
+  { name: "About", href: "#about" },
+  { name: "Services", href: "#services" },
+  { name: "Therapies", href: "#therapies" },
+  { name: "Contact", href: "#contact" },
+]
+
+const services = [
+  { name: "Anxiety Treatment", href: "#services" },
+  { name: "Depression Therapy", href: "#services" },
+  { name: "Trauma & PTSD", href: "#services" },
+  { name: "Couples Counseling", href: "#services" },
+  { name: "Group Programs", href: "#services" },
+]
+
+export function Footer() {
+  return (
+    <footer className="bg-foreground text-background">
+      <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+          {/* Brand */}
+          <div className="space-y-6">
+            <Link href="/" className="flex items-center gap-3">
+              <Image
+                src="/logo.png"
+                alt="Diana Raluca Psychology"
+                width={50}
+                height={50}
+                className="h-12 w-12 brightness-0 invert"
+              />
+              <div>
+                <p className="text-lg font-semibold tracking-wide">Diana Raluca</p>
+                <p className="text-xs text-background/60 tracking-widest uppercase">Psychology</p>
+              </div>
+            </Link>
+            <p className="text-sm text-background/70 leading-relaxed">
+              Dedicated to guiding individuals toward mental wellness through evidence-based therapeutic approaches and compassionate care.
+            </p>
+          </div>
+
+          {/* Quick Links */}
+          <div>
+            <h3 className="text-sm font-semibold tracking-widest uppercase mb-6">Quick Links</h3>
+            <ul className="space-y-3">
+              {quickLinks.map((link) => (
+                <li key={link.name}>
+                  <Link 
+                    href={link.href}
+                    className="text-sm text-background/70 hover:text-primary transition-colors"
+                  >
+                    {link.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Services */}
+          <div>
+            <h3 className="text-sm font-semibold tracking-widest uppercase mb-6">Services</h3>
+            <ul className="space-y-3">
+              {services.map((service) => (
+                <li key={service.name}>
+                  <Link 
+                    href={service.href}
+                    className="text-sm text-background/70 hover:text-primary transition-colors"
+                  >
+                    {service.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Contact */}
+          <div>
+            <h3 className="text-sm font-semibold tracking-widest uppercase mb-6">Contact</h3>
+            <ul className="space-y-4">
+              <li className="flex items-start gap-3">
+                <MapPin className="h-5 w-5 text-primary shrink-0 mt-0.5" />
+                <span className="text-sm text-background/70">
+                  Str. Example 123<br />
+                  Bucharest, Romania
+                </span>
+              </li>
+              <li className="flex items-center gap-3">
+                <Phone className="h-5 w-5 text-primary shrink-0" />
+                <a 
+                  href="tel:+40700000000"
+                  className="text-sm text-background/70 hover:text-primary transition-colors"
+                >
+                  +40 700 000 000
+                </a>
+              </li>
+              <li className="flex items-center gap-3">
+                <Mail className="h-5 w-5 text-primary shrink-0" />
+                <a 
+                  href="mailto:contact@dianaraluca.com"
+                  className="text-sm text-background/70 hover:text-primary transition-colors"
+                >
+                  contact@dianaraluca.com
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        {/* Bottom */}
+        <div className="mt-12 pt-8 border-t border-background/10">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+            <p className="text-sm text-background/50">
+              © {new Date().getFullYear()} Diana Raluca Psychology. All rights reserved.
+            </p>
+            <div className="flex items-center gap-6">
+              <Link href="#" className="text-sm text-background/50 hover:text-primary transition-colors">
+                Privacy Policy
+              </Link>
+              <Link href="#" className="text-sm text-background/50 hover:text-primary transition-colors">
+                Terms of Service
+              </Link>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  )
+}
