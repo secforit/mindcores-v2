@@ -1,30 +1,29 @@
+"use client"
+
 import Image from "next/image"
+import { useTranslations } from "next-intl"
 import { CheckCircle } from "lucide-react"
 
-const qualifications = [
-  "Licensed Clinical Psychologist",
-  "EMDR Certified Practitioner",
-  "Certified NLP Master Practitioner",
-  "Family & Couples Therapy Specialist",
-  "Mindfulness-Based Therapy Expert",
-]
-
-const values = [
-  {
-    title: "Compassionate Care",
-    description: "Every session is approached with empathy, understanding, and genuine care for your wellbeing."
-  },
-  {
-    title: "Evidence-Based Methods",
-    description: "Utilizing scientifically proven therapeutic approaches tailored to your unique needs."
-  },
-  {
-    title: "Confidential & Safe",
-    description: "A secure, judgment-free environment where you can explore your thoughts and feelings freely."
-  },
-]
-
 export function AboutSection() {
+  const t = useTranslations("about")
+
+  const qualifications = t.raw("qualifications.items") as string[]
+
+  const values = [
+    {
+      title: t("values.compassionateCare.title"),
+      description: t("values.compassionateCare.description"),
+    },
+    {
+      title: t("values.evidenceBased.title"),
+      description: t("values.evidenceBased.description"),
+    },
+    {
+      title: t("values.confidential.title"),
+      description: t("values.confidential.description"),
+    },
+  ]
+
   return (
     <section id="about" className="py-24 lg:py-32 bg-secondary/30">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -46,11 +45,11 @@ export function AboutSection() {
               <div className="absolute -bottom-6 -right-6 w-48 h-48 border-2 border-primary/30 rounded-2xl -z-10" />
               <div className="absolute -top-6 -left-6 w-32 h-32 bg-primary/10 rounded-2xl -z-10" />
             </div>
-            
+
             {/* Experience badge */}
             <div className="absolute -bottom-8 left-8 bg-card shadow-xl rounded-xl p-6 border border-border">
               <p className="text-4xl font-light text-primary">15+</p>
-              <p className="text-sm text-muted-foreground">Years of Excellence</p>
+              <p className="text-sm text-muted-foreground">{t("yearsOfExcellence")}</p>
             </div>
           </div>
 
@@ -58,20 +57,17 @@ export function AboutSection() {
           <div className="space-y-8">
             <div className="space-y-4">
               <p className="text-sm tracking-widest uppercase text-primary font-medium">
-                About Me
+                {t("tagline")}
               </p>
               <h2 className="text-3xl sm:text-4xl font-light text-foreground leading-tight">
-                Dedicated to Your{" "}
-                <span className="text-primary font-medium italic">Mental Health</span>{" "}
-                Journey
+                {t("titleStart")}{" "}
+                <span className="text-primary font-medium italic">{t("titleHighlight")}</span>{" "}
+                {t("titleEnd")}
               </h2>
             </div>
-            
+
             <p className="text-lg text-muted-foreground leading-relaxed">
-              With over 15 years of experience in clinical psychology, I am committed to 
-              providing personalized, evidence-based therapy that addresses your unique 
-              challenges. My approach integrates multiple therapeutic modalities to create 
-              a comprehensive treatment plan tailored specifically for you.
+              {t("description")}
             </p>
 
             {/* Qualifications */}

@@ -1,42 +1,52 @@
 "use client"
 
 import React from "react"
-
 import { useState } from "react"
+import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardContent } from "@/components/ui/card"
-import { Mail, Phone, MapPin, Clock, Send } from "lucide-react"
+import { Mail, Phone, MapPin, Clock, Send, type LucideIcon } from "lucide-react"
 
-const contactInfo = [
+type ContactInfoKey = "phone" | "email" | "location" | "hours"
+
+interface ContactInfoItem {
+  key: ContactInfoKey
+  icon: LucideIcon
+  value: string
+  href: string
+}
+
+const contactInfoItems: ContactInfoItem[] = [
   {
+    key: "phone",
     icon: Phone,
-    title: "Phone",
     value: "+40 700 000 000",
     href: "tel:+40700000000",
   },
   {
+    key: "email",
     icon: Mail,
-    title: "Email",
     value: "contact@dianaraluca.com",
     href: "mailto:contact@dianaraluca.com",
   },
   {
+    key: "location",
     icon: MapPin,
-    title: "Location",
     value: "Bucharest, Romania",
     href: "#",
   },
   {
+    key: "hours",
     icon: Clock,
-    title: "Hours",
-    value: "Mon-Fri: 9:00 - 18:00",
+    value: "", // Will be translated
     href: "#",
   },
 ]
 
 export function ContactSection() {
+  const t = useTranslations("contact")
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -49,11 +59,17 @@ export function ContactSection() {
     e.preventDefault()
     setIsSubmitting(true)
     // Simulate form submission
-    await new Promise(resolve => setTimeout(resolve, 1000))
+    await new Promise((resolve) => setTimeout(resolve, 1000))
     setIsSubmitting(false)
     setFormData({ name: "", email: "", phone: "", message: "" })
-    alert("Thank you for your message. We will contact you soon!")
+    alert(t("form.successMessage"))
   }
+
+  const languages = [
+    { key: "romanian", label: t("romanian") },
+    { key: "german", label: t("german") },
+    { key: "english", label: t("english") },
+  ]
 
   return (
     <section id="contact" className="py-24 lg:py-32 bg-background">
@@ -61,53 +77,51 @@ export function ContactSection() {
         {/* Header */}
         <div className="text-center max-w-2xl mx-auto mb-16">
           <p className="text-sm tracking-widest uppercase text-primary font-medium mb-4">
-            Get in Touch
+            {t("tagline")}
           </p>
           <h2 className="text-3xl sm:text-4xl font-light text-foreground leading-tight mb-6">
-            Begin Your{" "}
-            <span className="text-primary font-medium italic">Healing</span>{" "}
-            Journey Today
+            {t("titleStart")}{" "}
+            <span className="text-primary font-medium italic">{t("titleHighlight")}</span>{" "}
+            {t("titleEnd")}
           </h2>
-          <p className="text-lg text-muted-foreground">
-            Take the first step towards mental wellness. Reach out for a confidential 
-            consultation and discover how we can work together.
-          </p>
+          <p className="text-lg text-muted-foreground">{t("description")}</p>
         </div>
 
         <div className="grid lg:grid-cols-5 gap-12">
           {/* Contact Info */}
           <div className="lg:col-span-2 space-y-6">
-            {contactInfo.map((info) => (
-              <Card key={info.title} className="bg-secondary/30 border-border/50">
-                <CardContent className="p-6">
-                  <a 
-                    href={info.href}
-                    className="flex items-start gap-4 group"
-                  >
-                    <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
-                      <info.icon className="h-5 w-5 text-primary" />
-                    </div>
-                    <div>
-                      <p className="text-sm text-muted-foreground mb-1">{info.title}</p>
-                      <p className="font-medium text-foreground group-hover:text-primary transition-colors">
-                        {info.value}
-                      </p>
-                    </div>
-                  </a>
-                </CardContent>
-              </Card>
-            ))}
+            {contactInfoItems.map((info) => {
+              const Icon = info.icon
+              const displayValue = info.key === "hours" ? t("hoursValue") : info.value
+              return (
+                <Card key={info.key} className="bg-secondary/30 border-border/50">
+                  <CardContent className="p-6">
+                    <a href={info.href} className="flex items-start gap-4 group">
+                      <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
+                        <Icon className="h-5 w-5 text-primary" />
+                      </div>
+                      <div>
+                        <p className="text-sm text-muted-foreground mb-1">{t(info.key)}</p>
+                        <p className="font-medium text-foreground group-hover:text-primary transition-colors">
+                          {displayValue}
+                        </p>
+                      </div>
+                    </a>
+                  </CardContent>
+                </Card>
+              )
+            })}
 
             {/* Languages */}
             <div className="pt-6 border-t border-border">
-              <p className="text-sm text-muted-foreground mb-3">Available in</p>
+              <p className="text-sm text-muted-foreground mb-3">{t("availableIn")}</p>
               <div className="flex gap-3">
-                {["Romanian", "German", "English"].map((lang) => (
-                  <span 
-                    key={lang}
+                {languages.map((lang) => (
+                  <span
+                    key={lang.key}
                     className="px-4 py-2 bg-secondary rounded-full text-sm text-foreground"
                   >
-                    {lang}
+                    {lang.label}
                   </span>
                 ))}
               </div>
@@ -121,27 +135,27 @@ export function ContactSection() {
                 <div className="grid sm:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label htmlFor="name" className="text-sm font-medium text-foreground">
-                      Full Name
+                      {t("form.fullName")}
                     </label>
                     <Input
                       id="name"
                       value={formData.name}
                       onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                      placeholder="Your name"
+                      placeholder={t("form.yourName")}
                       required
                       className="bg-background border-border focus:border-primary"
                     />
                   </div>
                   <div className="space-y-2">
                     <label htmlFor="email" className="text-sm font-medium text-foreground">
-                      Email Address
+                      {t("form.emailAddress")}
                     </label>
                     <Input
                       id="email"
                       type="email"
                       value={formData.email}
                       onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                      placeholder="your@email.com"
+                      placeholder={t("form.emailPlaceholder")}
                       required
                       className="bg-background border-border focus:border-primary"
                     />
@@ -150,51 +164,51 @@ export function ContactSection() {
 
                 <div className="space-y-2">
                   <label htmlFor="phone" className="text-sm font-medium text-foreground">
-                    Phone Number
+                    {t("form.phoneNumber")}
                   </label>
                   <Input
                     id="phone"
                     type="tel"
                     value={formData.phone}
                     onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                    placeholder="+40 700 000 000"
+                    placeholder={t("form.phonePlaceholder")}
                     className="bg-background border-border focus:border-primary"
                   />
                 </div>
 
                 <div className="space-y-2">
                   <label htmlFor="message" className="text-sm font-medium text-foreground">
-                    Your Message
+                    {t("form.yourMessage")}
                   </label>
                   <Textarea
                     id="message"
                     value={formData.message}
                     onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-                    placeholder="Tell us briefly about what brings you here..."
+                    placeholder={t("form.messagePlaceholder")}
                     rows={5}
                     required
                     className="bg-background border-border focus:border-primary resize-none"
                   />
                 </div>
 
-                <Button 
+                <Button
                   type="submit"
                   size="lg"
                   disabled={isSubmitting}
                   className="w-full bg-primary text-primary-foreground hover:bg-primary/90 rounded-full"
                 >
                   {isSubmitting ? (
-                    "Sending..."
+                    t("form.sending")
                   ) : (
                     <>
-                      Send Message
+                      {t("form.sendMessage")}
                       <Send className="ml-2 h-4 w-4" />
                     </>
                   )}
                 </Button>
 
                 <p className="text-xs text-muted-foreground text-center">
-                  Your information is confidential and will only be used to respond to your inquiry.
+                  {t("form.privacyNotice")}
                 </p>
               </form>
             </CardContent>

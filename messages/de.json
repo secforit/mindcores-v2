@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "title": "Diana Raluca | Psychologische Praxis",
+    "description": "Professionelle psychologische Dienstleistungen mit EMDR, Achtsamkeit, NLP und verschiedenen therapeutischen Ansätzen für Angst, Depression, Trauma und mehr."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "services": "Leistungen",
+    "therapies": "Therapien",
+    "contact": "Kontakt",
+    "conditions": "Störungen",
+    "bookConsultation": "Termin buchen"
+  },
+  "hero": {
+    "tagline": "Professionelle Psychologische Dienste",
+    "titleStart": "Ihre Reise zum",
+    "titleHighlight": "Psychischen Wohlbefinden",
+    "titleEnd": "Beginnt Hier",
+    "description": "Wir erkennen, dass das Leben komplexe Herausforderungen mit sich bringt, und wir widmen uns der Unterstützung auf Ihrem Weg zu einem gesunden Geist. Wir bieten frische Ansätze für die psychische Gesundheitsversorgung in einer warmen, offenen und wertfreien Umgebung.",
+    "bookConsultation": "Beratung Buchen",
+    "exploreServices": "Leistungen Entdecken",
+    "yearsExperience": "Jahre Erfahrung",
+    "clientsHelped": "Betreute Klienten",
+    "languages": "Sprachen",
+    "scroll": "Scrollen"
+  },
+  "about": {
+    "tagline": "Über Mich",
+    "titleStart": "Gewidmet Ihrer",
+    "titleHighlight": "Psychischen Gesundheit",
+    "titleEnd": "",
+    "description": "Mit über 15 Jahren Erfahrung in der klinischen Psychologie bin ich der Bereitstellung personalisierter, evidenzbasierter Therapie verpflichtet, die Ihre einzigartigen Herausforderungen anspricht. Mein Ansatz integriert mehrere therapeutische Modalitäten, um einen umfassenden Behandlungsplan speziell für Sie zu erstellen.",
+    "yearsOfExcellence": "Jahre Exzellenz",
+    "qualifications": {
+      "title": "Qualifikationen",
+      "items": [
+        "Approbierte Klinische Psychologin",
+        "Zertifizierte EMDR-Praktikerin",
+        "Zertifizierte NLP Master Practitioner",
+        "Spezialistin für Familien- und Paartherapie",
+        "Expertin für Achtsamkeitsbasierte Therapie"
+      ]
+    },
+    "values": {
+      "compassionateCare": {
+        "title": "Mitfühlende Betreuung",
+        "description": "Jede Sitzung wird mit Empathie, Verständnis und echter Fürsorge für Ihr Wohlbefinden angegangen."
+      },
+      "evidenceBased": {
+        "title": "Evidenzbasierte Methoden",
+        "description": "Anwendung wissenschaftlich bewährter therapeutischer Ansätze, die auf Ihre individuellen Bedürfnisse zugeschnitten sind."
+      },
+      "confidential": {
+        "title": "Vertraulich & Sicher",
+        "description": "Eine sichere, wertfreie Umgebung, in der Sie Ihre Gedanken und Gefühle frei erkunden können."
+      }
+    },
+    "vision": "Um unsere Vision zu erreichen, werden wir uns unserer Mission und unseren Zielen verpflichten, geleitet von unseren Werten",
+    "mission": "Eine sichere und unterstützende Umgebung zu schaffen, die kooperative Beziehungen fördert"
+  },
+  "services": {
+    "tagline": "Fachgebiete",
+    "titleStart": "Spezialisierte Behandlung für",
+    "titleHighlight": "Psychische Gesundheit",
+    "titleEnd": "Herausforderungen",
+    "description": "Umfassende psychologische Dienstleistungen für ein breites Spektrum von Erkrankungen unter Verwendung evidenzbasierter therapeutischer Ansätze.",
+    "learnMore": "Mehr Erfahren",
+    "scheduleConsultation": "Beratung Vereinbaren",
+    "disorders": {
+      "anxiety": {
+        "title": "Angststörungen",
+        "description": "Umfassende Behandlung von generalisierter Angst, Panikattacken, sozialer Angst und Phobien mit bewährten therapeutischen Techniken."
+      },
+      "depression": {
+        "title": "Depression",
+        "description": "Evidenzbasierte Ansätze, um Ihnen zu helfen, Depressionen zu überwinden, Motivation zurückzugewinnen und Freude im Alltag wiederzuentdecken."
+      },
+      "trauma": {
+        "title": "Trauma & PTBS",
+        "description": "Spezialisierte EMDR-Therapie und traumafokussierte Behandlung zur Verarbeitung schwieriger Erfahrungen und Heilung."
+      },
+      "relationships": {
+        "title": "Beziehungsprobleme",
+        "description": "Einzel- und Paarberatung zur Verbesserung der Kommunikation, Konfliktlösung und zum Aufbau stärkerer Verbindungen."
+      },
+      "stress": {
+        "title": "Stressmanagement",
+        "description": "Erlernen Sie effektive Bewältigungsstrategien, Achtsamkeitstechniken und Lebensstiländerungen zur Bewältigung von chronischem Stress."
+      },
+      "personalGrowth": {
+        "title": "Persönliches Wachstum",
+        "description": "Entdecken Sie Ihr Potenzial, stärken Sie Ihr Selbstwertgefühl und entwickeln Sie emotionale Intelligenz für ein erfüllteres Leben."
+      },
+      "addiction": {
+        "title": "Sucht",
+        "description": "Unterstützende Behandlung für Substanz- und Verhaltenssüchte mit Fokus auf Genesung und nachhaltige Veränderung."
+      },
+      "eatingDisorders": {
+        "title": "Essstörungen",
+        "description": "Spezialisierte Betreuung bei Anorexie, Bulimie, Essattacken und anderen essbezogenen Herausforderungen."
+      },
+      "perinatal": {
+        "title": "Perinatale Stimmungsstörungen",
+        "description": "Unterstützung für die psychische Gesundheit in der Schwangerschaft und nach der Geburt, einschließlich Depression und Angst."
+      },
+      "grief": {
+        "title": "Trauer & Verlust",
+        "description": "Einfühlsame Unterstützung bei Trauer und Lebensübergängen."
+      },
+      "bipolar": {
+        "title": "Bipolare Störung",
+        "description": "Umfassendes Management von Stimmungsepisoden und langfristiger Stabilität."
+      },
+      "adhd": {
+        "title": "ADHS",
+        "description": "Bewertung und Behandlung von Aufmerksamkeits- und Hyperaktivitätsproblemen bei Erwachsenen und Jugendlichen."
+      },
+      "attachment": {
+        "title": "Bindungsstörung",
+        "description": "Heilung von Bindungsverletzungen und Aufbau sicherer Beziehungsmuster."
+      },
+      "personality": {
+        "title": "Persönlichkeitsstörungen",
+        "description": "Spezialisierte Therapie für komplexe Persönlichkeitsmuster und zwischenmenschliche Schwierigkeiten."
+      },
+      "sexualDysfunction": {
+        "title": "Sexuelle Dysfunktionen",
+        "description": "Sensible und professionelle Unterstützung bei Anliegen der sexuellen Gesundheit."
+      },
+      "mensMentalHealth": {
+        "title": "Psychische Gesundheit von Männern",
+        "description": "Behandlung einzigartiger psychischer Gesundheitsherausforderungen von Männern in einer unterstützenden Umgebung."
+      },
+      "selfEsteem": {
+        "title": "Selbstwertgefühl",
+        "description": "Aufbau von Selbstvertrauen und positivem Selbstbild durch therapeutische Unterstützung."
+      }
+    }
+  },
+  "therapies": {
+    "tagline": "Therapeutische Ansätze",
+    "titleStart": "Evidenzbasierte",
+    "titleHighlight": "Therapien",
+    "titleEnd": "für Dauerhafte Veränderung",
+    "description": "Jeder Behandlungsplan ist personalisiert und kombiniert mehrere therapeutische Modalitäten, um Ihre spezifischen Bedürfnisse und Ziele anzusprechen.",
+    "bottomNote": "Nicht sicher, welcher Ansatz für Sie richtig ist? Während Ihrer ersten Beratung besprechen wir Ihre Anliegen und erstellen gemeinsam einen personalisierten Behandlungsplan.",
+    "items": {
+      "emdr": {
+        "name": "EMDR-Therapie",
+        "description": "Eye Movement Desensitization and Reprocessing - eine kraftvolle Behandlung für Trauma und PTBS, die dem Gehirn hilft, belastende Erinnerungen zu verarbeiten."
+      },
+      "mindfulness": {
+        "name": "Achtsamkeitsbasierte Therapie",
+        "description": "Integrieren Sie Achtsamkeitspraktiken in Ihre Heilungsreise und entwickeln Sie Gegenwartsbewusstsein und emotionale Regulationsfähigkeiten."
+      },
+      "cbt": {
+        "name": "Kognitive Verhaltenstherapie",
+        "description": "Ein strukturierter, zielorientierter Ansatz, der hilft, negative Denk- und Verhaltensmuster zu identifizieren und zu verändern."
+      },
+      "nlp": {
+        "name": "NLP-Techniken",
+        "description": "Neuro-Linguistische Programmierungsmethoden zur Transformation einschränkender Überzeugungen und Schaffung positiver Verhaltensänderungen."
+      },
+      "family": {
+        "name": "Familientherapie",
+        "description": "Behandlung von Familiendynamiken, Verbesserung der Kommunikation und Stärkung der Beziehungen innerhalb des Familiensystems."
+      },
+      "couples": {
+        "name": "Paarberatung",
+        "description": "Aufbau stärkerer Verbindungen, Konfliktlösung und Entwicklung gesunder Kommunikationsmuster mit Ihrem Partner."
+      },
+      "positivePsychotherapy": {
+        "name": "Positive und Transkulturelle Psychotherapie",
+        "description": "Ein humanistischer Ansatz, der positive Psychologie mit transkulturellem Verständnis für ganzheitliche Heilung integriert."
+      },
+      "systemicConstellation": {
+        "name": "Systemische Familienaufstellungen",
+        "description": "Enthüllung verborgener Dynamiken in Familiensystemen und Organisationsstrukturen für tieferes Verständnis und Auflösung."
+      },
+      "solutionFocused": {
+        "name": "Lösungsfokussierte Therapie",
+        "description": "Ein kurzer, zielgerichteter Ansatz, der sich auf Lösungen statt auf Probleme konzentriert, um schnelle positive Veränderungen zu erreichen."
+      },
+      "identityTrauma": {
+        "name": "Identitätsorientierte Traumatherapie",
+        "description": "Spezialisierter Ansatz, der behandelt, wie Trauma die Identität und das Selbstgefühl beeinflusst."
+      },
+      "schemaTherapy": {
+        "name": "Schematherapie",
+        "description": "Integrativer Ansatz für tief verwurzelte emotionale Muster und persönlichkeitsbezogene Probleme."
+      },
+      "dbt": {
+        "name": "DBT",
+        "description": "Dialektisch-Behaviorale Therapie, die kognitiv-behaviorale Techniken mit Achtsamkeitspraktiken kombiniert."
+      },
+      "act": {
+        "name": "ACT",
+        "description": "Akzeptanz- und Commitment-Therapie mit Fokus auf psychologische Flexibilität und wertebasiertes Leben."
+      }
+    }
+  },
+  "contact": {
+    "tagline": "Kontakt",
+    "titleStart": "Beginnen Sie Ihre",
+    "titleHighlight": "Heilungsreise",
+    "titleEnd": "Heute",
+    "description": "Machen Sie den ersten Schritt zum psychischen Wohlbefinden. Kontaktieren Sie uns für eine vertrauliche Beratung und entdecken Sie, wie wir zusammenarbeiten können.",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "location": "Standort",
+    "hours": "Öffnungszeiten",
+    "hoursValue": "Mo-Fr: 9:00 - 18:00",
+    "availableIn": "Verfügbar in",
+    "romanian": "Rumänisch",
+    "german": "Deutsch",
+    "english": "Englisch",
+    "form": {
+      "fullName": "Vollständiger Name",
+      "yourName": "Ihr Name",
+      "emailAddress": "E-Mail-Adresse",
+      "emailPlaceholder": "ihre@email.de",
+      "phoneNumber": "Telefonnummer",
+      "phonePlaceholder": "+49 170 000 0000",
+      "yourMessage": "Ihre Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns kurz, was Sie hierher führt...",
+      "sendMessage": "Nachricht Senden",
+      "sending": "Wird gesendet...",
+      "privacyNotice": "Ihre Informationen sind vertraulich und werden nur zur Beantwortung Ihrer Anfrage verwendet.",
+      "successMessage": "Vielen Dank für Ihre Nachricht. Wir werden Sie in Kürze kontaktieren!"
+    }
+  },
+  "footer": {
+    "brandDescription": "Gewidmet der Begleitung von Menschen zum psychischen Wohlbefinden durch evidenzbasierte therapeutische Ansätze und mitfühlende Betreuung.",
+    "quickLinks": "Schnelllinks",
+    "services": "Leistungen",
+    "contact": "Kontakt",
+    "anxietyTreatment": "Angstbehandlung",
+    "depressionTherapy": "Depressionstherapie",
+    "traumaPTSD": "Trauma & PTBS",
+    "couplesCounseling": "Paarberatung",
+    "groupPrograms": "Gruppenprogramme",
+    "allRightsReserved": "Alle Rechte vorbehalten.",
+    "privacyPolicy": "Datenschutz",
+    "termsOfService": "Nutzungsbedingungen",
+    "impressum": "Impressum"
+  },
+  "conditions": {
+    "anxiety": {
+      "title": "Angst",
+      "subtitle": "Angst Verstehen und Überwinden",
+      "intro": "Angst ist der instinktive Schutzmechanismus Ihres Körpers. Wenn Sie Gefahr wahrnehmen, sendet Ihr Gehirn Signale, die die Kampf-oder-Flucht-Reaktion aktivieren und Ihnen helfen, in potenziell lebensbedrohlichen Situationen zu überleben.",
+      "symptoms": {
+        "title": "Hauptsymptome",
+        "items": [
+          "Intensive Sorgen über alltägliche Situationen",
+          "Kontrollverlust über Gedanken und Gefühle",
+          "Ablösung vom Körper oder der Umgebung",
+          "Katastrophisieren und Erwarten des Schlimmsten",
+          "Körperliche Anspannung und Unruhe"
+        ]
+      },
+      "types": {
+        "title": "Arten von Angststörungen",
+        "gad": {
+          "name": "Generalisierte Angststörung (GAS)",
+          "description": "Anhaltende und übermäßige Sorgen über verschiedene Aspekte des täglichen Lebens."
+        },
+        "ocd": {
+          "name": "Zwangsstörung",
+          "description": "Wiederkehrende, unerwünschte Gedanken und repetitive Verhaltensweisen."
+        },
+        "social": {
+          "name": "Soziale Angst",
+          "description": "Intensive Angst vor sozialen Situationen und Beurteilung durch andere."
+        },
+        "separation": {
+          "name": "Trennungsangst",
+          "description": "Übermäßige Angst, von Bezugspersonen getrennt zu werden."
+        },
+        "panic": {
+          "name": "Panikstörung",
+          "description": "Plötzliche, intensive Angstzustände mit körperlichen Symptomen."
+        },
+        "agoraphobia": {
+          "name": "Agoraphobie",
+          "description": "Angst vor Situationen, in denen eine Flucht schwierig sein könnte."
+        },
+        "specific": {
+          "name": "Spezifische Phobien",
+          "description": "Intensive Angst vor bestimmten Objekten oder Situationen."
+        },
+        "health": {
+          "name": "Gesundheitsangst",
+          "description": "Übermäßige Sorge, an einer schweren Krankheit zu leiden."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "depression": {
+      "title": "Depression",
+      "subtitle": "Depression Verstehen",
+      "intro": "Depression ist mehr als nur Traurigkeit. Es ist eine anhaltende Niedergeschlagenheit, Gefühle der Wertlosigkeit, Taubheit und Schuld, die beeinflussen, wie Sie denken, fühlen und den Alltag bewältigen.",
+      "symptoms": {
+        "title": "Hauptsymptome",
+        "items": [
+          "Anhaltende traurige oder leere Stimmung",
+          "Interessenverlust an früher genossenen Aktivitäten",
+          "Veränderungen bei Appetit und Schlafmustern",
+          "Müdigkeit und verminderte Energie",
+          "Konzentrations- und Entscheidungsschwierigkeiten",
+          "Gefühle der Hoffnungslosigkeit oder Wertlosigkeit"
+        ]
+      },
+      "types": {
+        "title": "Arten von Depressionen",
+        "major": {
+          "name": "Schwere Depression",
+          "description": "Schwere Symptome, die die tägliche Funktionsfähigkeit beeinträchtigen."
+        },
+        "dysthymic": {
+          "name": "Dysthyme Störung",
+          "description": "Chronische, weniger schwere Depression, die zwei Jahre oder länger anhält."
+        },
+        "bipolar": {
+          "name": "Bipolare Störung",
+          "description": "Depressionsphasen, die mit Phasen gehobener Stimmung abwechseln."
+        },
+        "perinatal": {
+          "name": "Perinatale/Postnatale Depression",
+          "description": "Depression während der Schwangerschaft oder nach der Geburt."
+        },
+        "sad": {
+          "name": "Saisonal-affektive Störung (SAD)",
+          "description": "Depression im Zusammenhang mit jahreszeitlichen Veränderungen, typischerweise im Winter."
+        }
+      },
+      "statistics": "Fast 10% der Frauen erleben Depressionen während der Schwangerschaft; dies steigt auf 16% in den ersten 3 Monaten nach der Geburt. Die bipolare Störung betrifft etwa 2% der Bevölkerung.",
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "trauma": {
+      "title": "Trauma",
+      "subtitle": "Trauma Verstehen und Heilen",
+      "intro": "Trauma ist eine psychologische Wunde, die aus beängstigenden oder verstörenden Ereignissen resultiert. Es kann beeinflussen, wie Sie denken, fühlen und sich lange nach dem Ereignis auf andere beziehen.",
+      "symptoms": {
+        "title": "Emotionale Anzeichen",
+        "items": [
+          "Angst und Hypervigilanz",
+          "Trauer und Traurigkeit",
+          "Schuld und Scham",
+          "Wut und Reizbarkeit",
+          "Angst und Panik",
+          "Emotionale Taubheit",
+          "Schlafstörungen und Albträume"
+        ]
+      },
+      "types": {
+        "title": "Arten von Trauma",
+        "acute": {
+          "name": "Akutes Trauma",
+          "description": "Resultiert aus einem einzelnen Ereignis mit vorübergehenden Auswirkungen."
+        },
+        "chronic": {
+          "name": "Chronisches Trauma",
+          "description": "Resultiert aus wiederholter Exposition gegenüber belastenden Ereignissen."
+        },
+        "complex": {
+          "name": "Komplexes Trauma",
+          "description": "Resultiert aus mehreren traumatischen Ereignissen, oft zwischenmenschlicher Natur."
+        }
+      },
+      "ptsdNote": "Trauma kann sich zu PTBS (Posttraumatische Belastungsstörung) entwickeln, wenn die Symptome anhalten und das tägliche Leben erheblich beeinträchtigen.",
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    }
+  },
+  "legal": {
+    "impressum": {
+      "title": "Impressum",
+      "responsiblePerson": "Verantwortliche Person",
+      "professionalTitle": "Berufsbezeichnung",
+      "professionalTitleValue": "Heilpraktikerin für Psychotherapie",
+      "issuedBy": "Ausgestellt von",
+      "issuedByValue": "Gesundheitsamt Ingolstadt",
+      "germanAddress": "Deutsche Adresse",
+      "romanianAddress": "Rumänische Adresse",
+      "taxInfo": "Steuerinformationen",
+      "copyright": "Urheberrecht",
+      "copyrightText": "Alle von den Seitenbetreibern erstellten Inhalte unterliegen dem deutschen Urheberrecht. Keine Vervielfältigung ohne schriftliche Genehmigung."
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "intro": "Wir nehmen Ihre Privatsphäre ernst. Diese Richtlinie beschreibt, wie wir Ihre persönlichen Daten sammeln, verwenden und schützen.",
+      "dataCollection": "Datenerhebung",
+      "cookies": "Cookies und Sitzungen",
+      "serverLogs": "Server-Protokolldateien",
+      "contactForm": "Kontaktformulardaten",
+      "yourRights": "Ihre Rechte"
+    }
+  },
+  "whyDifferent": {
+    "title": "Warum Ich Anders Bin",
+    "tagline": "ICH GLAUBE, DASS IHRE PSYCHISCHE GESUNDHEIT WICHTIG IST",
+    "points": [
+      "Priorisiert das Wohlbefinden der Klienten und behandelt übersehene Probleme",
+      "Überprüft kontinuierlich das Kundenfeedback",
+      "Betrachtet 8 Formen der Intelligenz (naturalistisch, interpersonell, intrapersonell, linguistisch, logisch-mathematisch, körperlich/kinästhetisch, musikalisch, räumlich)",
+      "Schafft professionelle, persönliche, mitfühlende Wohlfühlerfahrung",
+      "Bietet Fähigkeiten für bedeutsame Veränderungen"
+    ],
+    "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+  }
+}

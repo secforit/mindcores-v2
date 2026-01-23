@@ -4,21 +4,23 @@ import Link from "next/link"
 import Image from "next/image"
 import { useState } from "react"
 import { Menu, X } from "lucide-react"
+import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
-
-const navigation = [
-  { name: "Home", href: "/" },
-  { name: "About", href: "#about" },
-  { name: "Services", href: "#services" },
-  { name: "Therapies", href: "#therapies" },
-  { name: "Contact", href: "#contact" },
-]
-
-const languages = ["RO", "DE", "EN"]
+import { useLocale } from "@/components/providers/locale-provider"
+import { localeFlags, type Locale, locales } from "@/i18n/config"
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
-  const [currentLang, setCurrentLang] = useState("EN")
+  const t = useTranslations("nav")
+  const { locale, setLocale } = useLocale()
+
+  const navigation = [
+    { name: t("home"), href: "/" },
+    { name: t("about"), href: "#about" },
+    { name: t("services"), href: "#services" },
+    { name: t("therapies"), href: "#therapies" },
+    { name: t("contact"), href: "#contact" },
+  ]
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border/50">
@@ -54,25 +56,25 @@ export function Header() {
         {/* Language Switcher & CTA */}
         <div className="hidden lg:flex lg:items-center lg:gap-4">
           <div className="flex items-center gap-1 border border-border rounded-full px-1 py-1">
-            {languages.map((lang) => (
+            {locales.map((lang) => (
               <button
                 key={lang}
-                onClick={() => setCurrentLang(lang)}
+                onClick={() => setLocale(lang as Locale)}
                 className={`px-3 py-1 text-xs font-medium rounded-full transition-all ${
-                  currentLang === lang
+                  locale === lang
                     ? "bg-primary text-primary-foreground"
                     : "text-muted-foreground hover:text-foreground"
                 }`}
               >
-                {lang}
+                {localeFlags[lang as Locale]}
               </button>
             ))}
           </div>
-          <Button 
+          <Button
             asChild
             className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-6"
           >
-            <Link href="#contact">Book Consultation</Link>
+            <Link href="#contact">{t("bookConsultation")}</Link>
           </Button>
         </div>
 
@@ -107,25 +109,25 @@ export function Header() {
             ))}
             <div className="pt-4 border-t border-border">
               <div className="flex items-center gap-2 mb-4">
-                {languages.map((lang) => (
+                {locales.map((lang) => (
                   <button
                     key={lang}
-                    onClick={() => setCurrentLang(lang)}
+                    onClick={() => setLocale(lang as Locale)}
                     className={`px-4 py-2 text-sm font-medium rounded-full transition-all ${
-                      currentLang === lang
+                      locale === lang
                         ? "bg-primary text-primary-foreground"
                         : "border border-border text-muted-foreground"
                     }`}
                   >
-                    {lang}
+                    {localeFlags[lang as Locale]}
                   </button>
                 ))}
               </div>
-              <Button 
+              <Button
                 asChild
                 className="w-full bg-primary text-primary-foreground hover:bg-primary/90 rounded-full"
               >
-                <Link href="#contact">Book Consultation</Link>
+                <Link href="#contact">{t("bookConsultation")}</Link>
               </Button>
             </div>
           </div>

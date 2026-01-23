@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "title": "Diana Raluca | Cabinet de Psihologie",
+    "description": "Servicii profesionale de psihologie oferind EMDR, Mindfulness, NLP și diverse abordări terapeutice pentru anxietate, depresie, traumă și multe altele."
+  },
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre",
+    "services": "Servicii",
+    "therapies": "Terapii",
+    "contact": "Contact",
+    "conditions": "Afecțiuni",
+    "bookConsultation": "Programare"
+  },
+  "hero": {
+    "tagline": "Servicii Profesionale de Psihologie",
+    "titleStart": "Călătoria Ta către",
+    "titleHighlight": "Bunăstarea Mintală",
+    "titleEnd": "Începe Aici",
+    "description": "Recunoaștem că viața prezintă provocări complexe și ne dedicăm să te asistăm în călătoria ta către o minte sănătoasă. Oferim abordări noi în îngrijirea sănătății mintale într-un mediu cald, deschis și fără judecată.",
+    "bookConsultation": "Programează o Consultație",
+    "exploreServices": "Explorează Serviciile",
+    "yearsExperience": "Ani de Experiență",
+    "clientsHelped": "Clienți Ajutați",
+    "languages": "Limbi",
+    "scroll": "Derulează"
+  },
+  "about": {
+    "tagline": "Despre Mine",
+    "titleStart": "Dedicată",
+    "titleHighlight": "Sănătății Tale Mintale",
+    "titleEnd": "",
+    "description": "Cu peste 15 ani de experiență în psihologia clinică, sunt dedicată să ofer terapie personalizată, bazată pe dovezi, care abordează provocările tale unice. Abordarea mea integrează multiple modalități terapeutice pentru a crea un plan de tratament comprehensiv, adaptat special pentru tine.",
+    "yearsOfExcellence": "Ani de Excelență",
+    "qualifications": {
+      "title": "Calificări",
+      "items": [
+        "Psiholog Clinician Licențiat",
+        "Practician Certificat EMDR",
+        "Master Practician NLP Certificat",
+        "Specialist în Terapia de Familie și Cuplu",
+        "Expert în Terapia Bazată pe Mindfulness"
+      ]
+    },
+    "values": {
+      "compassionateCare": {
+        "title": "Îngrijire Compasivă",
+        "description": "Fiecare sesiune este abordată cu empatie, înțelegere și grijă autentică pentru bunăstarea ta."
+      },
+      "evidenceBased": {
+        "title": "Metode Bazate pe Dovezi",
+        "description": "Utilizarea unor abordări terapeutice dovedite științific, adaptate nevoilor tale unice."
+      },
+      "confidential": {
+        "title": "Confidențial și Sigur",
+        "description": "Un mediu securizat, fără judecată, unde îți poți explora gândurile și sentimentele în libertate."
+      }
+    },
+    "vision": "Pentru a ne atinge viziunea, ne vom angaja față de misiunea și obiectivele noastre, ghidați de valorile noastre",
+    "mission": "Să oferim un mediu sigur și suportiv care promovează relații de colaborare"
+  },
+  "services": {
+    "tagline": "Domenii de Expertiză",
+    "titleStart": "Tratament Specializat pentru",
+    "titleHighlight": "Provocările Sănătății Mintale",
+    "titleEnd": "",
+    "description": "Oferim servicii psihologice comprehensive pentru o gamă largă de afecțiuni, folosind abordări terapeutice bazate pe dovezi.",
+    "learnMore": "Află Mai Multe",
+    "scheduleConsultation": "Programează Consultația",
+    "disorders": {
+      "anxiety": {
+        "title": "Tulburări de Anxietate",
+        "description": "Tratament comprehensive pentru anxietatea generalizată, atacurile de panică, anxietatea socială și fobii, folosind tehnici terapeutice dovedite."
+      },
+      "depression": {
+        "title": "Depresie",
+        "description": "Abordări bazate pe dovezi pentru a te ajuta să depășești depresia, să recapeți motivația și să redescoperi bucuria în viața de zi cu zi."
+      },
+      "trauma": {
+        "title": "Traumă și PTSD",
+        "description": "Terapie EMDR specializată și tratament focusat pe traumă pentru a ajuta la procesarea experiențelor dificile și găsirea vindecării."
+      },
+      "relationships": {
+        "title": "Probleme de Relație",
+        "description": "Consiliere individuală și de cuplu pentru a îmbunătăți comunicarea, rezolva conflictele și construi conexiuni mai puternice."
+      },
+      "stress": {
+        "title": "Gestionarea Stresului",
+        "description": "Învață strategii eficiente de coping, tehnici de mindfulness și schimbări în stilul de viață pentru a gestiona stresul cronic."
+      },
+      "personalGrowth": {
+        "title": "Dezvoltare Personală",
+        "description": "Explorează-ți potențialul, construiește-ți stima de sine și dezvoltă inteligența emoțională pentru o viață mai împlinită."
+      },
+      "addiction": {
+        "title": "Dependență",
+        "description": "Tratament suportiv pentru dependențele de substanțe și comportamentale, concentrat pe recuperare și schimbare sustenabilă."
+      },
+      "eatingDisorders": {
+        "title": "Tulburări de Alimentație",
+        "description": "Îngrijire specializată pentru anorexie, bulimie, alimentație compulsivă și alte provocări legate de alimentație."
+      },
+      "perinatal": {
+        "title": "Tulburări de Dispoziție Perinatale",
+        "description": "Suport pentru sănătatea mintală în sarcină și postpartum, inclusiv depresia și anxietatea."
+      },
+      "grief": {
+        "title": "Doliu și Pierdere",
+        "description": "Suport compasiv în doliu și tranziții de viață."
+      },
+      "bipolar": {
+        "title": "Tulburare Bipolară",
+        "description": "Management comprehensiv al episoadelor de dispoziție și stabilitate pe termen lung."
+      },
+      "adhd": {
+        "title": "ADHD",
+        "description": "Evaluare și tratament pentru provocările de atenție și hiperactivitate la adulți și adolescenți."
+      },
+      "attachment": {
+        "title": "Tulburare de Atașament",
+        "description": "Vindecarea rănilor de atașament și construirea unor pattern-uri de relație sigure."
+      },
+      "personality": {
+        "title": "Tulburări de Personalitate",
+        "description": "Terapie specializată pentru pattern-uri emoționale complexe și dificultăți interpersonale."
+      },
+      "sexualDysfunction": {
+        "title": "Disfuncții Sexuale",
+        "description": "Suport sensibil și profesional pentru preocupări legate de sănătatea sexuală."
+      },
+      "mensMentalHealth": {
+        "title": "Sănătatea Mintală a Bărbaților",
+        "description": "Abordarea provocărilor unice de sănătate mintală cu care se confruntă bărbații într-un mediu suportiv."
+      },
+      "selfEsteem": {
+        "title": "Stimă de Sine",
+        "description": "Construirea încrederii și a unei imagini de sine pozitive prin suport terapeutic."
+      }
+    }
+  },
+  "therapies": {
+    "tagline": "Abordări Terapeutice",
+    "titleStart": "Terapii",
+    "titleHighlight": "Bazate pe Dovezi",
+    "titleEnd": "pentru Schimbare Durabilă",
+    "description": "Fiecare plan de tratament este personalizat, combinând multiple modalități terapeutice pentru a aborda nevoile și obiectivele tale specifice.",
+    "bottomNote": "Nu ești sigur ce abordare este potrivită pentru tine? În timpul consultației inițiale, vom discuta preocupările tale și vom crea împreună un plan de tratament personalizat.",
+    "items": {
+      "emdr": {
+        "name": "Terapia EMDR",
+        "description": "Desensibilizarea și Reprocesarea prin Mișcări Oculare - un tratament puternic pentru traumă și PTSD care ajută creierul să proceseze amintirile tulburătoare."
+      },
+      "mindfulness": {
+        "name": "Terapia Bazată pe Mindfulness",
+        "description": "Integrează practicile de mindfulness în călătoria ta de vindecare, dezvoltând conștientizarea momentului prezent și abilitățile de reglare emoțională."
+      },
+      "cbt": {
+        "name": "Terapia Cognitiv-Comportamentală",
+        "description": "O abordare structurată, orientată spre obiective, care ajută la identificarea și schimbarea pattern-urilor negative de gândire și comportament."
+      },
+      "nlp": {
+        "name": "Tehnici NLP",
+        "description": "Metode de Programare Neuro-Lingvistică pentru a transforma credințele limitante și a crea schimbări comportamentale pozitive."
+      },
+      "family": {
+        "name": "Terapia de Familie",
+        "description": "Abordează dinamicile familiale, îmbunătățește comunicarea și întărește relațiile în cadrul sistemului familial."
+      },
+      "couples": {
+        "name": "Consilierea de Cuplu",
+        "description": "Construiește conexiuni mai puternice, rezolvă conflictele și dezvoltă pattern-uri de comunicare sănătoase cu partenerul tău."
+      },
+      "positivePsychotherapy": {
+        "name": "Psihoterapia Pozitivă și Transculturală",
+        "description": "O abordare umanistă care integrează psihologia pozitivă cu înțelegerea transculturală pentru vindecare holistică."
+      },
+      "systemicConstellation": {
+        "name": "Constelații Familiale Sistemice",
+        "description": "Dezvăluie dinamicile ascunse în sistemele familiale și structurile organizaționale pentru înțelegere și rezoluție mai profundă."
+      },
+      "solutionFocused": {
+        "name": "Terapia Focusată pe Soluții",
+        "description": "O abordare scurtă, orientată spre obiective, care se concentrează pe soluții în loc de probleme pentru a crea schimbare pozitivă rapidă."
+      },
+      "identityTrauma": {
+        "name": "Terapia Traumei Orientată pe Identitate",
+        "description": "Abordare specializată care tratează modul în care trauma afectează identitatea și simțul de sine."
+      },
+      "schemaTherapy": {
+        "name": "Terapia Schemelor",
+        "description": "Abordare integrativă pentru pattern-uri emoționale adânc înrădăcinate și probleme legate de personalitate."
+      },
+      "dbt": {
+        "name": "DBT",
+        "description": "Terapia Dialectică Comportamentală combinând tehnici cognitiv-comportamentale cu practici de mindfulness."
+      },
+      "act": {
+        "name": "ACT",
+        "description": "Terapia Acceptării și Angajamentului focusată pe flexibilitatea psihologică și trăirea bazată pe valori."
+      }
+    }
+  },
+  "contact": {
+    "tagline": "Contactează-ne",
+    "titleStart": "Începe-ți",
+    "titleHighlight": "Călătoria de Vindecare",
+    "titleEnd": "Astăzi",
+    "description": "Fă primul pas către bunăstarea mintală. Contactează-ne pentru o consultație confidențială și descoperă cum putem lucra împreună.",
+    "phone": "Telefon",
+    "email": "Email",
+    "location": "Locație",
+    "hours": "Program",
+    "hoursValue": "Luni-Vineri: 9:00 - 18:00",
+    "availableIn": "Disponibil în",
+    "romanian": "Română",
+    "german": "Germană",
+    "english": "Engleză",
+    "form": {
+      "fullName": "Nume Complet",
+      "yourName": "Numele tău",
+      "emailAddress": "Adresă Email",
+      "emailPlaceholder": "email@exemplu.com",
+      "phoneNumber": "Număr de Telefon",
+      "phonePlaceholder": "+40 700 000 000",
+      "yourMessage": "Mesajul Tău",
+      "messagePlaceholder": "Spune-ne pe scurt ce te aduce aici...",
+      "sendMessage": "Trimite Mesajul",
+      "sending": "Se trimite...",
+      "privacyNotice": "Informațiile tale sunt confidențiale și vor fi folosite doar pentru a răspunde la solicitarea ta.",
+      "successMessage": "Mulțumim pentru mesaj. Te vom contacta în curând!"
+    }
+  },
+  "footer": {
+    "brandDescription": "Dedicată să ghidez indivizii către bunăstarea mintală prin abordări terapeutice bazate pe dovezi și îngrijire compasivă.",
+    "quickLinks": "Linkuri Rapide",
+    "services": "Servicii",
+    "contact": "Contact",
+    "anxietyTreatment": "Tratament Anxietate",
+    "depressionTherapy": "Terapie Depresie",
+    "traumaPTSD": "Traumă și PTSD",
+    "couplesCounseling": "Consiliere de Cuplu",
+    "groupPrograms": "Programe de Grup",
+    "allRightsReserved": "Toate drepturile rezervate.",
+    "privacyPolicy": "Politica de Confidențialitate",
+    "termsOfService": "Termeni și Condiții",
+    "impressum": "Impressum"
+  },
+  "conditions": {
+    "anxiety": {
+      "title": "Anxietate",
+      "subtitle": "Înțelegerea și Depășirea Anxietății",
+      "intro": "Anxietatea este mecanismul instinctiv de protecție al corpului tău. Când percepi pericol, creierul tău trimite semnale care activează răspunsul de luptă sau fugă, ajutându-te să supraviețuiești în situații potențial amenințătoare pentru viață.",
+      "symptoms": {
+        "title": "Simptome Principale",
+        "items": [
+          "Îngrijorare intensă legată de situații cotidiene",
+          "Pierderea controlului asupra gândurilor și sentimentelor",
+          "Detașare de corp sau de împrejurimi",
+          "Catastrofizare și așteptarea celui mai rău",
+          "Tensiune fizică și agitație"
+        ]
+      },
+      "types": {
+        "title": "Tipuri de Anxietate",
+        "gad": {
+          "name": "Tulburare de Anxietate Generalizată (GAD)",
+          "description": "Îngrijorare persistentă și excesivă despre diverse aspecte ale vieții cotidiene."
+        },
+        "ocd": {
+          "name": "Tulburare Obsesiv-Compulsivă (TOC)",
+          "description": "Gânduri recurente, nedorite și comportamente repetitive."
+        },
+        "social": {
+          "name": "Anxietate Socială",
+          "description": "Teamă intensă de situații sociale și de a fi judecat de alții."
+        },
+        "separation": {
+          "name": "Anxietate de Separare",
+          "description": "Teamă excesivă de a fi separat de figurile de atașament."
+        },
+        "panic": {
+          "name": "Tulburare de Panică",
+          "description": "Episoade bruște, intense de frică cu simptome fizice."
+        },
+        "agoraphobia": {
+          "name": "Agorafobie",
+          "description": "Teamă de situații unde evadarea ar putea fi dificilă."
+        },
+        "specific": {
+          "name": "Fobii Specifice",
+          "description": "Teamă intensă de obiecte sau situații specifice."
+        },
+        "health": {
+          "name": "Anxietate de Sănătate",
+          "description": "Îngrijorare excesivă privind existența unei boli grave."
+        }
+      },
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+    },
+    "depression": {
+      "title": "Depresie",
+      "subtitle": "Înțelegerea Depresiei",
+      "intro": "Depresia este mai mult decât tristețe. Este o stare persistentă de abătere, sentimente de lipsă de valoare, amorțeală și vinovăție care afectează modul în care gândești, simți și gestionezi activitățile zilnice.",
+      "symptoms": {
+        "title": "Simptome Principale",
+        "items": [
+          "Dispoziție tristă sau goală persistentă",
+          "Pierderea interesului pentru activități care odată îți plăceau",
+          "Modificări ale apetitului și pattern-urilor de somn",
+          "Oboseală și energie scăzută",
+          "Dificultăți de concentrare și luarea deciziilor",
+          "Sentimente de deznădejde sau lipsă de valoare"
+        ]
+      },
+      "types": {
+        "title": "Tipuri de Depresie",
+        "major": {
+          "name": "Depresie Majoră",
+          "description": "Simptome severe care interferează cu funcționarea zilnică."
+        },
+        "dysthymic": {
+          "name": "Tulburare Distimică",
+          "description": "Depresie cronică, mai puțin severă, care durează doi ani sau mai mult."
+        },
+        "bipolar": {
+          "name": "Tulburare Bipolară",
+          "description": "Cicluri de depresie alternând cu perioade de dispoziție elevată."
+        },
+        "perinatal": {
+          "name": "Depresie Perinatală/Postnatală",
+          "description": "Depresie care apare în timpul sarcinii sau după naștere."
+        },
+        "sad": {
+          "name": "Tulburare Afectivă Sezonieră (SAD)",
+          "description": "Depresie legată de schimbările sezoniere, de obicei iarna."
+        }
+      },
+      "statistics": "Aproape 10% dintre femei experimentează depresie în timpul sarcinii; aceasta crește la 16% în primele 3 luni după naștere. Tulburarea bipolară afectează aproximativ 2% din populație.",
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+    },
+    "trauma": {
+      "title": "Traumă",
+      "subtitle": "Înțelegerea și Vindecarea Traumei",
+      "intro": "Trauma este o rană psihologică rezultată din evenimente înfricoșătoare sau tulburătoare. Poate afecta modul în care gândești, simți și te relaționezi cu ceilalți mult timp după ce evenimentul a trecut.",
+      "symptoms": {
+        "title": "Semne Emoționale",
+        "items": [
+          "Frică și hipervigilență",
+          "Durere și tristețe",
+          "Vinovăție și rușine",
+          "Furie și iritabilitate",
+          "Anxietate și panică",
+          "Amorțeală emoțională",
+          "Dificultăți de somn și coșmaruri"
+        ]
+      },
+      "types": {
+        "title": "Tipuri de Traumă",
+        "acute": {
+          "name": "Traumă Acută",
+          "description": "Rezultă dintr-un singur eveniment cu efecte temporare."
+        },
+        "chronic": {
+          "name": "Traumă Cronică",
+          "description": "Rezultă din expunerea repetată la evenimente stresante."
+        },
+        "complex": {
+          "name": "Traumă Complexă",
+          "description": "Rezultă din multiple evenimente traumatice, adesea interpersonale."
+        }
+      },
+      "ptsdNote": "Trauma se poate dezvolta în PTSD (Tulburare de Stres Post-Traumatic) când simptomele persistă și afectează semnificativ viața de zi cu zi.",
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+    }
+  },
+  "legal": {
+    "impressum": {
+      "title": "Impressum",
+      "responsiblePerson": "Persoană Responsabilă",
+      "professionalTitle": "Titlu Profesional",
+      "professionalTitleValue": "Psihoterapeut Licențiat (Heilpraktikerin für Psychotherapie)",
+      "issuedBy": "Emis de",
+      "issuedByValue": "Gesundheitsamt Ingolstadt",
+      "germanAddress": "Adresa din Germania",
+      "romanianAddress": "Adresa din România",
+      "taxInfo": "Informații Fiscale",
+      "copyright": "Drept de Autor",
+      "copyrightText": "Tot conținutul creat de operatorii site-ului este supus legii germane a drepturilor de autor. Nu se permite reproducerea fără permisiunea scrisă."
+    },
+    "privacy": {
+      "title": "Politica de Confidențialitate",
+      "intro": "Luăm în serios confidențialitatea ta. Această politică descrie modul în care colectăm, folosim și protejăm informațiile tale personale.",
+      "dataCollection": "Colectarea Datelor",
+      "cookies": "Cookie-uri și Sesiuni",
+      "serverLogs": "Fișiere Jurnal Server",
+      "contactForm": "Date Formular de Contact",
+      "yourRights": "Drepturile Tale"
+    }
+  },
+  "whyDifferent": {
+    "title": "De Ce Sunt Diferită",
+    "tagline": "CRED CĂ SĂNĂTATEA TA MINTALĂ CONTEAZĂ",
+    "points": [
+      "Prioritizez bunăstarea clientului și abordez problemele trecute cu vederea",
+      "Revizuiesc continuu feedback-ul clienților",
+      "Analizez 8 forme de inteligență (naturalistă, interpersonală, intrapersonală, lingvistică, logico-matematică, corporală/kinestezică, muzicală, spațială)",
+      "Creez o experiență de bunăstare profesională, personală și compasivă",
+      "Ofer abilități pentru schimbare semnificativă"
+    ],
+    "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+  }
+}

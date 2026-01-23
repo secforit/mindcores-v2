@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "title": "Diana Raluca | Psychology Practice",
+    "description": "Professional psychology services offering EMDR, Mindfulness, NLP, and various therapeutic approaches for anxiety, depression, trauma, and more."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "therapies": "Therapies",
+    "contact": "Contact",
+    "conditions": "Conditions",
+    "bookConsultation": "Book Consultation"
+  },
+  "hero": {
+    "tagline": "Professional Psychology Services",
+    "titleStart": "Your Journey to",
+    "titleHighlight": "Mental Wellness",
+    "titleEnd": "Begins Here",
+    "description": "We recognize that life presents complex challenges, and we are dedicated to assisting you in your journey towards a healthy mind. We provide fresh approaches to mental health care in a warm, open and non-judgmental environment.",
+    "bookConsultation": "Book a Consultation",
+    "exploreServices": "Explore Services",
+    "yearsExperience": "Years Experience",
+    "clientsHelped": "Clients Helped",
+    "languages": "Languages",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "tagline": "About Me",
+    "titleStart": "Dedicated to Your",
+    "titleHighlight": "Mental Health",
+    "titleEnd": "Journey",
+    "description": "With over 15 years of experience in clinical psychology, I am committed to providing personalized, evidence-based therapy that addresses your unique challenges. My approach integrates multiple therapeutic modalities to create a comprehensive treatment plan tailored specifically for you.",
+    "yearsOfExcellence": "Years of Excellence",
+    "qualifications": {
+      "title": "Qualifications",
+      "items": [
+        "Licensed Clinical Psychologist",
+        "EMDR Certified Practitioner",
+        "Certified NLP Master Practitioner",
+        "Family & Couples Therapy Specialist",
+        "Mindfulness-Based Therapy Expert"
+      ]
+    },
+    "values": {
+      "compassionateCare": {
+        "title": "Compassionate Care",
+        "description": "Every session is approached with empathy, understanding, and genuine care for your wellbeing."
+      },
+      "evidenceBased": {
+        "title": "Evidence-Based Methods",
+        "description": "Utilizing scientifically proven therapeutic approaches tailored to your unique needs."
+      },
+      "confidential": {
+        "title": "Confidential & Safe",
+        "description": "A secure, judgment-free environment where you can explore your thoughts and feelings freely."
+      }
+    },
+    "vision": "To achieve our vision, we will commit to our mission and goals, be guided by our values",
+    "mission": "To provide a safe and supportive environment that fosters collaborative relationships"
+  },
+  "services": {
+    "tagline": "Areas of Expertise",
+    "titleStart": "Specialized Treatment for",
+    "titleHighlight": "Mental Health",
+    "titleEnd": "Challenges",
+    "description": "Offering comprehensive psychological services for a wide range of conditions, using evidence-based therapeutic approaches.",
+    "learnMore": "Learn More",
+    "scheduleConsultation": "Schedule Your Consultation",
+    "disorders": {
+      "anxiety": {
+        "title": "Anxiety Disorders",
+        "description": "Comprehensive treatment for generalized anxiety, panic attacks, social anxiety, and phobias using proven therapeutic techniques."
+      },
+      "depression": {
+        "title": "Depression",
+        "description": "Evidence-based approaches to help you overcome depression, regain motivation, and rediscover joy in everyday life."
+      },
+      "trauma": {
+        "title": "Trauma & PTSD",
+        "description": "Specialized EMDR therapy and trauma-focused treatment to help process difficult experiences and find healing."
+      },
+      "relationships": {
+        "title": "Relationship Issues",
+        "description": "Individual and couples counseling to improve communication, resolve conflicts, and build stronger connections."
+      },
+      "stress": {
+        "title": "Stress Management",
+        "description": "Learn effective coping strategies, mindfulness techniques, and lifestyle changes to manage chronic stress."
+      },
+      "personalGrowth": {
+        "title": "Personal Growth",
+        "description": "Explore your potential, build self-esteem, and develop emotional intelligence for a more fulfilling life."
+      },
+      "addiction": {
+        "title": "Addiction",
+        "description": "Supportive treatment for substance and behavioral addictions, focusing on recovery and sustainable change."
+      },
+      "eatingDisorders": {
+        "title": "Eating Disorders",
+        "description": "Specialized care for anorexia, bulimia, binge eating, and other eating-related challenges."
+      },
+      "perinatal": {
+        "title": "Perinatal Mood Disorders",
+        "description": "Support for pregnancy and postpartum mental health, including depression and anxiety."
+      },
+      "grief": {
+        "title": "Grief & Loss",
+        "description": "Compassionate support through bereavement and life transitions."
+      },
+      "bipolar": {
+        "title": "Bipolar Disorder",
+        "description": "Comprehensive management of mood episodes and long-term stability."
+      },
+      "adhd": {
+        "title": "ADHD",
+        "description": "Assessment and treatment for attention and hyperactivity challenges in adults and adolescents."
+      },
+      "attachment": {
+        "title": "Attachment Disorder",
+        "description": "Healing attachment wounds and building secure relationship patterns."
+      },
+      "personality": {
+        "title": "Personality Disorders",
+        "description": "Specialized therapy for complex personality patterns and interpersonal difficulties."
+      },
+      "sexualDysfunction": {
+        "title": "Sexual Dysfunctions",
+        "description": "Sensitive and professional support for sexual health concerns."
+      },
+      "mensMentalHealth": {
+        "title": "Men's Mental Health",
+        "description": "Addressing unique mental health challenges faced by men in a supportive environment."
+      },
+      "selfEsteem": {
+        "title": "Self-Esteem",
+        "description": "Building confidence and a positive self-image through therapeutic support."
+      }
+    }
+  },
+  "therapies": {
+    "tagline": "Therapeutic Approaches",
+    "titleStart": "Evidence-Based",
+    "titleHighlight": "Therapies",
+    "titleEnd": "for Lasting Change",
+    "description": "Each treatment plan is personalized, combining multiple therapeutic modalities to address your specific needs and goals.",
+    "bottomNote": "Not sure which approach is right for you? During your initial consultation, we will discuss your concerns and create a personalized treatment plan together.",
+    "items": {
+      "emdr": {
+        "name": "EMDR Therapy",
+        "description": "Eye Movement Desensitization and Reprocessing - a powerful treatment for trauma and PTSD that helps the brain process disturbing memories."
+      },
+      "mindfulness": {
+        "name": "Mindfulness-Based Therapy",
+        "description": "Integrate mindfulness practices into your healing journey, developing present-moment awareness and emotional regulation skills."
+      },
+      "cbt": {
+        "name": "Cognitive Behavioral Therapy",
+        "description": "A structured, goal-oriented approach that helps identify and change negative thought patterns and behaviors."
+      },
+      "nlp": {
+        "name": "NLP Techniques",
+        "description": "Neuro-Linguistic Programming methods to transform limiting beliefs and create positive behavioral changes."
+      },
+      "family": {
+        "name": "Family Therapy",
+        "description": "Address family dynamics, improve communication, and strengthen relationships within the family system."
+      },
+      "couples": {
+        "name": "Couples Counseling",
+        "description": "Build stronger connections, resolve conflicts, and develop healthy communication patterns with your partner."
+      },
+      "positivePsychotherapy": {
+        "name": "Positive and Transcultural Psychotherapy",
+        "description": "A humanistic approach that integrates positive psychology with transcultural understanding for holistic healing."
+      },
+      "systemicConstellation": {
+        "name": "Systemic Family Constellations",
+        "description": "Reveal hidden dynamics in family systems and organizational structures for deeper understanding and resolution."
+      },
+      "solutionFocused": {
+        "name": "Solution-Focused Therapy",
+        "description": "A brief, goal-directed approach that focuses on solutions rather than problems to create rapid positive change."
+      },
+      "identityTrauma": {
+        "name": "Identity-Oriented Trauma Therapy",
+        "description": "Specialized approach addressing how trauma affects identity and sense of self."
+      },
+      "schemaTherapy": {
+        "name": "Schema Therapy",
+        "description": "Integrative approach for deep-seated emotional patterns and personality-related issues."
+      },
+      "dbt": {
+        "name": "DBT",
+        "description": "Dialectical Behavior Therapy combining cognitive-behavioral techniques with mindfulness practices."
+      },
+      "act": {
+        "name": "ACT",
+        "description": "Acceptance and Commitment Therapy focusing on psychological flexibility and values-based living."
+      }
+    }
+  },
+  "contact": {
+    "tagline": "Get in Touch",
+    "titleStart": "Begin Your",
+    "titleHighlight": "Healing",
+    "titleEnd": "Journey Today",
+    "description": "Take the first step towards mental wellness. Reach out for a confidential consultation and discover how we can work together.",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "hours": "Hours",
+    "hoursValue": "Mon-Fri: 9:00 - 18:00",
+    "availableIn": "Available in",
+    "romanian": "Romanian",
+    "german": "German",
+    "english": "English",
+    "form": {
+      "fullName": "Full Name",
+      "yourName": "Your name",
+      "emailAddress": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "phoneNumber": "Phone Number",
+      "phonePlaceholder": "+40 700 000 000",
+      "yourMessage": "Your Message",
+      "messagePlaceholder": "Tell us briefly about what brings you here...",
+      "sendMessage": "Send Message",
+      "sending": "Sending...",
+      "privacyNotice": "Your information is confidential and will only be used to respond to your inquiry.",
+      "successMessage": "Thank you for your message. We will contact you soon!"
+    }
+  },
+  "footer": {
+    "brandDescription": "Dedicated to guiding individuals toward mental wellness through evidence-based therapeutic approaches and compassionate care.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "anxietyTreatment": "Anxiety Treatment",
+    "depressionTherapy": "Depression Therapy",
+    "traumaPTSD": "Trauma & PTSD",
+    "couplesCounseling": "Couples Counseling",
+    "groupPrograms": "Group Programs",
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "impressum": "Impressum"
+  },
+  "conditions": {
+    "anxiety": {
+      "title": "Anxiety",
+      "subtitle": "Understanding and Overcoming Anxiety",
+      "intro": "Anxiety is your body's instinctive protection mechanism. When you perceive danger, your brain sends signals that activate the fight-or-flight response, helping you survive in potentially life-threatening situations.",
+      "symptoms": {
+        "title": "Key Symptoms",
+        "items": [
+          "Intense worry about everyday situations",
+          "Loss of control over thoughts and feelings",
+          "Detachment from body or surroundings",
+          "Catastrophizing and expecting the worst",
+          "Physical tension and restlessness"
+        ]
+      },
+      "types": {
+        "title": "Types of Anxiety",
+        "gad": {
+          "name": "Generalized Anxiety Disorder (GAD)",
+          "description": "Persistent and excessive worry about various aspects of daily life."
+        },
+        "ocd": {
+          "name": "Obsessive-Compulsive Disorder (OCD)",
+          "description": "Recurring, unwanted thoughts and repetitive behaviors."
+        },
+        "social": {
+          "name": "Social Anxiety",
+          "description": "Intense fear of social situations and being judged by others."
+        },
+        "separation": {
+          "name": "Separation Anxiety",
+          "description": "Excessive fear of being separated from attachment figures."
+        },
+        "panic": {
+          "name": "Panic Disorder",
+          "description": "Sudden, intense episodes of fear with physical symptoms."
+        },
+        "agoraphobia": {
+          "name": "Agoraphobia",
+          "description": "Fear of situations where escape might be difficult."
+        },
+        "specific": {
+          "name": "Specific Phobias",
+          "description": "Intense fear of specific objects or situations."
+        },
+        "health": {
+          "name": "Health Anxiety",
+          "description": "Excessive worry about having a serious illness."
+        }
+      },
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+    },
+    "depression": {
+      "title": "Depression",
+      "subtitle": "Understanding Depression",
+      "intro": "Depression is more than just sadness. It's a persistent lowness, feelings of worthlessness, numbness, and guilt that affects how you think, feel, and handle daily activities.",
+      "symptoms": {
+        "title": "Key Symptoms",
+        "items": [
+          "Persistent sad or empty mood",
+          "Loss of interest in activities once enjoyed",
+          "Changes in appetite and sleep patterns",
+          "Fatigue and decreased energy",
+          "Difficulty concentrating and making decisions",
+          "Feelings of hopelessness or worthlessness"
+        ]
+      },
+      "types": {
+        "title": "Types of Depression",
+        "major": {
+          "name": "Major Depression",
+          "description": "Severe symptoms that interfere with daily functioning."
+        },
+        "dysthymic": {
+          "name": "Dysthymic Disorder",
+          "description": "Chronic, less severe depression lasting two years or more."
+        },
+        "bipolar": {
+          "name": "Bipolar Disorder",
+          "description": "Cycles of depression alternating with periods of elevated mood."
+        },
+        "perinatal": {
+          "name": "Perinatal/Postnatal Depression",
+          "description": "Depression occurring during pregnancy or after childbirth."
+        },
+        "sad": {
+          "name": "Seasonal Affective Disorder (SAD)",
+          "description": "Depression related to seasonal changes, typically winter."
+        }
+      },
+      "statistics": "Almost 10% of women experience depression during pregnancy; this increases to 16% in the first 3 months after birth. Bipolar disorder affects approximately 2% of the population.",
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+    },
+    "trauma": {
+      "title": "Trauma",
+      "subtitle": "Understanding and Healing Trauma",
+      "intro": "Trauma is a psychological wound resulting from frightening or disturbing events. It can affect how you think, feel, and relate to others long after the event has passed.",
+      "symptoms": {
+        "title": "Emotional Signs",
+        "items": [
+          "Fear and hypervigilance",
+          "Grief and sadness",
+          "Guilt and shame",
+          "Anger and irritability",
+          "Anxiety and panic",
+          "Emotional numbness",
+          "Sleep difficulties and nightmares"
+        ]
+      },
+      "types": {
+        "title": "Types of Trauma",
+        "acute": {
+          "name": "Acute Trauma",
+          "description": "Results from a single event with temporary effects."
+        },
+        "chronic": {
+          "name": "Chronic Trauma",
+          "description": "Results from repeated exposure to distressing events."
+        },
+        "complex": {
+          "name": "Complex Trauma",
+          "description": "Results from multiple traumatic events, often interpersonal."
+        }
+      },
+      "ptsdNote": "Trauma can develop into PTSD (Post-Traumatic Stress Disorder) when symptoms persist and significantly impact daily life.",
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+    }
+  },
+  "legal": {
+    "impressum": {
+      "title": "Impressum",
+      "responsiblePerson": "Responsible Person",
+      "professionalTitle": "Professional Title",
+      "professionalTitleValue": "Licensed Psychotherapist (Heilpraktikerin für Psychotherapie)",
+      "issuedBy": "Issued by",
+      "issuedByValue": "Gesundheitsamt Ingolstadt",
+      "germanAddress": "German Address",
+      "romanianAddress": "Romanian Address",
+      "taxInfo": "Tax Information",
+      "copyright": "Copyright Notice",
+      "copyrightText": "All content created by site operators is subject to German copyright law. No reproduction without written permission."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "We take your privacy seriously. This policy describes how we collect, use, and protect your personal information.",
+      "dataCollection": "Data Collection",
+      "cookies": "Cookies and Sessions",
+      "serverLogs": "Server Log Files",
+      "contactForm": "Contact Form Data",
+      "yourRights": "Your Rights"
+    }
+  },
+  "whyDifferent": {
+    "title": "Why I Am Different",
+    "tagline": "I BELIEVE YOUR MENTAL HEALTH MATTERS",
+    "points": [
+      "Priorities client wellbeing and addresses overlooked issues",
+      "Continuously reviews client feedback",
+      "Looks at 8 forms of intelligence (naturalistic, interpersonal, intrapersonal, linguistic, logic-mathematical, bodily/kinesthetic, musical, spatial)",
+      "Creates professional, personal, compassionate wellbeing experience",
+      "Provides skills for meaningful change"
+    ],
+    "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+  }
+}
