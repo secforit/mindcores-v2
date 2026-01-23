@@ -113,15 +113,16 @@ export function Footer() {
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-primary shrink-0" />
                 <a
-                  href="mailto:contact@dianaraluca.com"
+                  href="mailto:contact@mindcores.org"
                   className="text-sm text-background/70 hover:text-primary transition-colors"
                 >
-                  contact@dianaraluca.com
+                  contact@mindcores.org
                 </a>
               </li>
             </ul>
           </div>
         </div>
+
 
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-background/10">

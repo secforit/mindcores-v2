@@ -74,7 +74,7 @@ export default async function PrivacyPage() {
                 <li>Withdraw consent at any time</li>
               </ul>
               <p className="text-muted-foreground mt-4">
-                To exercise these rights, please contact us at contact@dianaraluca.com
+                To exercise these rights, please contact us at contact@mindcores.org
               </p>
             </section>
           </div>

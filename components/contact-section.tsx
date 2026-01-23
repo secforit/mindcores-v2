@@ -28,13 +28,13 @@ const contactInfoItems: ContactInfoItem[] = [
   {
     key: "email",
     icon: Mail,
-    value: "contact@dianaraluca.com",
-    href: "mailto:contact@dianaraluca.com",
+    value: "contact@mindcores.",
+    href: "mailto:contact@mindcores.org",
   },
   {
     key: "location",
     icon: MapPin,
-    value: "Bucharest, Romania",
+    value: "Arad, Romania",
     href: "#",
   },
   {

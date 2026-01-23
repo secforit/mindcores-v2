@@ -35,7 +35,7 @@ export function AboutSection() {
               <div className="absolute inset-0 flex items-center justify-center">
                 <Image
                   src="/logo.png"
-                  alt="Diana Raluca"
+                  alt="Diana Raluca "
                   width={200}
                   height={200}
                   className="opacity-20"
