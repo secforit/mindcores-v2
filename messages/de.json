@@ -18,6 +18,7 @@
     "titleHighlight": "Psychischen Wohlbefinden",
     "titleEnd": "Beginnt Hier",
     "description": "Wir erkennen, dass das Leben komplexe Herausforderungen mit sich bringt, und wir widmen uns der Unterstützung auf Ihrem Weg zu einem gesunden Geist. Wir bieten frische Ansätze für die psychische Gesundheitsversorgung in einer warmen, offenen und wertfreien Umgebung.",
+    "heroIntro": "Professionelle Unterstützung für Ihre psychische Gesundheit in einer warmen, wertfreien Umgebung.",
     "bookConsultation": "Beratung Buchen",
     "exploreServices": "Leistungen Entdecken",
     "yearsExperience": "Jahre Erfahrung",
@@ -30,18 +31,18 @@
     "titleStart": "Dipl. Psych.",
     "titleHighlight": "Raluca Diana Tocoian",
     "titleEnd": "",
-    "description": "Als Heilpraktikerin für Psychotherapie widme ich mich der Begleitung von Menschen auf ihrem Weg zu psychischer Gesundheit durch evidenzbasierte therapeutische Ansätze. Mit Expertise in Identitätsorientierter Traumatherapie, EMDR und verschiedenen integrativen Methoden biete ich personalisierte Betreuung in einer warmen, unterstützenden Umgebung. Beratungen biete ich auf Deutsch, Rumänisch und Englisch an.",
+    "description": "Als Heilpraktikerin für Psychotherapie widme ich mich der Begleitung von Menschen auf ihrem Weg zu psychischer Gesundheit durch evidenzbasierte therapeutische Ansätze. Mit vertieften Kenntnissen in Schema-Therapie, ACT, DBT und Ausbildung in IoPT 'Identitätsorientierte Psychotrauma-Theorie' entwickelt von Prof. Dr. Franz Ruppert durch die Intentions-Methode, biete ich personalisierte Betreuung in einer warmen, unterstützenden Umgebung. Beratungen biete ich auf Deutsch, Rumänisch und Englisch an.",
     "yearsOfExcellence": "Jahre Exzellenz",
     "qualifications": {
       "title": "Qualifikationen",
       "items": [
         "Heilpraktikerin für Psychotherapie",
-        "Spezialistin für Identitätsorientierte Traumatherapie",
-        "Zertifizierte EMDR-Praktikerin",
+        "Spezialistin für Identitätsorientierte Traumatherapie (IoPT)",
         "Positive & Transkulturelle Psychotherapie",
         "Systemische Familien- und Paartherapie",
         "Zertifizierte NLP Master Practitioner",
-        "Schema-Therapie & DBT ausgebildet"
+        "Psychosexualitätsberatung",
+        "Schema-Therapie, ACT & DBT ausgebildet"
       ]
     },
     "values": {
@@ -525,7 +526,8 @@
     "privacyPolicy": "Datenschutz",
     "termsOfService": "Nutzungsbedingungen",
     "impressum": "Impressum",
-    "professionalLicense": "Zugelassen durch Gesundheitsamt Ingolstadt"
+    "professionalLicense": "Zugelassen durch Gesundheitsamt Ingolstadt",
+    "accreditations": "Akkreditiert von CPR Rumänien | Anerkannt von BDP Deutschland | Mitglied WAPP, IoPT, NLP | Mitglied VFP (Deutschland)"
   },
   "conditions": {
     "anxiety": {

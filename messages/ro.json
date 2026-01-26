@@ -18,6 +18,7 @@
     "titleHighlight": "Bunăstarea Mintală",
     "titleEnd": "Începe Aici",
     "description": "Recunoaștem că viața prezintă provocări complexe și ne dedicăm să te asistăm în călătoria ta către o minte sănătoasă. Oferim abordări noi în îngrijirea sănătății mintale într-un mediu cald, deschis și fără judecată.",
+    "heroIntro": "Oferim suport profesional pentru sănătatea ta mintală într-un mediu cald și fără judecată.",
     "bookConsultation": "Programează o Consultație",
     "exploreServices": "Explorează Serviciile",
     "yearsExperience": "Ani de Experiență",
@@ -30,18 +31,18 @@
     "titleStart": "Dipl. Psih.",
     "titleHighlight": "Raluca Diana Tocoian",
     "titleEnd": "",
-    "description": "Ca psihoterapeut autorizat (Heilpraktikerin für Psychotherapie), sunt dedicată să ghidez indivizii către sănătate mintală prin abordări terapeutice bazate pe dovezi. Cu expertiză în Terapia Traumei Orientată pe Identitate, EMDR și diverse metode integrative, ofer îngrijire personalizată într-un mediu cald și suportiv. Ofer consultații în germană, română și engleză.",
+    "description": "Ca psihoterapeut autorizat (Heilpraktikerin für Psychotherapie), sunt dedicată să ghidez indivizii către sănătate mintală prin abordări terapeutice bazate pe dovezi. Cu cunoștințe aprofundate în Terapia Schemelor, ACT, DBT și formare în IoPT 'Teoria Psihotraumei Orientată spre Identitate' dezvoltată de Prof. Dr. Franz Ruppert prin Metoda Intenției, ofer îngrijire personalizată într-un mediu cald și suportiv. Ofer consultații în germană, română și engleză.",
     "yearsOfExcellence": "Ani de Excelență",
     "qualifications": {
       "title": "Calificări",
       "items": [
         "Psihoterapeut Autorizat (Heilpraktikerin für Psychotherapie)",
-        "Specialist în Terapia Traumei Orientată pe Identitate",
-        "Practician Certificat EMDR",
+        "Specialist în Terapia Traumei Orientată pe Identitate (IoPT)",
         "Psihoterapie Pozitivă & Transculturală",
         "Terapie Sistemică de Familie și Cuplu",
         "Master Practician NLP Certificat",
-        "Formată în Terapia Schemelor & DBT"
+        "Consiliere în Psihosexualitate",
+        "Formată în Terapia Schemelor, ACT & DBT"
       ]
     },
     "values": {
@@ -525,7 +526,8 @@
     "privacyPolicy": "Politica de Confidențialitate",
     "termsOfService": "Termeni și Condiții",
     "impressum": "Impressum",
-    "professionalLicense": "Autorizată de Gesundheitsamt Ingolstadt"
+    "professionalLicense": "Autorizată de Gesundheitsamt Ingolstadt",
+    "accreditations": "Acreditată de CPR România | Recunoscută de BDP Germania | Membru WAPP, IoPT, NLP | Membru VFP (Germania)"
   },
   "conditions": {
     "anxiety": {

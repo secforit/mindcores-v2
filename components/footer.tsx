@@ -52,6 +52,9 @@ export function Footer() {
               <Award className="h-4 w-4 text-primary" />
               <span>{t("professionalLicense")}</span>
             </div>
+            <div className="text-xs text-background/50 leading-relaxed mt-2">
+              {t("accreditations")}
+            </div>
           </div>
 
           {/* Quick Links */}

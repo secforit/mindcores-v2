@@ -18,6 +18,7 @@
     "titleHighlight": "Mental Wellness",
     "titleEnd": "Begins Here",
     "description": "We recognize that life presents complex challenges, and we are dedicated to assisting you in your journey towards a healthy mind. We provide fresh approaches to mental health care in a warm, open and non-judgmental environment.",
+    "heroIntro": "Providing professional mental health support in a warm, non-judgmental environment.",
     "bookConsultation": "Book a Consultation",
     "exploreServices": "Explore Services",
     "yearsExperience": "Years Experience",
@@ -30,18 +31,18 @@
     "titleStart": "Dipl. Psych.",
     "titleHighlight": "Raluca Diana Tocoian",
     "titleEnd": "",
-    "description": "As a licensed psychotherapist (Heilpraktikerin für Psychotherapie), I am dedicated to guiding individuals toward mental wellness through evidence-based therapeutic approaches. With expertise in Identity-Oriented Trauma Therapy, EMDR, and various integrative methods, I provide personalized care in a warm, supportive environment. I offer consultations in German, Romanian, and English.",
+    "description": "As a licensed psychotherapist (Heilpraktikerin für Psychotherapie), I am dedicated to guiding individuals toward mental wellness through evidence-based therapeutic approaches. With advanced knowledge in Schema Therapy, ACT, DBT, and training in IoPT 'Identity-Oriented Psychotrauma Theory' developed by Prof. Dr. Franz Ruppert through the Intention Method, I provide personalized care in a warm, supportive environment. I offer consultations in German, Romanian, and English.",
     "yearsOfExcellence": "Years of Excellence",
     "qualifications": {
       "title": "Qualifications",
       "items": [
         "Licensed Psychotherapist (Heilpraktikerin für Psychotherapie)",
-        "Identity-Oriented Trauma Therapy Specialist",
-        "EMDR Certified Practitioner",
+        "Identity-Oriented Trauma Therapy (IoPT) Specialist",
         "Positive & Transcultural Psychotherapy",
         "Systemic Family & Couples Therapy",
         "Certified NLP Master Practitioner",
-        "Schema Therapy & DBT Trained"
+        "Psychosexuality Counseling",
+        "Schema Therapy, ACT & DBT Trained"
       ]
     },
     "values": {
@@ -525,7 +526,8 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
     "impressum": "Impressum",
-    "professionalLicense": "Licensed by Gesundheitsamt Ingolstadt"
+    "professionalLicense": "Licensed by Gesundheitsamt Ingolstadt",
+    "accreditations": "Accredited by CPR Romania | Recognized by BDP Germany | Member of WAPP, IoPT, NLP | Member VFP (Germany)"
   },
   "conditions": {
     "anxiety": {

@@ -28,25 +28,35 @@ export function AboutSection() {
     <section id="about" className="py-24 lg:py-32 bg-secondary/30">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
-          {/* Image Side */}
-          <div className="relative">
-            <div className="relative aspect-[4/5] rounded-2xl overflow-hidden bg-muted">
-              <Image
-                src="/diana-raluca.jpg"
-                alt="Dipl. Psych. Raluca Diana Tocoian"
-                fill
-                className="object-cover object-top"
-                priority
-              />
+          {/* Logo Side */}
+          <div className="relative flex items-center justify-center">
+            <div className="relative">
               {/* Decorative elements */}
-              <div className="absolute -bottom-6 -right-6 w-48 h-48 border-2 border-primary/30 rounded-2xl -z-10" />
-              <div className="absolute -top-6 -left-6 w-32 h-32 bg-primary/10 rounded-2xl -z-10" />
-            </div>
+              <div className="absolute -inset-8 bg-gradient-to-br from-primary/10 via-transparent to-primary/5 rounded-3xl blur-2xl" />
+              <div className="absolute -inset-4 border-2 border-primary/10 rounded-3xl" />
 
-            {/* Experience badge */}
-            <div className="absolute -bottom-8 left-8 bg-card shadow-xl rounded-xl p-6 border border-border">
-              <p className="text-4xl font-light text-primary">15+</p>
-              <p className="text-sm text-muted-foreground">{t("yearsOfExcellence")}</p>
+              {/* Logo container */}
+              <div className="relative bg-card/50 backdrop-blur-sm rounded-2xl p-12 border border-border shadow-xl">
+                <div className="relative w-48 h-48 sm:w-56 sm:h-56 lg:w-64 lg:h-64">
+                  <Image
+                    src="/logo.png"
+                    alt="Mindcores Logo"
+                    fill
+                    className="object-contain"
+                    priority
+                  />
+                </div>
+                <div className="text-center mt-6">
+                  <h3 className="text-2xl font-light text-foreground">Mindcores</h3>
+                  <p className="text-sm text-muted-foreground">Psychology Practice</p>
+                </div>
+              </div>
+
+              {/* Experience badge */}
+              <div className="absolute -bottom-4 -right-4 bg-card shadow-xl rounded-xl p-4 border border-border">
+                <p className="text-3xl font-light text-primary">15+</p>
+                <p className="text-xs text-muted-foreground">{t("yearsOfExcellence")}</p>
+              </div>
             </div>
           </div>
 
