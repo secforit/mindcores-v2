@@ -31,16 +31,13 @@ export function AboutSection() {
           {/* Image Side */}
           <div className="relative">
             <div className="relative aspect-[4/5] rounded-2xl overflow-hidden bg-muted">
-              {/* Placeholder for therapist photo */}
-              <div className="absolute inset-0 flex items-center justify-center">
-                <Image
-                  src="/logo.png"
-                  alt="Diana Raluca "
-                  width={200}
-                  height={200}
-                  className="opacity-20"
-                />
-              </div>
+              <Image
+                src="/diana-raluca.jpg"
+                alt="Dipl. Psych. Raluca Diana Tocoian"
+                fill
+                className="object-cover object-top"
+                priority
+              />
               {/* Decorative elements */}
               <div className="absolute -bottom-6 -right-6 w-48 h-48 border-2 border-primary/30 rounded-2xl -z-10" />
               <div className="absolute -top-6 -left-6 w-32 h-32 bg-primary/10 rounded-2xl -z-10" />

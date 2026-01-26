@@ -7,11 +7,21 @@ import { Card, CardContent } from "@/components/ui/card"
 import {
   ArrowRight,
   Brain,
-  Heart,
+  CloudRain,
   Shield,
   Users,
   Sparkles,
-  Leaf,
+  Flame,
+  Link2,
+  Zap,
+  Heart,
+  Utensils,
+  Flower2,
+  Baby,
+  HeartPulse,
+  User,
+  Activity,
+  Puzzle,
   type LucideIcon
 } from "lucide-react"
 
@@ -19,26 +29,61 @@ type DisorderKey =
   | "anxiety"
   | "depression"
   | "trauma"
+  | "addiction"
+  | "adhd"
+  | "attachment"
+  | "eatingDisorders"
+  | "grief"
   | "relationships"
   | "stress"
-  | "personalGrowth"
+  | "perinatal"
+  | "sexualDysfunction"
+  | "mensMentalHealth"
+  | "bipolar"
+  | "personality"
+  | "selfEsteem"
 
-const disorderIcons: Record<DisorderKey, LucideIcon> = {
-  anxiety: Brain,
-  depression: Heart,
-  trauma: Shield,
-  relationships: Users,
-  stress: Sparkles,
-  personalGrowth: Leaf,
+interface DisorderConfig {
+  icon: LucideIcon
+  href: string
+}
+
+const disorderConfig: Record<DisorderKey, DisorderConfig> = {
+  anxiety: { icon: Brain, href: "/conditions/anxiety" },
+  depression: { icon: CloudRain, href: "/conditions/depression" },
+  trauma: { icon: Shield, href: "/conditions/trauma" },
+  addiction: { icon: Link2, href: "/conditions/addiction" },
+  adhd: { icon: Zap, href: "/conditions/adhd" },
+  attachment: { icon: Heart, href: "/conditions/attachment" },
+  eatingDisorders: { icon: Utensils, href: "/conditions/eating-disorders" },
+  grief: { icon: Flower2, href: "/conditions/grief" },
+  relationships: { icon: Users, href: "/conditions/relationships" },
+  stress: { icon: Flame, href: "/conditions/stress" },
+  perinatal: { icon: Baby, href: "/conditions/perinatal" },
+  sexualDysfunction: { icon: HeartPulse, href: "/conditions/sexual-dysfunction" },
+  mensMentalHealth: { icon: User, href: "/conditions/mens-mental-health" },
+  bipolar: { icon: Activity, href: "/conditions/bipolar" },
+  personality: { icon: Puzzle, href: "/conditions/personality" },
+  selfEsteem: { icon: Sparkles, href: "/conditions/self-esteem" },
 }
 
 const disorderKeys: DisorderKey[] = [
   "anxiety",
   "depression",
   "trauma",
+  "addiction",
+  "adhd",
+  "attachment",
+  "eatingDisorders",
+  "grief",
   "relationships",
   "stress",
-  "personalGrowth",
+  "perinatal",
+  "sexualDysfunction",
+  "mensMentalHealth",
+  "bipolar",
+  "personality",
+  "selfEsteem",
 ]
 
 export function ServicesSection() {
@@ -63,27 +108,28 @@ export function ServicesSection() {
         </div>
 
         {/* Services Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {disorderKeys.map((key) => {
-            const Icon = disorderIcons[key]
+            const config = disorderConfig[key]
+            const Icon = config.icon
             return (
               <Card
                 key={key}
                 className="group bg-card border-border/50 hover:border-primary/30 transition-all duration-300 hover:shadow-lg"
               >
-                <CardContent className="p-8">
+                <CardContent className="p-6">
                   <div className="space-y-4">
                     <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                       <Icon className="h-6 w-6 text-primary" />
                     </div>
-                    <h3 className="text-xl font-medium text-foreground">
+                    <h3 className="text-lg font-medium text-foreground">
                       {t(`disorders.${key}.title`)}
                     </h3>
-                    <p className="text-muted-foreground leading-relaxed">
+                    <p className="text-sm text-muted-foreground leading-relaxed line-clamp-3">
                       {t(`disorders.${key}.description`)}
                     </p>
                     <Link
-                      href="#contact"
+                      href={config.href}
                       className="inline-flex items-center text-sm font-medium text-primary hover:text-primary/80 transition-colors"
                     >
                       {t("learnMore")}

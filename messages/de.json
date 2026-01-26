@@ -27,19 +27,21 @@
   },
   "about": {
     "tagline": "Über Mich",
-    "titleStart": "Gewidmet Ihrer",
-    "titleHighlight": "Psychischen Gesundheit",
+    "titleStart": "Dipl. Psych.",
+    "titleHighlight": "Raluca Diana Tocoian",
     "titleEnd": "",
-    "description": "Mit über 15 Jahren Erfahrung in der klinischen Psychologie bin ich der Bereitstellung personalisierter, evidenzbasierter Therapie verpflichtet, die Ihre einzigartigen Herausforderungen anspricht. Mein Ansatz integriert mehrere therapeutische Modalitäten, um einen umfassenden Behandlungsplan speziell für Sie zu erstellen.",
+    "description": "Als Heilpraktikerin für Psychotherapie widme ich mich der Begleitung von Menschen auf ihrem Weg zu psychischer Gesundheit durch evidenzbasierte therapeutische Ansätze. Mit Expertise in Identitätsorientierter Traumatherapie, EMDR und verschiedenen integrativen Methoden biete ich personalisierte Betreuung in einer warmen, unterstützenden Umgebung. Beratungen biete ich auf Deutsch, Rumänisch und Englisch an.",
     "yearsOfExcellence": "Jahre Exzellenz",
     "qualifications": {
       "title": "Qualifikationen",
       "items": [
-        "Approbierte Klinische Psychologin",
+        "Heilpraktikerin für Psychotherapie",
+        "Spezialistin für Identitätsorientierte Traumatherapie",
         "Zertifizierte EMDR-Praktikerin",
+        "Positive & Transkulturelle Psychotherapie",
+        "Systemische Familien- und Paartherapie",
         "Zertifizierte NLP Master Practitioner",
-        "Spezialistin für Familien- und Paartherapie",
-        "Expertin für Achtsamkeitsbasierte Therapie"
+        "Schema-Therapie & DBT ausgebildet"
       ]
     },
     "values": {
@@ -56,8 +58,8 @@
         "description": "Eine sichere, wertfreie Umgebung, in der Sie Ihre Gedanken und Gefühle frei erkunden können."
       }
     },
-    "vision": "Um unsere Vision zu erreichen, werden wir uns unserer Mission und unseren Zielen verpflichten, geleitet von unseren Werten",
-    "mission": "Eine sichere und unterstützende Umgebung zu schaffen, die kooperative Beziehungen fördert"
+    "vision": "Gesunde Gedanken durch kooperative Beziehungen und reflektierte Praxis zu erreichen",
+    "mission": "Eine sichere und unterstützende Umgebung zu schaffen, die kooperative Beziehungen fördert, um die besten Ergebnisse zu erzielen und auf gesunde Gedanken hinzuarbeiten"
   },
   "services": {
     "tagline": "Fachgebiete",
@@ -145,58 +147,331 @@
     "titleEnd": "für Dauerhafte Veränderung",
     "description": "Jeder Behandlungsplan ist personalisiert und kombiniert mehrere therapeutische Modalitäten, um Ihre spezifischen Bedürfnisse und Ziele anzusprechen.",
     "bottomNote": "Nicht sicher, welcher Ansatz für Sie richtig ist? Während Ihrer ersten Beratung besprechen wir Ihre Anliegen und erstellen gemeinsam einen personalisierten Behandlungsplan.",
+    "learnMore": "Mehr Erfahren",
     "items": {
       "emdr": {
         "name": "EMDR-Therapie",
-        "description": "Eye Movement Desensitization and Reprocessing - eine kraftvolle Behandlung für Trauma und PTBS, die dem Gehirn hilft, belastende Erinnerungen zu verarbeiten."
+        "description": "Eye Movement Desensitization and Reprocessing - eine kraftvolle Behandlung für Trauma und PTBS, die dem Gehirn hilft, belastende Erinnerungen zu verarbeiten.",
+        "fullTitle": "EMDR (Eye Movement Desensitization and Reprocessing) Therapie",
+        "intro": "Es ist bekannt, dass schwerer emotionaler Schmerz lange Zeit zur Heilung benötigt. EMDR ist eine Psychotherapie, die uns ermöglicht, von den Symptomen und emotionalen Belastungen zu heilen, die belastende Lebenserfahrungen verursacht haben. Diese Therapie zeigt, dass der Geist tatsächlich von psychologischen Traumata heilen kann, so wie der Körper sich von körperlichen Traumata erholt.",
+        "benefits": {
+          "title": "EMDR ist hilfreich bei",
+          "items": [
+            "PTBS oder traumatischen Ereignissen",
+            "Phobien",
+            "Zwangsstörungen",
+            "Depression",
+            "Angst",
+            "Trauer",
+            "Wiederkehrenden aufdringlichen Gedanken oder Erinnerungen",
+            "Belastenden Lebenserfahrungen"
+          ]
+        },
+        "recognition": "EMDR wird von der Weltgesundheitsorganisation (WHO) und der American Psychiatric Association (APA) als Goldstandard-Behandlung für PTBS anerkannt.",
+        "howItWorks": "Ein Harvard-Forscher untersuchte, warum EMDR wirksam ist und stellte fest, dass traumabasierte Symptome mit den biologischen Mechanismen des REM-Schlafs verbunden sind. Bei der EMDR-Therapie hilft der Therapeut dem Klienten, einen ähnlichen Zustand wie REM-Schlaf zu erreichen. Dies ermöglicht innere Assoziationen und wir können beginnen, die Erinnerung und belastende Gefühle zu verarbeiten.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "mindfulness": {
         "name": "Achtsamkeitsbasierte Therapie",
-        "description": "Integrieren Sie Achtsamkeitspraktiken in Ihre Heilungsreise und entwickeln Sie Gegenwartsbewusstsein und emotionale Regulationsfähigkeiten."
+        "description": "Integrieren Sie Achtsamkeitspraktiken in Ihre Heilungsreise und entwickeln Sie Gegenwartsbewusstsein und emotionale Regulationsfähigkeiten.",
+        "fullTitle": "Achtsamkeitsbasierte Therapie",
+        "intro": "Achtsamkeit ist ein Zustand, in dem wir bewusst und vollständig unserer Gedanken, Emotionen und Erfahrungen gewahr sind, ohne Ablenkung und Urteil. In der Therapie ermöglicht uns Achtsamkeit, mit körperlichen Empfindungen, Kognitionen und Gefühlen verbunden zu sein und sie zu akzeptieren, ohne von ihnen kontrolliert zu werden.",
+        "howItHelps": "Es kann unglaublich leicht werden, dass sich unsere Gedanken ansammeln und spiralförmig entwickeln - oft ohne dass wir uns der Ansammlung bewusst sind. Achtsamkeitspraktiken wie Meditation können in Therapien integriert werden und zielen darauf ab, uns beizubringen, wie wir uns von unhilfreichen oder negativen Denkmustern lösen können.",
+        "benefits": {
+          "title": "Achtsamkeit kann helfen bei",
+          "items": [
+            "Stress",
+            "Chronischen Schmerzen",
+            "Krebs",
+            "Depression oder Angst",
+            "Ess- und Nahrungsproblemen",
+            "Psychose",
+            "Bipolare Störung",
+            "Panikattacken",
+            "PTBS",
+            "Borderline-Persönlichkeitsstörung",
+            "Substanzabhängigkeit",
+            "Selbstverletzung und Suizidgedanken"
+          ]
+        },
+        "conclusion": "Der Bewusstseinszustand, den wir durch Achtsamkeit erlangen, erleichtert es, andere therapeutische Strategien und emotionale Heilung anzunehmen.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "cbt": {
         "name": "Kognitive Verhaltenstherapie",
-        "description": "Ein strukturierter, zielorientierter Ansatz, der hilft, negative Denk- und Verhaltensmuster zu identifizieren und zu verändern."
+        "description": "Ein strukturierter, zielorientierter Ansatz, der hilft, negative Denk- und Verhaltensmuster zu identifizieren und zu verändern.",
+        "fullTitle": "Kognitive Verhaltenstherapie (KVT)",
+        "intro": "Die Kognitive Verhaltenstherapie ist eine strukturierte, zielorientierte Psychotherapie, die sich auf die Untersuchung der Beziehungen zwischen Gedanken, Gefühlen und Verhaltensweisen konzentriert. Durch das Identifizieren und Ändern negativer Denkmuster hilft KVT Individuen, gesündere Denk- und Verhaltensweisen zu entwickeln.",
+        "benefits": {
+          "title": "KVT ist wirksam bei",
+          "items": [
+            "Depression",
+            "Angststörungen",
+            "Phobien",
+            "PTBS",
+            "Schlafstörungen",
+            "Essstörungen",
+            "Zwangsstörungen",
+            "Substanzgebrauchsstörungen"
+          ]
+        },
+        "howItWorks": "KVT funktioniert, indem sie Ihnen hilft, sich ungenauen oder negativen Denkens bewusst zu werden, damit Sie herausfordernde Situationen klarer sehen und effektiver darauf reagieren können.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "nlp": {
         "name": "NLP-Techniken",
-        "description": "Neuro-Linguistische Programmierungsmethoden zur Transformation einschränkender Überzeugungen und Schaffung positiver Verhaltensänderungen."
+        "description": "Neuro-Linguistische Programmierungsmethoden zur Transformation einschränkender Überzeugungen und Schaffung positiver Verhaltensänderungen.",
+        "fullTitle": "Neuro-Linguistisches Programmieren (NLP)",
+        "intro": "NLP wird als Methode der persönlichen Entwicklung verwendet, um Fähigkeiten wie Selbstreflexion, Selbstvertrauen und Kommunikation zu fördern. Die Technik verändert Gedanken und Verhaltensweisen, um gewünschte Ergebnisse zu erreichen.",
+        "howItWorks": "NLP verwendet Wahrnehmungs-, Verhaltens- und Kommunikationstechniken, um das Ändern von Gedanken und Handlungen zu erleichtern. NLP erkennt und modifiziert unbewusste Vorurteile oder Einschränkungen der individuellen Weltkarte.",
+        "benefits": {
+          "title": "NLP-Anwendungen umfassen",
+          "items": [
+            "Behandlung von Phobien und generalisierten Angststörungen",
+            "Verbesserung der Arbeitsleistung",
+            "Persönliches Glück und allgemeines Wohlbefinden",
+            "Gesundheitsbezogene Zustände",
+            "Gewichtsmanagement",
+            "Substanzmissbrauch",
+            "Soziale Probleme",
+            "Verbesserte psychologische Symptome und Lebensqualität"
+          ]
+        },
+        "techniques": {
+          "title": "Wichtige NLP-Techniken",
+          "items": [
+            "Ankern: Sensorische Erfahrungen in Auslöser für bestimmte emotionale Zustände verwandeln",
+            "Rapport: Physische Verhaltensweisen anpassen, um Kommunikation und Reaktion durch Empathie zu verbessern",
+            "Swish-Muster: Verhaltens- oder Denkmuster ändern, um gewünschte Ergebnisse zu erzielen",
+            "Visuelle/kinästhetische Dissoziation (VKD): Negative Gedanken und Gefühle von vergangenen Ereignissen entfernen"
+          ]
+        },
+        "vakog": "NLP arbeitet mit unseren fünf Sinnen (VAKOG): Visuell (Sehen), Auditiv (Hören), Kinästhetisch (Fühlen), Olfaktorisch (Riechen) und Gustatorisch (Schmecken). Unser Körper, unser emotionales Leben und unsere Gedankensysteme beeinflussen sich gegenseitig.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "family": {
         "name": "Familientherapie",
-        "description": "Behandlung von Familiendynamiken, Verbesserung der Kommunikation und Stärkung der Beziehungen innerhalb des Familiensystems."
+        "description": "Behandlung von Familiendynamiken, Verbesserung der Kommunikation und Stärkung der Beziehungen innerhalb des Familiensystems.",
+        "fullTitle": "Familientherapie",
+        "intro": "Ein psychotherapeutisches Verfahren, das die Familie als soziales System in den Mittelpunkt der psychologischen Intervention stellt. Es initiiert Veränderungen innerhalb des Familiensystems und unterstützt die Familie bei der Auflösung von Schwierigkeiten, dem Finden neuer Perspektiven und der Entwicklung zufriedenstellenderer Formen des Zusammenlebens.",
+        "approach": "Familientherapie ist lösungsorientiert und versucht, zügig Verbesserungen zu erreichen. Ein wichtiges Prinzip ist 'Hilfe zur Selbsthilfe': Die Therapie fördert die Eigeninitiative der Klienten bei der Lösung ihrer Probleme. Durchschnittlich sind zwischen 5 und 20 Sitzungen ausreichend.",
+        "benefits": {
+          "title": "Familientherapie kann helfen bei",
+          "items": [
+            "Psychischen Problemen eines Kindes, Jugendlichen oder Erwachsenen",
+            "Eheproblemen, Trennung und Scheidung",
+            "Förderung der Erziehungskompetenzen",
+            "Schulischen Problemen",
+            "Chronischer oder lebensbedrohlicher Erkrankung eines Familienmitglieds",
+            "Problemen in Pflegefamilien oder bei Adoption",
+            "Traumatischen Erfahrungen und Trauer",
+            "Durch schwerwiegende Konflikte zerrütteten Familien"
+          ]
+        },
+        "advantages": "Ein großer Vorteil ist, dass typische Verhaltensmuster, Umgangsformen und ungeschriebene Regeln der Familie direkt beobachtet werden können. Durch gezielte Fragen des Therapeuten werden neue Sichtweisen ermöglicht.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "couples": {
         "name": "Paarberatung",
-        "description": "Aufbau stärkerer Verbindungen, Konfliktlösung und Entwicklung gesunder Kommunikationsmuster mit Ihrem Partner."
+        "description": "Aufbau stärkerer Verbindungen, Konfliktlösung und Entwicklung gesunder Kommunikationsmuster mit Ihrem Partner.",
+        "fullTitle": "Paarberatung",
+        "intro": "Paarberatung bietet einen sicheren Raum für Partner, um Beziehungsherausforderungen anzusprechen, die Kommunikation zu verbessern und ihre Bindung zu stärken. Mit evidenzbasierten Techniken helfen wir Paaren, Konflikte zu navigieren und gesündere, erfüllendere Beziehungen aufzubauen.",
+        "benefits": {
+          "title": "Paarberatung kann helfen bei",
+          "items": [
+            "Kommunikationsschwierigkeiten",
+            "Vertrauensproblemen und Untreue",
+            "Konfliktlösung",
+            "Intimitätsproblemen",
+            "Lebensübergängen und Stress",
+            "Erziehungsmeinungsverschiedenheiten",
+            "Vorehelicher Vorbereitung",
+            "Beziehungsbereicherung"
+          ]
+        },
+        "approach": "Unser Ansatz vermeidet es, einen Partner zu beschuldigen - Probleme werden durch gegenseitige Einflüsse zwischen Partnern erklärt. Durch gezielte Fragen und Interventionen helfen wir Paaren, neue Perspektiven zu gewinnen.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "positivePsychotherapy": {
         "name": "Positive und Transkulturelle Psychotherapie",
-        "description": "Ein humanistischer Ansatz, der positive Psychologie mit transkulturellem Verständnis für ganzheitliche Heilung integriert."
+        "description": "Ein humanistischer Ansatz, der positive Psychologie mit transkulturellem Verständnis für ganzheitliche Heilung integriert.",
+        "fullTitle": "Positive und Transkulturelle Psychotherapie (PPT)",
+        "intro": "Die Positive und Transkulturelle Psychotherapie ist eine psychotherapeutische Methode der humanistischen psychodynamischen Psychotherapie, die auf einem positiven Menschenbild basiert. Es ist eine integrative Methode, die humanistische, systemische, psychodynamische und kognitiv-verhaltenstherapeutische Elemente einschließt.",
+        "goal": "Das Hauptziel der PPT ist es, Fähigkeiten, Stärken, Ressourcen und Potenziale zu identifizieren und zu kultivieren. Dieser Ansatz kombiniert Elemente aus verschiedenen psychotherapeutischen Modalitäten.",
+        "elements": {
+          "title": "PPT integriert",
+          "items": [
+            "Eine humanistische Perspektive auf die menschliche Natur und therapeutische Allianz",
+            "Ein psychodynamisches Verständnis psychischer und psychosomatischer Störungen",
+            "Einen systemischen Ansatz unter Berücksichtigung von Familie, Kultur, Arbeit und Umwelt",
+            "Einen zielorientierten Fünf-Stufen-Therapieprozess"
+          ]
+        },
+        "principles": {
+          "title": "Die drei Hauptprinzipien der PPT",
+          "items": [
+            "Das Prinzip der Hoffnung",
+            "Das Prinzip der Balance",
+            "Das Prinzip der Beratung"
+          ]
+        },
+        "balanceModel": "Das Balancemodell behandelt biologisch-physische, rational-intellektuelle, sozio-emotionale und imaginativ-wertorientierte Aspekte des täglichen Lebens.",
+        "applications": "PPT wird zur Behandlung verschiedener psychischer Erkrankungen eingesetzt, einschließlich Stimmungsstörungen, neurotischer Störungen, stressbedingter Störungen, somatoformer Störungen, Persönlichkeitsstörungen und Verhaltenssyndrome.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "systemicConstellation": {
         "name": "Systemische Familienaufstellungen",
-        "description": "Enthüllung verborgener Dynamiken in Familiensystemen und Organisationsstrukturen für tieferes Verständnis und Auflösung."
+        "description": "Enthüllung verborgener Dynamiken in Familiensystemen und Organisationsstrukturen für tieferes Verständnis und Auflösung.",
+        "fullTitle": "Systemische Familien- und Businessaufstellungen",
+        "intro": "Systemische Familien- und Businessaufstellungen sind ein kraftvoller, tiefgreifender Ansatz zur Bewältigung von Lebensherausforderungen, der über die Oberfläche hinausgeht und mit der Angelegenheit an ihrer Quelle verbindet.",
+        "explanation": "Die unbewussten Muster, die unser individuelles Leben beeinflussen, können auch Auswirkungen auf unser Beziehungs- und Familienleben haben. Wir müssen nicht nur aufdecken, was diese sind, sondern auch einen neuen Kontext für Beziehungen schaffen.",
+        "scope": "Dies umfasst die Auswirkungen von intergenerationellem Trauma, bei dem ein Muster von einer Generation zur nächsten weitergegeben wird. Es kann sich auf Verhaltens- und Beziehungsmuster sowie auf Gesundheit, Karriere, Sexualität oder Geld beziehen.",
+        "benefits": {
+          "title": "Vorteile dieses Ansatzes",
+          "items": [
+            "Blockaden für Verbindung oder Engagement entfernen und frei sein, Liebe hereinzulassen",
+            "Über das 'Blame-Game' hinausgehen und die Vergangenheit ruhen lassen",
+            "Effektiver bei der Elternschaft als 'vereinte Front' sein",
+            "Die Zukunft Ihrer Beziehung klären",
+            "Klarheit gewinnen, was zu einer Trennung geführt hat",
+            "Sich der verborgenen Dynamiken bewusster werden",
+            "Klarheit in Geschäft, Führung, Teams und Organisationen gewinnen"
+          ]
+        },
+        "business": "Businessaufstellungen sind eine kraftvolle Methode zur Analyse komplexer Probleme, Findung nachhaltiger Lösungen und Freisetzung von Energie für notwendige Schritte.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "solutionFocused": {
         "name": "Lösungsfokussierte Therapie",
-        "description": "Ein kurzer, zielgerichteter Ansatz, der sich auf Lösungen statt auf Probleme konzentriert, um schnelle positive Veränderungen zu erreichen."
+        "description": "Ein kurzer, zielgerichteter Ansatz, der sich auf Lösungen statt auf Probleme konzentriert, um schnelle positive Veränderungen zu erreichen.",
+        "fullTitle": "Lösungsfokussierte Therapie",
+        "intro": "Lösungsfokussierte Therapie konzentriert sich auf das Finden von Lösungen in der Gegenwart und auf unsere Hoffnungen für die Zukunft. Sie betont, dass wir oft bereits wissen, was wir tun müssen, um unser Leben zu verbessern.",
+        "concept": "Diese Therapie basiert weitgehend auf Zielsetzung und dem schrittweisen Prozess zur Erreichung unserer Ziele. Sie zeigt auch Klienten ihre Resilienz und verschiedene Bewältigungsstrategien.",
+        "example": "Unsere Therapeuten könnten Sie bitten, Ihr ideales Szenario zu beschreiben, in dem Ihre Probleme nicht existieren. Dies kann helfen, kleine und praktische Schritte zu identifizieren.",
+        "applications": "Lösungsfokussierte Therapie wird oft für Einzelpersonen, Familien und Paare eingesetzt, kann aber auch bei Problemen in Schule oder Arbeitsplatz hilfreich sein.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "identityTrauma": {
         "name": "Identitätsorientierte Traumatherapie",
-        "description": "Spezialisierter Ansatz, der behandelt, wie Trauma die Identität und das Selbstgefühl beeinflusst."
+        "description": "Spezialisierter Ansatz, der behandelt, wie Trauma die Identität und das Selbstgefühl beeinflusst.",
+        "fullTitle": "Identitätsorientierte Psychotrauma-Therapie (IoPT)",
+        "intro": "Heilung von körperlichen oder psychischen Störungen braucht ein Ziel. Nach Prof. Dr. Ruppert bedeutet dies 'seine eigene Identität vollständig zu leben, damit wir ausdrücken und verwirklichen können, was im Kern unseres Wesens liegt'.",
+        "framework": "Der IoPT-Rahmen bietet einen sicheren Weg, die unterdrückten und unbewussten Teile der Psyche zu erkunden, sich von den Auswirkungen von Trauma zu erholen und unser gesundes Selbst wiederherzustellen.",
+        "understanding": "Der Rahmen zeigt, wie Trauma den gesamten lebenden menschlichen Organismus (LHO) beeinflusst und wie man sich von Trauma erholt, um trotz Traumatisierung ein gesundes Selbst und einen gesunden Willen zu erlangen.",
+        "traumaBiography": "Jeder Mensch hat eine Trauma-Biografie. Die Traumata, die wir durchleben, haben großen Einfluss darauf, wer wir später im Leben werden, und beeinflussen unsere Beziehungen und Fähigkeiten.",
+        "keyInsight": "Trauma ist eine Situation, die keine Rücksicht auf individuelle Identität nimmt, und der Preis ist ein Verlust des Selbst, ein Verlust der Identität.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "schemaTherapy": {
         "name": "Schematherapie",
-        "description": "Integrativer Ansatz für tief verwurzelte emotionale Muster und persönlichkeitsbezogene Probleme."
+        "description": "Integrativer Ansatz für tief verwurzelte emotionale Muster und persönlichkeitsbezogene Probleme.",
+        "fullTitle": "Schematherapie",
+        "intro": "Schematherapie ist eine integrative Psychotherapie, die Elemente der kognitiven Verhaltenstherapie, Bindungstheorie und emotionsfokussierten Ansätzen kombiniert. Sie wurde entwickelt, um chronische psychologische Probleme und Persönlichkeitsstörungen zu behandeln.",
+        "schemas": "Schemata sind tief verwurzelte emotionale Muster, die sich in der Kindheit entwickeln und das ganze Leben andauern. Wenn sie ausgelöst werden, können sie zu intensiven negativen Emotionen und unhilfreichen Verhaltensweisen führen.",
+        "benefits": {
+          "title": "Schematherapie ist wirksam bei",
+          "items": [
+            "Persönlichkeitsstörungen (besonders Borderline)",
+            "Chronischer Depression",
+            "Angststörungen",
+            "Essstörungen",
+            "Beziehungsschwierigkeiten",
+            "Langjährigen emotionalen Problemen"
+          ]
+        },
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "dbt": {
         "name": "DBT",
-        "description": "Dialektisch-Behaviorale Therapie, die kognitiv-behaviorale Techniken mit Achtsamkeitspraktiken kombiniert."
+        "description": "Dialektisch-Behaviorale Therapie, die kognitiv-behaviorale Techniken mit Achtsamkeitspraktiken kombiniert.",
+        "fullTitle": "Dialektisch-Behaviorale Therapie (DBT)",
+        "intro": "Die Dialektisch-Behaviorale Therapie ist eine umfassende kognitiv-behaviorale Behandlung, die ursprünglich für Personen mit Borderline-Persönlichkeitsstörung entwickelt wurde. Sie kombiniert Standard-KVT-Techniken mit Achtsamkeitspraktiken.",
+        "skills": {
+          "title": "DBT lehrt vier Hauptfertigkeiten",
+          "items": [
+            "Achtsamkeit: Vollständig im Moment präsent sein",
+            "Stresstoleranz: Umgang mit schmerzhaften Emotionen auf gesunde Weise",
+            "Emotionsregulation: Intensive Emotionen managen und verändern",
+            "Zwischenmenschliche Wirksamkeit: Bedürfnisse kommunizieren und Beziehungen pflegen"
+          ]
+        },
+        "benefits": {
+          "title": "DBT ist wirksam bei",
+          "items": [
+            "Borderline-Persönlichkeitsstörung",
+            "Selbstverletzendem Verhalten",
+            "Suizidgedanken",
+            "Substanzgebrauchsstörungen",
+            "Essstörungen",
+            "PTBS"
+          ]
+        },
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       },
       "act": {
         "name": "ACT",
-        "description": "Akzeptanz- und Commitment-Therapie mit Fokus auf psychologische Flexibilität und wertebasiertes Leben."
+        "description": "Akzeptanz- und Commitment-Therapie mit Fokus auf psychologische Flexibilität und wertebasiertes Leben.",
+        "fullTitle": "Akzeptanz- und Commitment-Therapie (ACT)",
+        "intro": "ACT ist eine Form der Psychotherapie, die Akzeptanz- und Achtsamkeitsstrategien zusammen mit Commitment- und Verhaltensänderungsstrategien verwendet, um psychologische Flexibilität zu erhöhen. Anstatt schwierige Gefühle zu eliminieren, lehrt ACT uns, sie als angemessene Reaktionen zu akzeptieren.",
+        "principles": {
+          "title": "Sechs Kernprozesse der ACT",
+          "items": [
+            "Akzeptanz: Gedanken und Gefühle zulassen, ohne gegen sie anzukämpfen",
+            "Kognitive Defusion: Gedanken als nur Gedanken wahrnehmen",
+            "Gegenwärtig sein: Bewusstsein für das Hier und Jetzt",
+            "Selbst als Kontext: Ein unveränderliches, immer präsentes Selbstgefühl",
+            "Werte: Entdecken, was am wichtigsten ist",
+            "Engagiertes Handeln: Ziele nach Werten setzen und umsetzen"
+          ]
+        },
+        "benefits": {
+          "title": "ACT ist wirksam bei",
+          "items": [
+            "Depression",
+            "Angst",
+            "Zwangsstörungen",
+            "Chronischen Schmerzen",
+            "Substanzmissbrauch",
+            "Stressmanagement"
+          ]
+        },
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+      },
+      "systemicCounseling": {
+        "name": "Systemische Beratung",
+        "description": "Erforschung, wie Beziehungen und Systeme emotionale Erfahrung und Verhalten beeinflussen.",
+        "fullTitle": "Systemische Beratung",
+        "intro": "Systemische Berater nutzen Gespräche, um herauszufinden, wie die verschiedenen Beziehungen von Menschen auf ein System einwirken. Jede soziale Beziehung beeinflusst das emotionale Erleben und das Verhalten einer Person auf ihre eigene Weise.",
+        "approach": "Unsere Haltung ist geprägt von Akzeptanz, Einfühlungsvermögen, Unvoreingenommenheit und Wertschätzung. Wir gehen von der Selbständigkeit des Klienten aus und betrachten ihn als 'Experten in eigener Sache'.",
+        "methods": {
+          "title": "Methoden des systemischen Ansatzes",
+          "items": [
+            "Zirkuläres Fragen",
+            "Die Wunderfrage",
+            "Reframing",
+            "Genogrammarbeit",
+            "Arbeit mit Familienskulpturen"
+          ]
+        },
+        "principle": "Ressourcen des Klienten werden aktiviert, um möglichst eigenverantwortlich und selbstorganisiert zu seinen individuellen Lösungen und Zielen zu gelangen. Der Kunde ist Experte für seine Probleme und Lösungen, der Coach ist Experte für den Weg zum Finden der Lösung.",
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+      },
+      "bioenergetic": {
+        "name": "Bioenergetisches Coaching",
+        "description": "Eine ganzheitliche Methode, die Körper, Geist und Seele für dauerhafte Veränderung integriert.",
+        "fullTitle": "Bioenergetisches Coaching",
+        "intro": "Veränderung beginnt nicht nur im Kopf, sondern durchdringt den gesamten Menschen - Körper, Geist und Seele. Bereits aus den 1950er Jahren wurde nachgewiesen, dass emotionale Blockaden nicht nur mental, sondern auch körperlich verankert sind.",
+        "explanation": "Bioenergetisches Coaching, eine ganzheitliche Methode, bezieht bioenergetische Übungen ein, die darauf abzielen, den Körper zu aktivieren und gespeicherte Spannungen zu lösen, um innere Balance und Freiheit zu fördern.",
+        "bodyMemory": "Das Körpergedächtnis beschreibt, wie der Körper Erlebnisse und Emotionen speichert und zeigt, wie eng das Gehirn und der Körper zusammenarbeiten. Veränderungsprozesse sind nicht allein durch Nachdenken steuerbar; sie erfordern, dass der Körper mit einbezogen wird.",
+        "exercises": {
+          "title": "Einfache Übungen zum Ausprobieren",
+          "items": [
+            "Grounding: Barfuß stehen mit leicht gebeugten Knien. Tief atmen und bewusst wahrnehmen, wie der Boden Sie trägt.",
+            "Schütteln zum Spannungsabbau: Aufrecht stehen, Knie lockern und Arme, Schultern und Beine sanft ausschütteln.",
+            "Atemübung: Hände auf den Bauch legen, tief einatmen und fühlen, wie sich der Bauch nach außen wölbt."
+          ]
+        },
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
       }
     }
   },
@@ -207,8 +482,12 @@
     "titleEnd": "Heute",
     "description": "Machen Sie den ersten Schritt zum psychischen Wohlbefinden. Kontaktieren Sie uns für eine vertrauliche Beratung und entdecken Sie, wie wir zusammenarbeiten können.",
     "phone": "Telefon",
+    "phoneValue": "+49 163 786 5012",
     "email": "E-Mail",
+    "emailValue": "contact@mindcores.org",
     "location": "Standort",
+    "locationGermany": "Tannenstrasse 36, 73207 Plochingen, Deutschland",
+    "locationRomania": "Str. Poetului 1-3, Bl. R11, Ap.1, Arad, Rumänien",
     "hours": "Öffnungszeiten",
     "hoursValue": "Mo-Fr: 9:00 - 18:00",
     "availableIn": "Verfügbar in",
@@ -221,7 +500,7 @@
       "emailAddress": "E-Mail-Adresse",
       "emailPlaceholder": "ihre@email.de",
       "phoneNumber": "Telefonnummer",
-      "phonePlaceholder": "+49 170 000 0000",
+      "phonePlaceholder": "+49 123 456 7890",
       "yourMessage": "Ihre Nachricht",
       "messagePlaceholder": "Erzählen Sie uns kurz, was Sie hierher führt...",
       "sendMessage": "Nachricht Senden",
@@ -231,19 +510,22 @@
     }
   },
   "footer": {
-    "brandDescription": "Gewidmet der Begleitung von Menschen zum psychischen Wohlbefinden durch evidenzbasierte therapeutische Ansätze und mitfühlende Betreuung.",
+    "brandName": "Mindcores",
+    "brandDescription": "Dipl. Psych. Raluca Diana Tocoian - Heilpraktikerin für Psychotherapie. Gewidmet der Begleitung von Menschen zum psychischen Wohlbefinden durch evidenzbasierte therapeutische Ansätze und mitfühlende Betreuung.",
     "quickLinks": "Schnelllinks",
     "services": "Leistungen",
     "contact": "Kontakt",
+    "therapies": "Therapien",
     "anxietyTreatment": "Angstbehandlung",
     "depressionTherapy": "Depressionstherapie",
     "traumaPTSD": "Trauma & PTBS",
     "couplesCounseling": "Paarberatung",
-    "groupPrograms": "Gruppenprogramme",
+    "assessment": "Vorgespräch-Fragebogen",
     "allRightsReserved": "Alle Rechte vorbehalten.",
     "privacyPolicy": "Datenschutz",
     "termsOfService": "Nutzungsbedingungen",
-    "impressum": "Impressum"
+    "impressum": "Impressum",
+    "professionalLicense": "Zugelassen durch Gesundheitsamt Ingolstadt"
   },
   "conditions": {
     "anxiety": {
@@ -371,6 +653,475 @@
       },
       "ptsdNote": "Trauma kann sich zu PTBS (Posttraumatische Belastungsstörung) entwickeln, wenn die Symptome anhalten und das tägliche Leben erheblich beeinträchtigen.",
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "addiction": {
+      "title": "Sucht",
+      "subtitle": "Sucht Verstehen und Überwinden",
+      "intro": "Sucht wird als chronische Gehirnerkrankung definiert, die durch ein zwanghaftes Bedürfnis gekennzeichnet ist, ein Verhalten auszuüben oder eine Substanz zu verwenden, obwohl dies schädlich für uns sein kann. Dieses unwiderstehliche Verlangen ist ein grundlegender Aspekt jeder Sucht - die Unfähigkeit zu stoppen, obwohl wir uns der negativen Konsequenzen bewusst sind und uns sogar dagegen entscheiden.",
+      "symptoms": {
+        "title": "Wichtige Anzeichen",
+        "items": [
+          "Unfähigkeit, den Konsum zu stoppen oder zu kontrollieren, obwohl man es möchte",
+          "Vernachlässigung von Verantwortlichkeiten und Beziehungen",
+          "Entzugserscheinungen bei Nichtkonsum",
+          "Erhöhte Toleranz, die mehr für die gleiche Wirkung erfordert",
+          "Fortgesetzter Konsum trotz negativer Folgen",
+          "Erheblicher Zeitaufwand für Beschaffung, Konsum oder Erholung"
+        ]
+      },
+      "types": {
+        "title": "Arten von Sucht",
+        "substance": {
+          "name": "Substanzabhängigkeit",
+          "description": "Abhängigkeit von Alkohol, Drogen, Nikotin oder verschreibungspflichtigen Medikamenten, die körperliche Toleranz und Entzugserscheinungen entwickelt."
+        },
+        "behavioral": {
+          "name": "Verhaltenssucht",
+          "description": "Zwanghafte Beschäftigung mit Aktivitäten wie Glücksspiel, Gaming, Shopping oder Essen, die trotz negativer Konsequenzen anhält."
+        },
+        "process": {
+          "name": "Prozesssucht",
+          "description": "Sucht nach Aktivitäten wie Arbeit, Sport oder Internetnutzung, die obsessiv werden."
+        },
+        "relational": {
+          "name": "Beziehungssucht",
+          "description": "Sucht nach Beziehungen, die oft wie Codependenz aussieht. Betroffene verknüpfen ihren Selbstwert damit, in einer Beziehung zu sein oder jemandem etwas zu bedeuten."
+        },
+        "trauma": {
+          "name": "Traumasucht",
+          "description": "Sucht nach den emotionalen und körperlichen Empfindungen, die mit traumatischen Erfahrungen verbunden sind."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "adhd": {
+      "title": "ADHS",
+      "subtitle": "ADHS Verstehen",
+      "intro": "Die Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) ist eine neurologische Entwicklungsstörung, die sowohl Kinder als auch Erwachsene betrifft. Sie beeinflusst Aufmerksamkeit, Impulskontrolle und Aktivitätsniveau und macht alltägliche Aufgaben herausfordernder.",
+      "symptoms": {
+        "title": "Wichtige Symptome",
+        "items": [
+          "Schwierigkeiten, die Aufmerksamkeit bei Aufgaben oder Aktivitäten aufrechtzuerhalten",
+          "Leicht ablenkbar durch irrelevante Gedanken oder Reize",
+          "Schwierigkeiten, Aufgaben zu organisieren und Zeit zu managen",
+          "Vergesslichkeit bei täglichen Aktivitäten",
+          "Zappeln, Unruhe oder Schwierigkeiten, sitzen zu bleiben",
+          "Impulsive Entscheidungen ohne Berücksichtigung der Konsequenzen"
+        ]
+      },
+      "types": {
+        "title": "ADHS-Typen",
+        "inattentive": {
+          "name": "Vorwiegend Unaufmerksam",
+          "description": "Schwierigkeiten beim Fokussieren, Befolgen von Anweisungen und Organisieren von Aufgaben."
+        },
+        "hyperactive": {
+          "name": "Vorwiegend Hyperaktiv-Impulsiv",
+          "description": "Übermäßige Bewegung, Reden und Schwierigkeiten beim Warten."
+        },
+        "combined": {
+          "name": "Kombinierte Präsentation",
+          "description": "Symptome sowohl von Unaufmerksamkeit als auch von Hyperaktivität-Impulsivität."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "attachment": {
+      "title": "Bindungsstörung",
+      "subtitle": "Bindungsprobleme Verstehen",
+      "intro": "Bindungsstörungen entwickeln sich, wenn frühe Bindungen zu Bezugspersonen gestört oder abwesend sind. Diese Muster können Beziehungen, emotionale Regulation und Selbstwertgefühl ein Leben lang beeinflussen.",
+      "symptoms": {
+        "title": "Wichtige Anzeichen",
+        "items": [
+          "Schwierigkeiten, anderen zu vertrauen oder enge Beziehungen einzugehen",
+          "Angst vor Verlassenwerden oder Ablehnung",
+          "Vermeidung emotionaler Intimität",
+          "Angst in Beziehungen",
+          "Schwierigkeiten bei der Emotionsregulation",
+          "Niedriges Selbstwertgefühl"
+        ]
+      },
+      "types": {
+        "title": "Bindungsstile",
+        "anxious": {
+          "name": "Ängstliche Bindung",
+          "description": "Beschäftigung mit Beziehungen und Angst vor Verlassenwerden."
+        },
+        "avoidant": {
+          "name": "Vermeidende Bindung",
+          "description": "Unbehagen bei Nähe und Präferenz für Unabhängigkeit."
+        },
+        "disorganized": {
+          "name": "Desorganisierte Bindung",
+          "description": "Widersprüchliche Wünsche nach Nähe und Angst vor Intimität."
+        },
+        "reactive": {
+          "name": "Reaktive Bindungsstörung",
+          "description": "Schwierigkeiten, emotionale Bindungen aufzubauen, oft aufgrund früher Vernachlässigung."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "eatingDisorders": {
+      "title": "Essstörungen",
+      "subtitle": "Essstörungen Verstehen",
+      "intro": "Essstörungen sind schwerwiegende psychische Erkrankungen, die durch anhaltende Störungen des Essverhaltens und damit verbundener Gedanken und Emotionen gekennzeichnet sind. Sie können die körperliche Gesundheit und Lebensqualität beeinträchtigen.",
+      "symptoms": {
+        "title": "Warnzeichen",
+        "items": [
+          "Beschäftigung mit Essen, Gewicht oder Körperform",
+          "Restriktives Essen oder strenge Diäten",
+          "Essanfälle",
+          "Kompensatorische Verhaltensweisen (Erbrechen, übermäßiger Sport)",
+          "Verzerrtes Körperbild",
+          "Sozialer Rückzug bei Mahlzeiten"
+        ]
+      },
+      "types": {
+        "title": "Arten von Essstörungen",
+        "anorexia": {
+          "name": "Anorexia Nervosa",
+          "description": "Schwere Nahrungsrestriktion, intensive Angst vor Gewichtszunahme und verzerrtes Körperbild."
+        },
+        "bulimia": {
+          "name": "Bulimia Nervosa",
+          "description": "Zyklen von Essanfällen gefolgt von kompensatorischen Verhaltensweisen."
+        },
+        "binge": {
+          "name": "Binge-Eating-Störung",
+          "description": "Wiederkehrende Episoden des Essens großer Mengen ohne kompensatorische Verhaltensweisen."
+        },
+        "arfid": {
+          "name": "ARFID",
+          "description": "Vermeidend-Restriktive Nahrungsaufnahmestörung - eingeschränktes Essen, nicht auf Körperbild bezogen."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "grief": {
+      "title": "Trauer & Verlust",
+      "subtitle": "Trauer Verstehen",
+      "intro": "Trauer ist eine natürliche Reaktion auf Verlust. Sie kann uns emotional, körperlich und spirituell beeinflussen. Obwohl Trauer universell ist, ist die Erfahrung jeder Person einzigartig und verdient mitfühlende Unterstützung.",
+      "symptoms": {
+        "title": "Häufige Erfahrungen",
+        "items": [
+          "Intensive Traurigkeit und Sehnsucht",
+          "Schock, Unglaube oder Verleugnung",
+          "Wut oder Reizbarkeit",
+          "Schuld oder Bedauern",
+          "Angst vor der Zukunft",
+          "Körperliche Symptome wie Müdigkeit oder Appetitveränderungen",
+          "Konzentrations- oder Entscheidungsschwierigkeiten"
+        ]
+      },
+      "types": {
+        "title": "Arten von Trauer",
+        "acute": {
+          "name": "Akute Trauer",
+          "description": "Intensive Trauer unmittelbar nach einem Verlust."
+        },
+        "complicated": {
+          "name": "Komplizierte Trauer",
+          "description": "Verlängerte Trauer, die das tägliche Funktionieren beeinträchtigt."
+        },
+        "anticipatory": {
+          "name": "Antizipatorische Trauer",
+          "description": "Trauer vor einem erwarteten Verlust."
+        },
+        "disenfranchised": {
+          "name": "Entrechtete Trauer",
+          "description": "Trauer, die nicht offen anerkannt oder sozial unterstützt wird."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "relationships": {
+      "title": "Beziehungen",
+      "subtitle": "Beziehungsherausforderungen Verstehen",
+      "intro": "Gesunde Beziehungen sind grundlegend für unser Wohlbefinden. Wenn Beziehungen kämpfen, beeinflusst das jeden Aspekt unseres Lebens. Das Verstehen von Beziehungsdynamiken kann helfen, stärkere, erfüllendere Verbindungen aufzubauen.",
+      "symptoms": {
+        "title": "Häufige Herausforderungen",
+        "items": [
+          "Kommunikationsschwierigkeiten",
+          "Vertrauensprobleme und Eifersucht",
+          "Häufige Konflikte oder Streitigkeiten",
+          "Gefühl der Distanzierung oder Einsamkeit",
+          "Schwierigkeiten mit Intimität",
+          "Codependenz-Muster",
+          "Grenzprobleme"
+        ]
+      },
+      "types": {
+        "title": "Bereiche, die wir behandeln",
+        "couples": {
+          "name": "Paarberatung",
+          "description": "Verbesserung der Kommunikation, Konfliktlösung und Wiederaufbau der Verbindung."
+        },
+        "family": {
+          "name": "Familiendynamik",
+          "description": "Behandlung von Mustern, Rollen und Kommunikation innerhalb von Familien."
+        },
+        "interpersonal": {
+          "name": "Zwischenmenschliche Fähigkeiten",
+          "description": "Aufbau gesünderer Beziehungen in allen Lebensbereichen."
+        },
+        "boundaries": {
+          "name": "Grenzsetzung",
+          "description": "Lernen, gesunde Grenzen zu setzen und aufrechtzuerhalten."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "stress": {
+      "title": "Stress",
+      "subtitle": "Stress Verstehen und Bewältigen",
+      "intro": "Stress ist die Reaktion Ihres Körpers auf Anforderungen und Druck. Während etwas Stress motivierend sein kann, kann chronischer Stress Ihre körperliche und psychische Gesundheit erheblich beeinträchtigen. Stressbewältigung zu lernen ist wesentlich für das Wohlbefinden.",
+      "symptoms": {
+        "title": "Zeichen von chronischem Stress",
+        "items": [
+          "Anhaltende Überforderungsgefühle",
+          "Schwierigkeiten beim Entspannen oder Schlafen",
+          "Reizbarkeit und Stimmungsschwankungen",
+          "Körperliche Verspannung und Kopfschmerzen",
+          "Konzentrationsschwierigkeiten",
+          "Appetitveränderungen",
+          "Rückzug von Aktivitäten oder Menschen"
+        ]
+      },
+      "types": {
+        "title": "Arten von Stress",
+        "acute": {
+          "name": "Akuter Stress",
+          "description": "Kurzfristiger Stress durch unmittelbare Anforderungen oder Druck."
+        },
+        "chronic": {
+          "name": "Chronischer Stress",
+          "description": "Langfristiger Stress durch anhaltende Situationen oder Umstände."
+        },
+        "traumatic": {
+          "name": "Traumatischer Stress",
+          "description": "Stress durch Exposition gegenüber traumatischen Ereignissen."
+        },
+        "burnout": {
+          "name": "Burnout",
+          "description": "Erschöpfung durch anhaltenden arbeitsbezogenen oder pflegerischen Stress."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "perinatal": {
+      "title": "Perinatale Stimmungsstörungen",
+      "subtitle": "Perinatale psychische Gesundheit Verstehen",
+      "intro": "Perinatale Stimmungsstörungen betreffen Eltern während der Schwangerschaft und in der postpartalen Zeit. Fast 10% der Frauen erleben Depressionen während der Schwangerschaft, steigend auf 16% in den ersten 3 Monaten nach der Geburt. Diese Erkrankungen sind mit angemessener Unterstützung behandelbar.",
+      "symptoms": {
+        "title": "Warnzeichen",
+        "items": [
+          "Anhaltende Traurigkeit oder Leere",
+          "Schwere Stimmungsschwankungen",
+          "Schwierigkeiten, eine Bindung zum Baby aufzubauen",
+          "Rückzug von Familie und Freunden",
+          "Appetit- und Schlafveränderungen",
+          "Überwältigende Müdigkeit",
+          "Intensive Angst oder Panikattacken",
+          "Gedanken, sich selbst oder dem Baby zu schaden"
+        ]
+      },
+      "types": {
+        "title": "Arten perinataler Störungen",
+        "prenatal": {
+          "name": "Pränatale Depression",
+          "description": "Depression während der Schwangerschaft."
+        },
+        "postpartum": {
+          "name": "Postpartale Depression",
+          "description": "Depression nach der Geburt."
+        },
+        "anxiety": {
+          "name": "Perinatale Angst",
+          "description": "Übermäßige Sorge und Angst während oder nach der Schwangerschaft."
+        },
+        "psychosis": {
+          "name": "Postpartale Psychose",
+          "description": "Seltene, aber schwerwiegende Erkrankung, die sofortige medizinische Hilfe erfordert."
+        }
+      },
+      "statistics": "Fast 10% der Frauen erleben Depressionen während der Schwangerschaft; dies steigt auf 16% in den ersten 3 Monaten nach der Geburt.",
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "sexualDysfunction": {
+      "title": "Sexuelle Dysfunktionen",
+      "subtitle": "Sexuelle Gesundheit Verstehen",
+      "intro": "Sexuelle Dysfunktionen können jeden betreffen und umfassen Schwierigkeiten mit Verlangen, Erregung, Orgasmus oder Schmerzen während sexueller Aktivität. Diese Herausforderungen haben oft psychologische Komponenten und können mit professioneller Unterstützung angegangen werden.",
+      "symptoms": {
+        "title": "Häufige Anliegen",
+        "items": [
+          "Geringes sexuelles Verlangen oder Interesse",
+          "Schwierigkeiten mit der Erregung",
+          "Schwierigkeiten, einen Orgasmus zu erreichen",
+          "Schmerzen bei sexueller Aktivität",
+          "Leistungsangst",
+          "Beziehungsspannung aufgrund sexueller Probleme"
+        ]
+      },
+      "types": {
+        "title": "Bereiche, die wir behandeln",
+        "desire": {
+          "name": "Verlangenstörungen",
+          "description": "Geringes oder fehlendes sexuelles Verlangen, das die Lebensqualität beeinträchtigt."
+        },
+        "arousal": {
+          "name": "Erregungsschwierigkeiten",
+          "description": "Herausforderungen bei körperlicher oder emotionaler Erregung."
+        },
+        "orgasm": {
+          "name": "Orgasmusstörungen",
+          "description": "Schwierigkeiten, einen Orgasmus zu erreichen oder zu erleben."
+        },
+        "pain": {
+          "name": "Sexuelle Schmerzstörungen",
+          "description": "Mit sexueller Aktivität verbundene Schmerzen."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "mensMentalHealth": {
+      "title": "Psychische Gesundheit von Männern",
+      "subtitle": "Das Wohlbefinden von Männern Unterstützen",
+      "intro": "Männer stehen oft vor einzigartigen Herausforderungen bei der Behandlung psychischer Gesundheit aufgrund gesellschaftlicher Erwartungen und Stigma. Einen Raum zu schaffen, in dem Männer offen über ihre Kämpfe sprechen können, ist wesentlich für Heilung und Wachstum.",
+      "symptoms": {
+        "title": "Häufige Herausforderungen",
+        "items": [
+          "Schwierigkeiten, Emotionen auszudrücken",
+          "Wut oder Reizbarkeit als primärer emotionaler Ausdruck",
+          "Arbeitsbezogener Stress und Burnout",
+          "Beziehungsschwierigkeiten",
+          "Substanzgebrauch als Bewältigungsmechanismus",
+          "Isolation und Rückzug",
+          "Körperliche Symptome wie Kopfschmerzen oder Verdauungsprobleme"
+        ]
+      },
+      "types": {
+        "title": "Bereiche, die wir behandeln",
+        "depression": {
+          "name": "Männliche Depression",
+          "description": "Depression bei Männern zeigt sich oft anders und kann unerkannt bleiben."
+        },
+        "anger": {
+          "name": "Wutbewältigung",
+          "description": "Wut verstehen und auf gesunde Weise bewältigen."
+        },
+        "identity": {
+          "name": "Identität & Sinn",
+          "description": "Erforschung von Männlichkeit, Rollen und Lebenssinn."
+        },
+        "relationships": {
+          "name": "Beziehungsfähigkeiten",
+          "description": "Aufbau von emotionaler Intelligenz und Verbindung."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "bipolar": {
+      "title": "Bipolare Störung",
+      "subtitle": "Bipolare Störung Verstehen",
+      "intro": "Die bipolare Störung ist durch signifikante Stimmungsschwankungen gekennzeichnet, einschließlich emotionaler Hochs (Manie oder Hypomanie) und Tiefs (Depression). Sie betrifft etwa 2% der Bevölkerung und kann mit angemessener Behandlung effektiv behandelt werden.",
+      "symptoms": {
+        "title": "Wichtige Symptome",
+        "items": [
+          "Perioden ungewöhnlich gehobener Stimmung oder Energie",
+          "Vermindertes Schlafbedürfnis während manischer Episoden",
+          "Rasende Gedanken und schnelles Sprechen",
+          "Impulsives oder riskantes Verhalten",
+          "Perioden tiefer Depression",
+          "Schwierigkeiten, Beziehungen oder Beschäftigung aufrechtzuerhalten"
+        ]
+      },
+      "types": {
+        "title": "Arten der bipolaren Störung",
+        "bipolarI": {
+          "name": "Bipolar I",
+          "description": "Manische Episoden von mindestens 7 Tagen, oft mit depressiven Episoden."
+        },
+        "bipolarII": {
+          "name": "Bipolar II",
+          "description": "Muster von depressiven Episoden und hypomanischen Episoden."
+        },
+        "cyclothymic": {
+          "name": "Zyklothyme Störung",
+          "description": "Chronische Stimmungsschwankungen mit Perioden von Hypomanie und Depression."
+        }
+      },
+      "statistics": "Die bipolare Störung betrifft etwa 2% der Bevölkerung.",
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "personality": {
+      "title": "Persönlichkeitsstörungen",
+      "subtitle": "Persönlichkeitsmuster Verstehen",
+      "intro": "Persönlichkeitsstörungen umfassen lang anhaltende Muster des Denkens, Fühlens und Verhaltens, die von kulturellen Erwartungen abweichen und Leiden oder Funktionsschwierigkeiten verursachen. Mit spezialisierter Therapie ist bedeutsame Veränderung möglich.",
+      "symptoms": {
+        "title": "Gemeinsame Merkmale",
+        "items": [
+          "Schwierigkeiten, stabile Beziehungen aufrechtzuerhalten",
+          "Intensive oder instabile Emotionen",
+          "Impulsive Verhaltensweisen",
+          "Verzerrtes Selbstbild",
+          "Denkmuster, die Probleme verursachen",
+          "Schwierigkeiten, die Perspektiven anderer zu verstehen"
+        ]
+      },
+      "types": {
+        "title": "Cluster der Persönlichkeitsstörungen",
+        "clusterA": {
+          "name": "Cluster A",
+          "description": "Gekennzeichnet durch seltsame oder exzentrische Verhaltensweisen (Paranoid, Schizoid, Schizotypisch)."
+        },
+        "clusterB": {
+          "name": "Cluster B",
+          "description": "Gekennzeichnet durch dramatische oder emotionale Verhaltensweisen (Borderline, Narzisstisch, Antisozial, Histrionisch)."
+        },
+        "clusterC": {
+          "name": "Cluster C",
+          "description": "Gekennzeichnet durch ängstliche oder furchtsame Verhaltensweisen (Vermeidend, Dependent, Zwanghaft)."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+    },
+    "selfEsteem": {
+      "title": "Selbstwertgefühl",
+      "subtitle": "Gesunden Selbstwert Aufbauen",
+      "intro": "Das Selbstwertgefühl spiegelt wider, wie wir uns selbst wertschätzen und wahrnehmen. Ein niedriges Selbstwertgefühl kann jeden Lebensbereich beeinflussen, von Beziehungen bis zur Karriere. Echten Selbstwert aufzubauen ist eine Reise der Selbstentdeckung und des Wachstums.",
+      "symptoms": {
+        "title": "Zeichen von niedrigem Selbstwertgefühl",
+        "items": [
+          "Negative Selbstgespräche und Selbstkritik",
+          "Schwierigkeiten, Komplimente anzunehmen",
+          "Angst vor Versagen oder Risiken",
+          "Gefallsucht-Verhalten",
+          "Schwierigkeiten, Grenzen zu setzen",
+          "Ungünstiger Vergleich mit anderen",
+          "Perfektionismus oder Aufschieben"
+        ]
+      },
+      "types": {
+        "title": "Bereiche, die wir behandeln",
+        "selfWorth": {
+          "name": "Kernwert des Selbst",
+          "description": "Entwicklung eines stabilen Gefühls für den inhärenten Wert."
+        },
+        "selfCompassion": {
+          "name": "Selbstmitgefühl",
+          "description": "Lernen, sich selbst mit Freundlichkeit und Verständnis zu behandeln."
+        },
+        "confidence": {
+          "name": "Selbstvertrauensaufbau",
+          "description": "Entwicklung des Glaubens an Ihre Fähigkeiten und Ihr Potenzial."
+        },
+        "boundaries": {
+          "name": "Gesunde Grenzen",
+          "description": "Lernen, Ihre Bedürfnisse zu schätzen und zu schützen."
+        }
+      },
+      "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
     }
   },
   "legal": {
@@ -408,5 +1159,40 @@
       "Bietet Fähigkeiten für bedeutsame Veränderungen"
     ],
     "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+  },
+  "assessment": {
+    "title": "Vorgespräch-Fragebogen",
+    "subtitle": "Helfen Sie uns, Ihre Bedürfnisse zu verstehen",
+    "intro": "Dieser vertrauliche Fragebogen hilft uns, Ihr Beratungsgespräch vorzubereiten. Bitte antworten Sie ehrlich - es gibt keine richtigen oder falschen Antworten.",
+    "step": "Schritt",
+    "of": "von",
+    "itemsSelected": "Punkte ausgewählt",
+    "personalInfo": "Persönliche Informationen",
+    "personalInfoDesc": "Bitte geben Sie Ihre Kontaktdaten an, damit wir Sie erreichen können.",
+    "fullName": "Vollständiger Name",
+    "fullNamePlaceholder": "Ihr vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "ihre@email.de",
+    "phone": "Telefonnummer (optional)",
+    "phonePlaceholder": "+49 123 456 7890",
+    "checklistDesc": "Bitte wählen Sie alle Punkte aus, die auf Sie zutreffen. Diese Informationen helfen uns, Ihre Situation besser zu verstehen.",
+    "healthyIdentityDesc": "Diese repräsentieren positive Eigenschaften. Wählen Sie alle aus, die Sie beschreiben.",
+    "additionalInfo": "Zusätzliche Informationen",
+    "additionalInfoDesc": "Gibt es noch etwas, das Sie uns vor Ihrem Beratungsgespräch mitteilen möchten?",
+    "notes": "Zusätzliche Anmerkungen",
+    "notesPlaceholder": "Teilen Sie zusätzliche Informationen, die uns helfen könnten, Ihre Situation besser zu verstehen...",
+    "summary": "Zusammenfassung",
+    "condition": "Anliegen",
+    "privacyNotice": "Ihre Informationen sind streng vertraulich und werden nur zur Vorbereitung Ihres Beratungsgesprächs verwendet. Wir erfüllen die DSGVO und deutsche Datenschutzgesetze.",
+    "continue": "Weiter",
+    "back": "Zurück",
+    "submit": "Fragebogen Absenden",
+    "submitting": "Wird gesendet...",
+    "successTitle": "Fragebogen Erfolgreich Eingereicht",
+    "successMessage": "Vielen Dank für das Ausfüllen des Fragebogens. Wir werden Ihre Antworten prüfen und Sie bald kontaktieren, um Ihr Beratungsgespräch zu vereinbaren.",
+    "backToHome": "Zurück zur Startseite",
+    "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "startAssessment": "Fragebogen Starten",
+    "takeAssessment": "Vorgespräch-Fragebogen Ausfüllen"
   }
 }

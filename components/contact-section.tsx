@@ -7,43 +7,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardContent } from "@/components/ui/card"
-import { Mail, Phone, MapPin, Clock, Send, type LucideIcon } from "lucide-react"
-
-type ContactInfoKey = "phone" | "email" | "location" | "hours"
-
-interface ContactInfoItem {
-  key: ContactInfoKey
-  icon: LucideIcon
-  value: string
-  href: string
-}
-
-const contactInfoItems: ContactInfoItem[] = [
-  {
-    key: "phone",
-    icon: Phone,
-    value: "+40 700 000 000",
-    href: "tel:+40700000000",
-  },
-  {
-    key: "email",
-    icon: Mail,
-    value: "contact@mindcores.",
-    href: "mailto:contact@mindcores.org",
-  },
-  {
-    key: "location",
-    icon: MapPin,
-    value: "Arad, Romania",
-    href: "#",
-  },
-  {
-    key: "hours",
-    icon: Clock,
-    value: "", // Will be translated
-    href: "#",
-  },
-]
+import { Mail, Phone, MapPin, Clock, Send } from "lucide-react"
 
 export function ContactSection() {
   const t = useTranslations("contact")
@@ -90,27 +54,90 @@ export function ContactSection() {
         <div className="grid lg:grid-cols-5 gap-12">
           {/* Contact Info */}
           <div className="lg:col-span-2 space-y-6">
-            {contactInfoItems.map((info) => {
-              const Icon = info.icon
-              const displayValue = info.key === "hours" ? t("hoursValue") : info.value
-              return (
-                <Card key={info.key} className="bg-secondary/30 border-border/50">
-                  <CardContent className="p-6">
-                    <a href={info.href} className="flex items-start gap-4 group">
-                      <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
-                        <Icon className="h-5 w-5 text-primary" />
-                      </div>
-                      <div>
-                        <p className="text-sm text-muted-foreground mb-1">{t(info.key)}</p>
-                        <p className="font-medium text-foreground group-hover:text-primary transition-colors">
-                          {displayValue}
-                        </p>
-                      </div>
-                    </a>
-                  </CardContent>
-                </Card>
-              )
-            })}
+            {/* Phone */}
+            <Card className="bg-secondary/30 border-border/50">
+              <CardContent className="p-6">
+                <a href={`tel:${t("phoneValue").replace(/\s/g, "")}`} className="flex items-start gap-4 group">
+                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
+                    <Phone className="h-5 w-5 text-primary" />
+                  </div>
+                  <div>
+                    <p className="text-sm text-muted-foreground mb-1">{t("phone")}</p>
+                    <p className="font-medium text-foreground group-hover:text-primary transition-colors">
+                      {t("phoneValue")}
+                    </p>
+                  </div>
+                </a>
+              </CardContent>
+            </Card>
+
+            {/* Email */}
+            <Card className="bg-secondary/30 border-border/50">
+              <CardContent className="p-6">
+                <a href={`mailto:${t("emailValue")}`} className="flex items-start gap-4 group">
+                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
+                    <Mail className="h-5 w-5 text-primary" />
+                  </div>
+                  <div>
+                    <p className="text-sm text-muted-foreground mb-1">{t("email")}</p>
+                    <p className="font-medium text-foreground group-hover:text-primary transition-colors">
+                      {t("emailValue")}
+                    </p>
+                  </div>
+                </a>
+              </CardContent>
+            </Card>
+
+            {/* Location Germany */}
+            <Card className="bg-secondary/30 border-border/50">
+              <CardContent className="p-6">
+                <div className="flex items-start gap-4">
+                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0">
+                    <MapPin className="h-5 w-5 text-primary" />
+                  </div>
+                  <div>
+                    <p className="text-sm text-muted-foreground mb-1">{t("location")} - Germany</p>
+                    <p className="font-medium text-foreground text-sm leading-relaxed">
+                      {t("locationGermany")}
+                    </p>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+
+            {/* Location Romania */}
+            <Card className="bg-secondary/30 border-border/50">
+              <CardContent className="p-6">
+                <div className="flex items-start gap-4">
+                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0">
+                    <MapPin className="h-5 w-5 text-primary" />
+                  </div>
+                  <div>
+                    <p className="text-sm text-muted-foreground mb-1">{t("location")} - Romania</p>
+                    <p className="font-medium text-foreground text-sm leading-relaxed">
+                      {t("locationRomania")}
+                    </p>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+
+            {/* Hours */}
+            <Card className="bg-secondary/30 border-border/50">
+              <CardContent className="p-6">
+                <div className="flex items-start gap-4">
+                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0">
+                    <Clock className="h-5 w-5 text-primary" />
+                  </div>
+                  <div>
+                    <p className="text-sm text-muted-foreground mb-1">{t("hours")}</p>
+                    <p className="font-medium text-foreground">
+                      {t("hoursValue")}
+                    </p>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
 
             {/* Languages */}
             <div className="pt-6 border-t border-border">

@@ -4,16 +4,77 @@ import Link from "next/link"
 import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { ArrowRight, CheckCircle, type LucideIcon } from "lucide-react"
+import {
+  ArrowRight,
+  CheckCircle,
+  ClipboardList,
+  Brain,
+  CloudRain,
+  Shield,
+  Link2,
+  Zap,
+  Heart,
+  Utensils,
+  Flower2,
+  Users,
+  Flame,
+  Baby,
+  HeartPulse,
+  User,
+  Activity,
+  Puzzle,
+  Sparkles,
+  type LucideIcon,
+} from "lucide-react"
+
+type IconName =
+  | "Brain"
+  | "CloudRain"
+  | "Shield"
+  | "Link2"
+  | "Zap"
+  | "Heart"
+  | "Utensils"
+  | "Flower2"
+  | "Users"
+  | "Flame"
+  | "Baby"
+  | "HeartPulse"
+  | "User"
+  | "Activity"
+  | "Puzzle"
+  | "Sparkles"
+
+const iconMap: Record<IconName, LucideIcon> = {
+  Brain,
+  CloudRain,
+  Shield,
+  Link2,
+  Zap,
+  Heart,
+  Utensils,
+  Flower2,
+  Users,
+  Flame,
+  Baby,
+  HeartPulse,
+  User,
+  Activity,
+  Puzzle,
+  Sparkles,
+}
 
 interface DisorderPageProps {
   disorderKey: string
-  icon: LucideIcon
+  iconName: IconName
 }
 
-export function DisorderPage({ disorderKey, icon: Icon }: DisorderPageProps) {
+export function DisorderPage({ disorderKey, iconName }: DisorderPageProps) {
   const t = useTranslations(`conditions.${disorderKey}`)
   const tNav = useTranslations("nav")
+  const tAssessment = useTranslations("assessment")
+
+  const Icon = iconMap[iconName]
 
   // Get symptoms array
   const symptoms = t.raw("symptoms.items") as string[]
@@ -147,9 +208,9 @@ export function DisorderPage({ disorderKey, icon: Icon }: DisorderPageProps) {
                 size="lg"
                 className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-8"
               >
-                <Link href="/#contact">
-                  {tNav("bookConsultation")}
-                  <ArrowRight className="ml-2 h-4 w-4" />
+                <Link href={`/assessment?disorder=${disorderKey}`}>
+                  {tAssessment("takeAssessment")}
+                  <ClipboardList className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
               <Button
@@ -158,7 +219,10 @@ export function DisorderPage({ disorderKey, icon: Icon }: DisorderPageProps) {
                 size="lg"
                 className="rounded-full px-8 border-primary/30 hover:bg-primary/5"
               >
-                <Link href="/#services">{tNav("services")}</Link>
+                <Link href="/#contact">
+                  {tNav("bookConsultation")}
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
               </Button>
             </div>
           </div>

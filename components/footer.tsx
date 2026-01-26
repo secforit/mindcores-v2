@@ -3,26 +3,27 @@
 import Link from "next/link"
 import Image from "next/image"
 import { useTranslations } from "next-intl"
-import { Mail, Phone, MapPin } from "lucide-react"
+import { Mail, Phone, MapPin, Award } from "lucide-react"
 
 export function Footer() {
   const t = useTranslations("footer")
   const tNav = useTranslations("nav")
+  const tContact = useTranslations("contact")
 
   const quickLinks = [
     { name: tNav("home"), href: "/" },
-    { name: tNav("about"), href: "#about" },
-    { name: tNav("services"), href: "#services" },
-    { name: tNav("therapies"), href: "#therapies" },
-    { name: tNav("contact"), href: "#contact" },
+    { name: tNav("about"), href: "/#about" },
+    { name: tNav("services"), href: "/#services" },
+    { name: tNav("therapies"), href: "/#therapies" },
+    { name: tNav("contact"), href: "/#contact" },
   ]
 
   const services = [
-    { name: t("anxietyTreatment"), href: "#services" },
-    { name: t("depressionTherapy"), href: "#services" },
-    { name: t("traumaPTSD"), href: "#services" },
-    { name: t("couplesCounseling"), href: "#services" },
-    { name: t("groupPrograms"), href: "#services" },
+    { name: t("anxietyTreatment"), href: "/conditions/anxiety" },
+    { name: t("depressionTherapy"), href: "/conditions/depression" },
+    { name: t("traumaPTSD"), href: "/conditions/trauma" },
+    { name: t("couplesCounseling"), href: "/conditions/relationships" },
+    { name: t("assessment"), href: "/assessment" },
   ]
 
   return (
@@ -34,19 +35,23 @@ export function Footer() {
             <Link href="/" className="flex items-center gap-3">
               <Image
                 src="/logo.png"
-                alt="Diana Raluca Psychology"
+                alt="Mindcores"
                 width={50}
                 height={50}
                 className="h-12 w-12 brightness-0 invert"
               />
               <div>
-                <p className="text-lg font-semibold tracking-wide">Diana Raluca</p>
+                <p className="text-lg font-semibold tracking-wide">{t("brandName")}</p>
                 <p className="text-xs text-background/60 tracking-widest uppercase">Psychology</p>
               </div>
             </Link>
             <p className="text-sm text-background/70 leading-relaxed">
               {t("brandDescription")}
             </p>
+            <div className="flex items-center gap-2 text-xs text-background/50">
+              <Award className="h-4 w-4 text-primary" />
+              <span>{t("professionalLicense")}</span>
+            </div>
           </div>
 
           {/* Quick Links */}
@@ -95,28 +100,34 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-primary shrink-0 mt-0.5" />
-                <span className="text-sm text-background/70">
-                  Str. Poetului 1-3
-                  <br />
-                  Arad, Romania
-                </span>
+                <div className="text-sm text-background/70">
+                  <p className="font-medium text-background/90 mb-1">Germany</p>
+                  <span>{tContact("locationGermany")}</span>
+                </div>
+              </li>
+              <li className="flex items-start gap-3">
+                <MapPin className="h-5 w-5 text-primary shrink-0 mt-0.5" />
+                <div className="text-sm text-background/70">
+                  <p className="font-medium text-background/90 mb-1">Romania</p>
+                  <span>{tContact("locationRomania")}</span>
+                </div>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-primary shrink-0" />
                 <a
-                  href="tel:+40700000000"
+                  href={`tel:${tContact("phoneValue").replace(/\s/g, "")}`}
                   className="text-sm text-background/70 hover:text-primary transition-colors"
                 >
-                  +40 700 000 000
+                  {tContact("phoneValue")}
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-primary shrink-0" />
                 <a
-                  href="mailto:contact@mindcores.org"
+                  href={`mailto:${tContact("emailValue")}`}
                   className="text-sm text-background/70 hover:text-primary transition-colors"
                 >
-                  contact@mindcores.org
+                  {tContact("emailValue")}
                 </a>
               </li>
             </ul>
@@ -128,7 +139,7 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-background/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-background/50">
-              © {new Date().getFullYear()} Diana Raluca Psychology. {t("allRightsReserved")}
+              © {new Date().getFullYear()} Mindcores - Dipl. Psych. Raluca Diana Tocoian. {t("allRightsReserved")}
             </p>
             <div className="flex items-center gap-6">
               <Link
