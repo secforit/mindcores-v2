@@ -60,7 +60,15 @@
       }
     },
     "vision": "To achieve healthy minds through collaborative relationships and reflective practice",
-    "mission": "To provide a safe and supportive environment that fosters collaborative relationships to help achieve the best outcomes and work towards healthy minds"
+    "mission": "To provide a safe and supportive environment that fosters collaborative relationships to help achieve the best outcomes and work towards healthy minds",
+    "philosophy": {
+      "title": "Our Philosophy",
+      "description": "We believe that mental health is not the absence of illness, but rather the resilience and ability to cope with life's challenges. We offer comprehensive psychological services including assessments, diagnosis, counseling, and psychotherapy."
+    },
+    "approach": {
+      "title": "Our Approach",
+      "description": "We use conversation-based and evidence-based techniques in a warm, open, and non-judgmental environment. Each treatment plan is personalized to your unique needs."
+    }
   },
   "services": {
     "tagline": "Areas of Expertise",
@@ -139,6 +147,23 @@
         "title": "Self-Esteem",
         "description": "Building confidence and a positive self-image through therapeutic support."
       }
+    },
+    "sessionInfo": {
+      "title": "Session Information",
+      "individualDuration": "Minimum 50 minutes for individual therapy",
+      "assessmentNote": "Assessments and group programs may vary in duration",
+      "languages": "Sessions available in Romanian, German, and English"
+    },
+    "wellbeingAreas": {
+      "title": "Wellbeing Areas Addressed",
+      "items": [
+        "Setting healthy boundaries",
+        "Mindfulness and awareness",
+        "Emotional intelligence",
+        "Self-esteem and self-image",
+        "Positive body image",
+        "Healthy lifestyle habits"
+      ]
     }
   },
   "therapies": {
@@ -170,7 +195,31 @@
         },
         "recognition": "EMDR is recognised by the World Health Organisation (WHO) and the American Psychiatric Association (APA) as a Gold Standard treatment for PTSD. In 2018 the Australian Psychological Society (APS) included EMDR therapy as a Level I evidence-based psychological intervention for post-traumatic stress disorder in adults.",
         "howItWorks": "A Harvard researcher investigated why EMDR is effective and found that symptoms rooted in trauma were connected with the biological mechanisms involved in Rapid Eye Movement (REM) sleep. When EMDR therapy is conducted, the clinician helps the client enter a similar state that emulates REM sleep. This allows internal associations to arise and we can begin to process the memory and disturbing feelings. In successful EMDR therapy, the meaning of painful events is transformed on an emotional level.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "detailedDescription": "EMDR is a psychotherapy that enables us to heal from the symptoms and emotional distress caused by disturbing life experiences. This type of therapy demonstrates that the mind can heal from psychological trauma just as the body recovers from physical trauma. EMDR is recognized as a Level I evidence-based intervention (Australian Psychological Society, 2018).",
+        "phases": {
+          "title": "EMDR Treatment Phases",
+          "items": [
+            "History assessment and treatment planning",
+            "Client preparation and stabilization",
+            "Assessment of target memories",
+            "Desensitization through bilateral stimulation",
+            "Installation of positive cognitions",
+            "Body scan for residual tension",
+            "Session closure and stabilization",
+            "Re-evaluation in subsequent sessions"
+          ]
+        },
+        "additionalTechniques": {
+          "title": "Complementary Techniques Used",
+          "items": [
+            "CBT",
+            "DBT",
+            "ACT",
+            "Schema Therapy",
+            "NLP"
+          ]
+        }
       },
       "mindfulness": {
         "name": "Mindfulness-Based Therapy",
@@ -217,7 +266,11 @@
           ]
         },
         "howItWorks": "CBT works by helping you become aware of inaccurate or negative thinking so you can view challenging situations more clearly and respond to them in a more effective way. The therapy typically involves efforts to change thinking patterns and behavioral patterns.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "whatToExpect": {
+          "title": "What to Expect",
+          "description": "CBT works by helping you become aware of inaccurate or negative thinking, so you can view challenging situations more clearly and respond to them more effectively. It is a structured therapy, usually short-term (12-20 sessions), with practical exercises between sessions."
+        }
       },
       "nlp": {
         "name": "NLP Techniques",
@@ -270,7 +323,12 @@
           ]
         },
         "advantages": "A major advantage is that typical behavioral patterns, etiquette, and unwritten rules of the family can be directly observed during therapy sessions. The therapist's targeted questions enable new perspectives on problematic situations, and often minimal stimuli can initiate changes quickly, leading to surprising therapeutic successes.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "sessionInfo": {
+          "title": "About Sessions",
+          "description": "Family therapy is solution-oriented and strives for rapid improvements. A key principle is 'helping clients help themselves.' On average, between 5 and 20 sessions are sufficient."
+        },
+        "uniqueAdvantage": "A great advantage is that typical behavioral patterns, labels, and unwritten family rules can be observed directly during therapy sessions. The therapist's targeted questions allow for new perspectives and insights."
       },
       "couples": {
         "name": "Couples Counseling",
@@ -350,7 +408,11 @@
         "concept": "This therapy is largely based around goal setting and the step-by-step process involved to reach our goals. It also aims to demonstrate to clients their resilience and the different ways they are capable of coping – many of which they are likely already using without acknowledgement.",
         "example": "Our therapists could use solution focused therapy in multiple ways. One example would be asking you to describe your ideal scenario where your issues don't exist. This can help identify small and practical steps that can be immediately taken.",
         "applications": "Solution focused therapy is often used to address issues for individuals, family units, and couples, but can also be useful to aid problems within a school or workplace.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "miracleQuestion": {
+          "title": "The Miracle Question Technique",
+          "description": "Our therapists might ask you to describe your ideal scenario where your problems don't exist. This can help identify small, practical steps that can be taken immediately."
+        }
       },
       "identityTrauma": {
         "name": "Identity-Oriented Trauma Therapy",
@@ -359,9 +421,22 @@
         "intro": "Healing from either physical or mental disorders needs a goal. According to Prof. Dr. Ruppert this 'equates to fully and completely living one's own identity, so that we can express and realise what is at the core of our being'. In order to be in touch with our own identity we 'need a healthy self, a free will and to be in close emotional contact with our body'.",
         "framework": "The IoPT framework provides a safe way to explore the suppressed and unconscious parts of the psyche, to recover from the effects of trauma and to restore our healthy self. The central focus in this therapy is on personal life and an in-depth discovery of one's own identity.",
         "understanding": "The framework shows how trauma affects the whole Living Human Organism (LHO) and how to recover from the effect of trauma to gain a healthy self and a healthy will, despite traumatisation. IoPT therapy is based on a specific understanding of trauma, and psychological splitting as the means of surviving trauma.",
-        "traumaBiography": "Every person has a history of trauma, called a trauma biography. The traumas we go through have major influence on who we become later in life, it also affects how we deal with trauma later in life, and influences our relationships and abilities.",
+        "traumaBiography": {
+          "title": "Trauma Biography",
+          "description": "Every person has a trauma history, called a trauma biography. The traumas we go through have a major influence on who we become later in life and influence our relationships and abilities."
+        },
         "keyInsight": "Trauma is a situation that pays no attention to individual identity, and the cost is a loss of self, a loss of identity. This is why Dr. Ruppert's approach is called Identity-oriented Psychotrauma Theory.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "keyPrinciples": {
+          "title": "Key IoPT Principles",
+          "items": [
+            "Trauma is a situation that pays no attention to individual identity",
+            "The cost of trauma is a loss of self, a loss of identity",
+            "The IoPT framework offers a safe way to explore repressed parts of the psyche",
+            "Recovery involves gaining a healthy self and a healthy will",
+            "The Intention Method allows safe exploration and healing"
+          ]
+        }
       },
       "schemaTherapy": {
         "name": "Schema Therapy",
@@ -380,7 +455,11 @@
             "Long-standing emotional problems"
           ]
         },
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "schemaExplanation": {
+          "title": "What Are Schemas?",
+          "description": "Schemas are deeply rooted emotional patterns that develop in childhood and continue throughout life. When triggered, they can lead to intense negative emotions and unhealthy behaviors. Schema Therapy combines elements from cognitive behavioral therapy, attachment theory, and emotion-focused approaches."
+        }
       },
       "dbt": {
         "name": "DBT",
@@ -455,7 +534,8 @@
           ]
         },
         "principle": "The client's resources are activated to achieve their individual solutions and goals as independently and self-organized as possible. The client is the expert in their problems and solutions; the counselor is the expert in the path to finding the solution.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "expertPrinciple": "The client's resources are activated to achieve their individual solutions and goals as independently as possible. The client is the expert on their problems and solutions; the counselor is the expert on the path to finding the solution."
       },
       "bioenergetic": {
         "name": "Bioenergetic Coaching",
@@ -463,7 +543,10 @@
         "fullTitle": "Bioenergetic Coaching",
         "intro": "Change doesn't just begin in the mind, but permeates the entire person—body, mind, and soul. As early as the 1950s, it was proven that emotional blockages are anchored not only mentally but also physically.",
         "explanation": "Bioenergetic coaching, a holistic method, incorporates bioenergetic exercises aimed at activating the body and releasing stored tensions to promote inner balance and freedom. It combines thought reflection with physical activation and consideration of emotional and mental processes.",
-        "bodyMemory": "Body memory is the concept that describes how the body stores experiences and emotions and demonstrates how closely the brain and body work together. Change processes cannot be controlled through thought alone; they require the involvement of the body.",
+        "bodyMemory": {
+          "title": "Body Memory",
+          "description": "Body memory describes how the body stores experiences and emotions. Change processes cannot be controlled solely through thinking; they require the involvement of the body. The brain and body work closely together, and emotional blockages are anchored not just mentally, but also physically."
+        },
         "exercises": {
           "title": "Simple Exercises to Try",
           "items": [
@@ -579,7 +662,59 @@
           "description": "Excessive worry about having a serious illness."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Anxiety can appear in many people without warning and at any stage of our lives, often appearing alongside other disorders such as depression or post-traumatic stress disorder. It is a commonly diagnosed and treated mental disorder, but essentially, the feeling of anxiety is our body's instinctive way of protecting us from danger.",
+      "triggers": {
+        "title": "What Triggers Anxiety?",
+        "description": "Scenarios such as taking an exam or starting a new job can trigger anxiety. In these moments, anxiety can be beneficial, serving as a warning sign to be more attentive to things that could affect us. On the other hand, anxiety can also appear without a real threat and can intensify.",
+        "items": [
+          "Exam pressure and academic evaluations",
+          "Major life changes (new job, relocation, divorce)",
+          "Social situations and evaluation by others",
+          "Financial problems and economic uncertainty",
+          "Health problems or medical concerns",
+          "Loss of control over life situations",
+          "Past traumatic experiences"
+        ]
+      },
+      "causes": {
+        "title": "Causes and Risk Factors",
+        "items": [
+          "Genetic factors and family predisposition",
+          "Chemical imbalances in the brain (serotonin, noradrenaline)",
+          "Traumatic experiences from childhood or adult life",
+          "Chronic stress and daily pressures",
+          "Medical conditions (thyroid problems, heart conditions)",
+          "Substance use (caffeine, alcohol, drugs)",
+          "Personality traits (perfectionism, need for control)"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "description": "We use a combination of evidence-based techniques to treat anxiety, tailored to your individual needs.",
+        "methods": [
+          "Cognitive Behavioral Therapy (CBT) for identifying and restructuring anxious thoughts",
+          "EMDR for processing traumatic experiences that fuel anxiety",
+          "Mindfulness and relaxation techniques for managing physical symptoms",
+          "Acceptance and Commitment Therapy (ACT) for psychological flexibility",
+          "NLP for transforming limiting beliefs",
+          "Breathing and grounding exercises for panic attacks"
+        ]
+      },
+      "physicalSymptoms": {
+        "title": "Physical Symptoms of Anxiety",
+        "items": [
+          "Rapid heartbeat or palpitations",
+          "Excessive sweating",
+          "Trembling or feeling of weakness",
+          "Difficulty breathing or feeling of suffocation",
+          "Chest pain or discomfort",
+          "Nausea or digestive problems",
+          "Dizziness or feeling faint",
+          "Muscle tension and headaches"
+        ]
+      },
+      "whenToSeekHelp": "It is important to seek professional help when worries and anxiety overwhelm you and negatively affect your daily life. Recognizing symptoms and learning effective coping mechanisms are essential steps toward recovery."
     },
     "depression": {
       "title": "Depression",
@@ -620,7 +755,48 @@
         }
       },
       "statistics": "Almost 10% of women experience depression during pregnancy; this increases to 16% in the first 3 months after birth. Bipolar disorder affects approximately 2% of the population.",
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "It is completely normal for our moods to change as we respond to life's many challenges. Feeling sad or down is common, but some of us are unable to regulate our moods or feel very sad for long periods of time. Depression is much more than sadness - it includes a persistent feeling of dejection, worthlessness, numbness, or guilt that profoundly affects how we manage daily life.",
+      "causes": {
+        "title": "Causes and Risk Factors",
+        "items": [
+          "Neurotransmitter imbalances (serotonin, dopamine, noradrenaline)",
+          "Genetic predisposition and family history of depression",
+          "Stressful or traumatic life events",
+          "Chronic illness or persistent pain",
+          "Social isolation and lack of emotional support",
+          "Substance abuse (alcohol, drugs)",
+          "Hormonal changes (postpartum, menopause, thyroid problems)",
+          "Side effects of certain medications"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "description": "We offer a personalized treatment plan combining multiple therapeutic approaches.",
+        "methods": [
+          "Cognitive Behavioral Therapy for restructuring negative thoughts",
+          "Schema Therapy for deeply rooted emotional patterns",
+          "Behavioral activation for regaining motivation and pleasure",
+          "Mindfulness techniques for awareness and self-compassion",
+          "EMDR for trauma-related depression",
+          "Interpersonal therapy for improving relationships"
+        ]
+      },
+      "warningSignsDetailed": {
+        "title": "Detailed Warning Signs",
+        "description": "Some people with depression appear to function normally, hiding behind a deceiving smile. These people often hide behind a mask of persistent dejection and fatigue.",
+        "items": [
+          "Loss of interest in activities that once brought pleasure",
+          "Appetite or weight fluctuations",
+          "Insomnia or excessive sleeping",
+          "Constant fatigue and lack of energy",
+          "Feelings of excessive guilt or worthlessness",
+          "Difficulty concentrating and making decisions",
+          "Social withdrawal and isolation",
+          "Alcohol or substance use as a coping mechanism",
+          "Recurring thoughts about death or suicide"
+        ]
+      }
     },
     "trauma": {
       "title": "Trauma",
@@ -654,7 +830,59 @@
         }
       },
       "ptsdNote": "Trauma can develop into PTSD (Post-Traumatic Stress Disorder) when symptoms persist and significantly impact daily life.",
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Frightening or disturbing events are stressful for everyone and can lead to a psychological wound called trauma. This can be particularly intense if you are already dealing with an existing mental health condition. It could be a car accident, the loss of a loved one, violence, sexual assault or abuse, or a natural disaster. You can also be strongly affected if you witness someone else going through such a traumatic event.",
+      "causes": {
+        "title": "Common Causes of Trauma",
+        "items": [
+          "Accidents (car, work, domestic)",
+          "Loss of a loved one",
+          "Physical or emotional violence",
+          "Sexual assault or abuse",
+          "Natural disasters (earthquakes, floods, fires)",
+          "Experiences in conflict zones or war",
+          "Childhood neglect or abuse",
+          "Traumatizing medical procedures",
+          "Intergenerational trauma passed down from parents or grandparents"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "description": "We offer specialized trauma treatment using scientifically validated methods.",
+        "methods": [
+          "EMDR - gold standard treatment recognized by WHO and APA for PTSD",
+          "Identity-Oriented Psychotrauma Therapy (IoPT) - specialized method developed by Prof. Dr. Franz Ruppert",
+          "Trauma-focused Cognitive Behavioral Therapy",
+          "Stabilization and grounding techniques",
+          "Schema Therapy for trauma-generated patterns",
+          "Somatic processing and body work"
+        ]
+      },
+      "ptsdDetailed": {
+        "title": "The Difference Between Trauma and PTSD",
+        "description": "It is important to note that while trauma and PTSD are related, they are not the same thing. PTSD is a condition that can develop after a traumatic event and is characterized by symptoms such as flashbacks, nightmares, and avoidance behavior. Trauma, on the other hand, is the event itself and can include a variety of physical, emotional, and psychological reactions.",
+        "ptsdSymptoms": [
+          "Flashbacks - reliving the traumatic event",
+          "Recurring nightmares related to the event",
+          "Avoidance of places, people, or situations associated with the trauma",
+          "Hypervigilance and exaggerated startle response",
+          "Emotional numbness and detachment",
+          "Difficulty concentrating and memory problems",
+          "Irritability and anger outbursts"
+        ]
+      },
+      "physicalSymptoms": {
+        "title": "Physical Symptoms of Trauma",
+        "items": [
+          "Insomnia and sleep disturbances",
+          "Chronic fatigue",
+          "Muscle tension and pain",
+          "Digestive problems",
+          "Frequent headaches",
+          "Weakened immune system",
+          "Palpitations and hyperventilation"
+        ]
+      }
     },
     "addiction": {
       "title": "Addiction",
@@ -694,7 +922,32 @@
           "description": "Addiction to the emotional and physical sensations associated with traumatic experiences."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Addiction can have a significant impact on mental health. It can lead to the development of mental health conditions such as depression, anxiety, and PTSD, or can worsen existing mental health conditions. It is important to note that many who struggle with addiction also face mental health issues, and it is essential to address both problems simultaneously.",
+      "causes": {
+        "title": "Causes of Addiction",
+        "description": "While the causes of addiction are complex and different for each person, research suggests that genetic, environmental, and personal factors play a role in the development of addiction.",
+        "items": [
+          "Genetic predisposition - can make a person more vulnerable to addiction",
+          "Environmental factors - stress, trauma, access to substances",
+          "Pre-existing mental health conditions (depression, anxiety, PTSD)",
+          "Unresolved traumatic experiences",
+          "Social pressure and peer influence",
+          "Unhealthy coping mechanisms developed in childhood",
+          "Social isolation and lack of emotional support"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Cognitive Behavioral Therapy for identifying and changing thought patterns",
+          "Trauma-focused therapy for addressing underlying causes",
+          "Mindfulness techniques for managing cravings and impulses",
+          "Group therapy and recovery support",
+          "Developing healthy coping mechanisms",
+          "Dual approach - simultaneously treating addiction and associated mental health conditions"
+        ]
+      }
     },
     "adhd": {
       "title": "ADHD",
@@ -726,7 +979,18 @@
           "description": "Symptoms of both inattention and hyperactivity-impulsivity."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Comprehensive assessment and psychodiagnostics",
+          "Organization and time management strategies",
+          "Cognitive Behavioral Therapy adapted for ADHD",
+          "Mindfulness techniques for improving attention",
+          "Coaching for developing executive skills",
+          "Support for managing impulsivity"
+        ]
+      }
     },
     "attachment": {
       "title": "Attachment Disorder",
@@ -762,7 +1026,50 @@
           "description": "Difficulty forming emotional bonds, often due to early neglect."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Attachment disorders develop when early bonds with caregivers are disrupted or absent. Attachment patterns form in childhood and profoundly influence relationships, emotional regulation, and self-worth throughout life.",
+      "attachmentStyles": {
+        "title": "Attachment Styles in Detail",
+        "secure": {
+          "name": "Secure Attachment (Healthy)",
+          "description": "The ability to form stable relationships based on trust and emotional intimacy."
+        },
+        "anxious": {
+          "name": "Anxious/Preoccupied Attachment",
+          "description": "Characterized by hypervigilance in relationships, extreme jealousy, and constant fear of abandonment. People with this style constantly seek reassurance from partners."
+        },
+        "avoidant": {
+          "name": "Avoidant/Dismissive Attachment",
+          "description": "Avoidance of emotional intimacy, preference for independence, and difficulty relying on others. May appear detached or emotionally disinterested."
+        },
+        "disorganized": {
+          "name": "Disorganized/Fearful-Avoidant Attachment",
+          "description": "Contradictory behaviors - the desire for closeness coexists with the fear of intimacy. Often the result of traumatic experiences with caregivers."
+        }
+      },
+      "longTermEffects": {
+        "title": "Long-Term Effects",
+        "items": [
+          "Low self-esteem and fragile self-worth",
+          "Social difficulties and isolation",
+          "Anxiety and depression",
+          "Dissociation and emotional numbness",
+          "Substance use as a coping mechanism",
+          "Difficulty maintaining stable relationships",
+          "Repeated choice of unsuitable partners"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Schema Therapy for attachment patterns",
+          "IoPT - Identity-Oriented Psychotrauma Therapy",
+          "Emotion-focused therapy for healing attachment wounds",
+          "Identifying triggers and managing emotions",
+          "Developing healthy social behaviors",
+          "Guidance in choosing healthy partners"
+        ]
+      }
     },
     "eatingDisorders": {
       "title": "Eating Disorders",
@@ -798,7 +1105,33 @@
           "description": "Avoidant/Restrictive Food Intake Disorder - limited eating not related to body image."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Eating disorders affect many people worldwide. Statistics show that at least 9% of the population will suffer from an eating disorder at some point in their lives. They are complex mental health conditions that require professional intervention.",
+      "causes": {
+        "title": "Causes and Risk Factors",
+        "items": [
+          "Social pressure and unrealistic beauty standards",
+          "Genetic and biochemical predisposition",
+          "Low self-esteem and negative body image",
+          "Traumatic experiences (especially sexual abuse)",
+          "Perfectionism and need for control",
+          "Dysfunctional family dynamics",
+          "Pressure from sports or professional activities",
+          "Influence of social media and media"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "description": "Recovery from an eating disorder is absolutely possible with proper treatment.",
+        "methods": [
+          "Cognitive Behavioral Therapy adapted for eating disorders",
+          "Schema Therapy for underlying emotional patterns",
+          "Mindful eating techniques and body reconnection",
+          "Addressing underlying trauma through EMDR",
+          "Working with body image and self-esteem",
+          "Nutritional support integrated into the therapeutic process"
+        ]
+      }
     },
     "grief": {
       "title": "Grief & Loss",
@@ -835,7 +1168,75 @@
           "description": "Grief that is not openly acknowledged or socially supported."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Loss and grief are universal experiences and a very complex emotion that affects us all at some point in life. Whether it is the loss of a loved one, a job, or even an important possession, the emotions that accompany these losses can be overwhelming and difficult to manage.",
+      "effects": {
+        "title": "Effects of Grief and Loss",
+        "description": "The effects of grief can be significant and far-reaching. Grief can affect our physical, emotional, and mental wellbeing.",
+        "physical": [
+          "Low energy levels and fatigue",
+          "Changes in appetite",
+          "Sleep disturbances",
+          "Weakened immune system"
+        ],
+        "emotional": [
+          "Deep sadness and longing",
+          "Anger and irritability",
+          "Guilt and regret",
+          "Feelings of helplessness and hopelessness"
+        ],
+        "cognitive": [
+          "Difficulty concentrating",
+          "Confusion and disorientation",
+          "Repetitive thoughts about the loss",
+          "Changes in self-esteem"
+        ]
+      },
+      "stages": {
+        "title": "The 7 Stages of Grief",
+        "items": [
+          {
+            "stage": "Shock and Denial",
+            "description": "The initial reaction of disbelief and emotional numbness"
+          },
+          {
+            "stage": "Pain and Guilt",
+            "description": "Intense feelings of suffering and self-blame"
+          },
+          {
+            "stage": "Anger and Bargaining",
+            "description": "Frustration and attempts to change reality"
+          },
+          {
+            "stage": "Depression",
+            "description": "Deep sadness and withdrawal"
+          },
+          {
+            "stage": "The Turning Point",
+            "description": "The beginning of the acceptance process"
+          },
+          {
+            "stage": "Reconstruction",
+            "description": "Finding new ways to function"
+          },
+          {
+            "stage": "Acceptance and Hope",
+            "description": "Integrating the loss and opening to the future"
+          }
+        ],
+        "note": "It is important to note that grief is different for everyone and some of us may not experience all of these stages or may experience them in a different order."
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Empathic support and safe space for expressing emotions",
+          "Techniques for processing pain and loss",
+          "Meaning-focused therapy and life reconstruction",
+          "Mindfulness for managing overwhelming emotions",
+          "Support for complicated or prolonged grief",
+          "Social reintegration and reconstruction techniques"
+        ]
+      }
     },
     "relationships": {
       "title": "Relationships",
@@ -872,7 +1273,40 @@
           "description": "Learning to establish and maintain healthy boundaries."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Relationships are the foundation of our lives. They help us feel safe and challenged, and help us learn and grow. Every healthy and close relationship will generate conflicts and disagreements - it is our way of managing differences in ideas, beliefs, and perspectives. When conflict becomes chronic, it can lead to serious stress and, if not managed, can contribute to the deterioration of mental and physical health.",
+      "relationshipTypes": {
+        "title": "The 4 Main Types of Relationships",
+        "items": [
+          {
+            "name": "Romantic Relationships",
+            "description": "Involve a deep emotional and physical connection between two people. They can take many forms: dating, engagement, marriage. They are characterized by love, trust, and mutual support."
+          },
+          {
+            "name": "Platonic Relationships",
+            "description": "Non-romantic relationships between friends, based on trust, mutual respect, and shared interests."
+          },
+          {
+            "name": "Family Relationships",
+            "description": "Marked by a strong sense of loyalty, love, and responsibility. They can be complex with many different dynamics."
+          },
+          {
+            "name": "Professional Relationships",
+            "description": "Existing between people who work together, characterized by a common purpose or goal."
+          }
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Individual and couples counseling",
+          "Healthy communication techniques",
+          "Setting and maintaining boundaries",
+          "Conflict resolution and negotiation",
+          "Addressing insecure attachment patterns",
+          "Systemic therapy for family dynamics"
+        ]
+      }
     },
     "stress": {
       "title": "Stress",
@@ -909,7 +1343,49 @@
           "description": "Exhaustion from prolonged work-related or caregiving stress."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Stress is a common problem that affects many people. It is a natural reaction to challenging situations, but when it becomes chronic, it can negatively affect physical and mental health.",
+      "causes": {
+        "title": "The Most Common Causes of Stress",
+        "items": [
+          {
+            "name": "Work-related stress",
+            "description": "According to the APA, work is the primary source of stress in adults. Over 60% of employees experience work-related stress. Common causes include long working hours, tight deadlines, lack of control, and insufficient support."
+          },
+          {
+            "name": "Relationship stress",
+            "description": "Stress in personal relationships can have various causes: conflicts with family members, friends, or romantic partners, financial problems, or lack of social support."
+          },
+          {
+            "name": "Financial stress",
+            "description": "Financial problems are a major source of stress. According to APA studies, 72% of adults reported that money is a significant source of stress."
+          }
+        ]
+      },
+      "physicalEffects": {
+        "title": "Physical Effects of Stress",
+        "description": "When we are stressed, our bodies release cortisol and adrenaline, which in the short term can be helpful but in the long term can cause serious health problems.",
+        "items": [
+          "Headaches and migraines",
+          "Muscle tension and pain",
+          "Digestive problems",
+          "Weakened immune system",
+          "Sleep problems",
+          "Cardiovascular problems",
+          "Chronic fatigue"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Evidence-based stress management techniques",
+          "Mindfulness and meditation for stress reduction",
+          "Strategies for a healthy work-life balance",
+          "Relaxation and breathing techniques",
+          "Cognitive Behavioral Therapy for changing stressful thought patterns",
+          "Coaching for developing resilience"
+        ]
+      }
     },
     "perinatal": {
       "title": "Perinatal Mood Disorders",
@@ -948,7 +1424,43 @@
         }
       },
       "statistics": "Almost 10% of women experience depression during pregnancy; this increases to 16% in the first 3 months after birth.",
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Perinatal mood disorders affect parents during pregnancy and the postpartum period. 1 in 5 expectant mothers experience perinatal depression or anxiety. 1 in 20 expectant fathers experience depression. These conditions are treatable with proper support.",
+      "causes": {
+        "title": "Causes and Risk Factors",
+        "items": [
+          "History of anxiety or depression",
+          "Reproductive loss (miscarriage, IVF)",
+          "Difficult pregnancy or complications",
+          "Sleep deprivation",
+          "Financial or relationship stress",
+          "Lack of social support",
+          "Major hormonal changes",
+          "Traumatic birth"
+        ]
+      },
+      "selfCare": {
+        "title": "Self-Care Strategies",
+        "items": [
+          "Exposure to sunlight (10-15 minutes daily)",
+          "Moderate physical activity (20-30 minutes daily)",
+          "Prioritizing sleep when possible",
+          "Maintaining social connections",
+          "Accepting help from loved ones",
+          "Professional specialist consultation"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Specialized assessment for perinatal disorders",
+          "Cognitive Behavioral Therapy adapted for the perinatal period",
+          "Support for creating the mother-child bond",
+          "Mindfulness techniques for managing anxiety",
+          "Couples counseling for the transition to parenthood",
+          "Planning for relapse prevention"
+        ]
+      }
     },
     "sexualDysfunction": {
       "title": "Sexual Dysfunctions",
@@ -984,7 +1496,45 @@
           "description": "Pain associated with sexual activity."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Sexual dysfunctions can affect all phases of the sexual response cycle - desire, arousal, orgasm. They affect people of all genders and orientations. With sensitive professional support, many of these challenges can be successfully addressed.",
+      "causes": {
+        "title": "Causes and Risk Factors",
+        "items": [
+          "Psychological issues (anxiety, depression, stress)",
+          "Traumatic experiences, especially sexual abuse",
+          "Body image and self-esteem issues",
+          "Physical illnesses and medication side effects",
+          "Relationship problems and lack of communication",
+          "Hormonal factors and age-related changes",
+          "Pornography addiction",
+          "Post-pregnancy adjustments"
+        ]
+      },
+      "commonIssues": {
+        "title": "Common Issues Addressed",
+        "items": [
+          "Libido discrepancies between partners",
+          "Pain during intercourse (dyspareunia, vaginismus)",
+          "Orgasm difficulties (anorgasmia)",
+          "Erectile dysfunction",
+          "Premature ejaculation",
+          "Body image concerns",
+          "Sexual recovery after trauma",
+          "Post-pregnancy adjustments in sexual life"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Sensitive and professional psychosexual counseling",
+          "Cognitive Behavioral Therapy for performance anxiety",
+          "EMDR for sexual trauma",
+          "Mindfulness and body reconnection techniques",
+          "Couples counseling for improving intimate communication",
+          "Specific exercises for improving sexual function"
+        ]
+      }
     },
     "mensMentalHealth": {
       "title": "Men's Mental Health",
@@ -1021,7 +1571,44 @@
           "description": "Building emotional intelligence and connection."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Men often present different symptoms than women for the same conditions. Male depression rates have increased dramatically. Societal pressure to suppress emotions and the stigma associated with men's mental health cause many men to delay seeking professional help.",
+      "causes": {
+        "title": "Causes and Risk Factors",
+        "items": [
+          "Genetics and biological predisposition",
+          "Traumatic events and adverse experiences",
+          "Prolonged stress (professional, financial, relational)",
+          "Societal pressure to be 'strong' and not show vulnerability",
+          "Emotional isolation and lack of social support",
+          "Life transitions (divorce, retirement, job loss)",
+          "Restrictive gender roles and expectations"
+        ]
+      },
+      "selfCare": {
+        "title": "Self-Care Strategies for Men",
+        "items": [
+          "Time spent in nature and outdoor activities",
+          "Setting and maintaining healthy boundaries",
+          "Consistent sleep and sleep hygiene",
+          "Increasing joy through planned activities",
+          "Regular physical exercise",
+          "Building and maintaining social connections",
+          "Seeking professional help early"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "description": "We offer a safe and non-judgmental space where men can explore their mental health challenges.",
+        "methods": [
+          "Individual therapy adapted to men's specific needs",
+          "Anger management and emotional regulation techniques",
+          "Coaching for developing emotional intelligence",
+          "Addressing work-related stress and burnout",
+          "Working with masculine identity and gender roles",
+          "Practical and solution-oriented strategies"
+        ]
+      }
     },
     "bipolar": {
       "title": "Bipolar Disorder",
@@ -1054,7 +1641,30 @@
         }
       },
       "statistics": "Bipolar disorder affects approximately 2% of the population.",
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "detailedDescription": "Bipolar disorder, previously known as 'manic depression,' involves periods of depression and mania, with periods of normal mood in between. Mania is the opposite of depression and can vary in intensity. Bipolar disorder appears to be most closely linked to family history.",
+      "causes": {
+        "title": "Causes and Risk Factors",
+        "items": [
+          "Strong genetic predisposition and family history",
+          "Neurotransmitter imbalances",
+          "Stress and conflicts can trigger episodes",
+          "Changes in the sleep-wake cycle",
+          "Substance use",
+          "Can be misdiagnosed as depression, ADHD, or schizophrenia"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Psychoeducation about bipolar disorder and symptom management",
+          "Cognitive Behavioral Therapy for managing episodes",
+          "Emotional regulation and mindfulness techniques",
+          "Mood monitoring and identifying warning signs",
+          "Support for treatment adherence",
+          "Interpersonal and social rhythms therapy"
+        ]
+      }
     },
     "personality": {
       "title": "Personality Disorders",
@@ -1086,7 +1696,18 @@
           "description": "Characterized by anxious or fearful behaviors (Avoidant, Dependent, Obsessive-Compulsive)."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Schema Therapy - specialized approach for personality disorders",
+          "DBT (Dialectical Behavior Therapy) - especially for Borderline",
+          "Mentalization-focused therapy",
+          "Developing emotional regulation skills",
+          "Working with interpersonal relationships",
+          "Mindfulness and self-compassion techniques"
+        ]
+      }
     },
     "selfEsteem": {
       "title": "Self-Esteem",
@@ -1123,7 +1744,30 @@
           "description": "Learning to value and protect your needs."
         }
       },
-      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+      "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "causes": {
+        "title": "Causes of Low Self-Esteem",
+        "items": [
+          "Negative childhood experiences (criticism, neglect, abuse)",
+          "Bullying or social exclusion",
+          "Abusive or toxic relationships",
+          "Perceived failures or constant comparisons",
+          "Unrealistic standards of perfectionism",
+          "Trauma and adverse experiences",
+          "Social media pressure"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Our Therapeutic Approach",
+        "methods": [
+          "Cognitive Behavioral Therapy for restructuring negative thoughts",
+          "Schema Therapy for deeply rooted patterns",
+          "Self-compassion and mindfulness techniques",
+          "Confidence-building exercises",
+          "Developing assertiveness skills",
+          "Working with self-image and identity"
+        ]
+      }
     }
   },
   "legal": {
@@ -1160,7 +1804,29 @@
       "Creates professional, personal, compassionate wellbeing experience",
       "Provides skills for meaningful change"
     ],
-    "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+    "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+    "detailedPoints": [
+      {
+        "title": "Holistic Approach",
+        "description": "I prioritize client wellbeing and address issues overlooked by other services. We don't just treat symptoms, but the whole person."
+      },
+      {
+        "title": "Continuous Feedback",
+        "description": "I continuously review client feedback to adapt and constantly improve the therapeutic process."
+      },
+      {
+        "title": "Eight Forms of Intelligence",
+        "description": "I analyze and leverage the 8 forms of intelligence: naturalistic, interpersonal, intrapersonal, linguistic, logical-mathematical, bodily/kinesthetic, musical, and spatial."
+      },
+      {
+        "title": "Personalized Experience",
+        "description": "I create a professional, personal, and compassionate wellbeing experience tailored to each individual client."
+      },
+      {
+        "title": "Skills for Change",
+        "description": "I provide concrete skills and practical tools for meaningful and lasting change in your life."
+      }
+    ]
   },
   "assessment": {
     "title": "Pre-Consultation Assessment",

@@ -16,10 +16,10 @@ export function Header() {
 
   const navigation = [
     { name: t("home"), href: "/" },
-    { name: t("about"), href: "#about" },
-    { name: t("services"), href: "#services" },
-    { name: t("therapies"), href: "#therapies" },
-    { name: t("contact"), href: "#contact" },
+    { name: t("about"), href: "/#about" },
+    { name: t("services"), href: "/#services" },
+    { name: t("therapies"), href: "/#therapies" },
+    { name: t("contact"), href: "/#contact" },
   ]
 
   return (
@@ -74,7 +74,7 @@ export function Header() {
             asChild
             className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-6"
           >
-            <Link href="#contact">{t("bookConsultation")}</Link>
+            <Link href="/#contact">{t("bookConsultation")}</Link>
           </Button>
         </div>
 
@@ -127,7 +127,7 @@ export function Header() {
                 asChild
                 className="w-full bg-primary text-primary-foreground hover:bg-primary/90 rounded-full"
               >
-                <Link href="#contact">{t("bookConsultation")}</Link>
+                <Link href="/#contact">{t("bookConsultation")}</Link>
               </Button>
             </div>
           </div>

@@ -60,7 +60,15 @@
       }
     },
     "vision": "Să atingem minți sănătoase prin relații de colaborare și practică reflexivă",
-    "mission": "Să oferim un mediu sigur și suportiv care promovează relații de colaborare pentru a obține cele mai bune rezultate și a lucra către minți sănătoase"
+    "mission": "Să oferim un mediu sigur și suportiv care promovează relații de colaborare pentru a obține cele mai bune rezultate și a lucra către minți sănătoase",
+    "philosophy": {
+      "title": "Filozofia Noastră",
+      "description": "Credem că sănătatea mintală nu înseamnă absența bolii, ci reprezintă reziliența și capacitatea de a face față provocărilor vieții. Oferim servicii psihologice comprehensive incluzând evaluări, diagnostic, consiliere și psihoterapie."
+    },
+    "approach": {
+      "title": "Abordarea Noastră",
+      "description": "Utilizăm tehnici bazate pe conversație și dovezi într-un mediu cald, deschis și fără judecată. Fiecare plan de tratament este personalizat pentru nevoile tale unice."
+    }
   },
   "services": {
     "tagline": "Domenii de Expertiză",
@@ -139,6 +147,23 @@
         "title": "Stimă de Sine",
         "description": "Construirea încrederii și a unei imagini de sine pozitive prin suport terapeutic."
       }
+    },
+    "sessionInfo": {
+      "title": "Informații despre Ședințe",
+      "individualDuration": "Minimum 50 de minute pentru terapie individuală",
+      "assessmentNote": "Evaluările și programele de grup pot varia ca durată",
+      "languages": "Ședințe disponibile în română, germană și engleză"
+    },
+    "wellbeingAreas": {
+      "title": "Domenii de Bunăstare Abordate",
+      "items": [
+        "Stabilirea limitelor sănătoase",
+        "Mindfulness și conștientizare",
+        "Inteligență emoțională",
+        "Stimă de sine și imagine de sine",
+        "Imagine corporală pozitivă",
+        "Obiceiuri sănătoase de viață"
+      ]
     }
   },
   "therapies": {
@@ -170,7 +195,31 @@
         },
         "recognition": "EMDR este recunoscut de Organizația Mondială a Sănătății (OMS) și de Asociația Americană de Psihiatrie (APA) ca tratament standard de aur pentru PTSD.",
         "howItWorks": "Un cercetător de la Harvard a investigat de ce EMDR este eficient și a descoperit că simptomele înrădăcinate în traumă erau conectate cu mecanismele biologice implicate în somnul REM. Când se efectuează terapia EMDR, clinicianul ajută clientul să intre într-o stare similară care emulează somnul REM.",
-        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+        "detailedDescription": "EMDR este o psihoterapie care ne permite să ne vindecăm de simptomele și suferința emoțională cauzate de experiențele de viață tulburătoare. Acest tip de terapie demonstrează că mintea se poate vindeca de trauma psihologică la fel cum corpul se recuperează de trauma fizică. EMDR este recunoscut ca intervenție bazată pe dovezi de Nivel I (Australian Psychological Society, 2018).",
+        "phases": {
+          "title": "Fazele Tratamentului EMDR",
+          "items": [
+            "Evaluarea istoricului și planificarea tratamentului",
+            "Pregătirea și stabilizarea clientului",
+            "Evaluarea amintirilor țintă",
+            "Desensibilizarea prin stimulare bilaterală",
+            "Instalarea cognițiilor pozitive",
+            "Scanarea corporală pentru tensiuni reziduale",
+            "Încheierea ședinței și stabilizare",
+            "Reevaluare în ședințele ulterioare"
+          ]
+        },
+        "additionalTechniques": {
+          "title": "Tehnici Complementare Utilizate",
+          "items": [
+            "TCC",
+            "DBT",
+            "ACT",
+            "Terapia Schemelor",
+            "NLP"
+          ]
+        }
       },
       "mindfulness": {
         "name": "Terapia Bazată pe Mindfulness",
@@ -217,7 +266,11 @@
           ]
         },
         "howItWorks": "TCC funcționează ajutându-te să devii conștient de gândirea inexactă sau negativă, astfel încât să poți vedea situațiile provocatoare mai clar și să răspunzi la ele într-un mod mai eficient.",
-        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+        "whatToExpect": {
+          "title": "La Ce Să Te Aștepți",
+          "description": "TCC funcționează ajutându-te să devii conștient de gândirea inexactă sau negativă, astfel încât să poți vedea situațiile provocatoare mai clar și să răspunzi la ele într-un mod mai eficient. Este o terapie structurată, de obicei pe termen scurt (12-20 ședințe), cu exerciții practice între ședințe."
+        }
       },
       "nlp": {
         "name": "Tehnici NLP",
@@ -270,7 +323,12 @@
           ]
         },
         "advantages": "Un mare avantaj este că pattern-urile comportamentale tipice, eticheta și regulile nescrise ale familiei pot fi observate direct în timpul ședințelor de terapie. Întrebările țintite ale terapeutului permit noi perspective.",
-        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+        "sessionInfo": {
+          "title": "Despre Ședințe",
+          "description": "Terapia de familie este orientată spre soluții și se străduiește să obțină îmbunătățiri rapide. Un principiu cheie este 'a ajuta clienții să se ajute singuri'. În medie, între 5 și 20 de ședințe sunt suficiente."
+        },
+        "uniqueAdvantage": "Un mare avantaj este că pattern-urile comportamentale tipice, etichetele și regulile nescrise ale familiei pot fi observate direct în timpul ședințelor de terapie. Întrebările țintite ale terapeutului permit noi perspective și insight-uri."
       },
       "couples": {
         "name": "Consilierea de Cuplu",
@@ -350,7 +408,11 @@
         "concept": "Această terapie se bazează în mare parte pe stabilirea obiectivelor și pe procesul pas cu pas pentru atingerea obiectivelor noastre. De asemenea, demonstrează clienților reziliența lor și diferitele moduri în care sunt capabili să facă față.",
         "example": "Terapeuții noștri te-ar putea ruga să descrii scenariul tău ideal în care problemele tale nu există. Acest lucru poate ajuta la identificarea pașilor mici și practici care pot fi luați imediat.",
         "applications": "Terapia focusată pe soluții este adesea folosită pentru a aborda probleme pentru indivizi, unități familiale și cupluri, dar poate fi utilă și pentru probleme în școală sau la locul de muncă.",
-        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+        "miracleQuestion": {
+          "title": "Tehnica Întrebării Miracolului",
+          "description": "Terapeuții noștri te-ar putea ruga să descrii scenariul tău ideal în care problemele tale nu există. Acest lucru poate ajuta la identificarea pașilor mici și practici care pot fi luați imediat."
+        }
       },
       "identityTrauma": {
         "name": "Terapia Traumei Orientată pe Identitate",
@@ -359,9 +421,22 @@
         "intro": "Vindecarea de tulburări fizice sau mintale are nevoie de un scop. Conform Prof. Dr. Ruppert, aceasta 'echivalează cu a-ți trăi complet propria identitate, astfel încât să putem exprima și realiza ceea ce este în nucleul ființei noastre'.",
         "framework": "Cadrul IoPT oferă o modalitate sigură de a explora părțile reprimate și inconștiente ale psihicului, de a te recupera de efectele traumei și de a-ți restaura sinele sănătos.",
         "understanding": "Cadrul arată cum trauma afectează întregul Organism Uman Viu (LHO) și cum să te recuperezi de efectul traumei pentru a câștiga un sine sănătos și o voință sănătoasă, în ciuda traumatizării.",
-        "traumaBiography": "Fiecare persoană are o istorie a traumei, numită biografie a traumei. Traumele prin care trecem au o influență majoră asupra cine devenim mai târziu în viață și influențează relațiile și abilitățile noastre.",
+        "traumaBiography": {
+          "title": "Biografia Traumei",
+          "description": "Fiecare persoană are o istorie a traumei, numită biografie a traumei. Traumele prin care trecem au o influență majoră asupra cine devenim mai târziu în viață și influențează relațiile și abilitățile noastre."
+        },
         "keyInsight": "Trauma este o situație care nu acordă atenție identității individuale, iar costul este o pierdere a sinelui, o pierdere a identității.",
-        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+        "keyPrinciples": {
+          "title": "Principii Cheie IoPT",
+          "items": [
+            "Trauma este o situație care nu acordă atenție identității individuale",
+            "Costul traumei este o pierdere a sinelui, o pierdere a identității",
+            "Cadrul IoPT oferă o modalitate sigură de a explora părțile reprimate ale psihicului",
+            "Recuperarea implică câștigarea unui sine sănătos și a unei voințe sănătoase",
+            "Metoda Intenției permite explorarea și vindecarea în siguranță"
+          ]
+        }
       },
       "schemaTherapy": {
         "name": "Terapia Schemelor",
@@ -380,7 +455,11 @@
             "Probleme emoționale de lungă durată"
           ]
         },
-        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+        "schemaExplanation": {
+          "title": "Ce Sunt Schemele?",
+          "description": "Schemele sunt pattern-uri emoționale adânc înrădăcinate care se dezvoltă în copilărie și continuă pe tot parcursul vieții. Când sunt declanșate, pot duce la emoții negative intense și comportamente nesănătoase. Terapia Schemelor combină elemente din terapia cognitiv-comportamentală, teoria atașamentului și abordările focusate pe emoții."
+        }
       },
       "dbt": {
         "name": "DBT",
@@ -455,7 +534,8 @@
           ]
         },
         "principle": "Resursele clientului sunt activate pentru a-și atinge soluțiile și obiectivele individuale cât mai independent și auto-organizat posibil. Clientul este expertul în problemele și soluțiile sale; consilierul este expertul în calea către găsirea soluției.",
-        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+        "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+        "expertPrinciple": "Resursele clientului sunt activate pentru a-și atinge soluțiile și obiectivele individuale cât mai independent posibil. Clientul este expertul în problemele și soluțiile sale; consilierul este expertul în calea către găsirea soluției."
       },
       "bioenergetic": {
         "name": "Coaching Bioenergetic",
@@ -463,7 +543,10 @@
         "fullTitle": "Coaching Bioenergetic",
         "intro": "Schimbarea nu începe doar în minte, ci pătrunde întreaga persoană - corp, minte și suflet. Încă din anii 1950, s-a dovedit că blocajele emoționale sunt ancorate nu doar mental, ci și fizic.",
         "explanation": "Coaching-ul bioenergetic, o metodă holistică, încorporează exerciții bioenergetice care au ca scop activarea corpului și eliberarea tensiunilor stocate pentru a promova echilibrul și libertatea interioară.",
-        "bodyMemory": "Memoria corporală este conceptul care descrie cum corpul stochează experiențele și emoțiile și demonstrează cât de strâns lucrează împreună creierul și corpul. Procesele de schimbare nu pot fi controlate doar prin gândire; ele necesită implicarea corpului.",
+        "bodyMemory": {
+          "title": "Memoria Corporală",
+          "description": "Memoria corporală descrie cum corpul stochează experiențele și emoțiile. Procesele de schimbare nu pot fi controlate doar prin gândire; ele necesită implicarea corpului. Creierul și corpul lucrează strâns împreună, iar blocajele emoționale sunt ancorate nu doar mental, ci și fizic."
+        },
         "exercises": {
           "title": "Exerciții simple de încercat",
           "items": [
@@ -579,7 +662,59 @@
           "description": "Îngrijorare excesivă privind existența unei boli grave."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Anxietatea poate apărea la mulți oameni fără avertisment și în orice etapă a vieții noastre, apărând adesea alături de alte tulburări precum depresia sau tulburarea de stres post-traumatic. Este o tulburare mintală frecvent diagnosticată și tratată, dar în esență, sentimentul de anxietate este modul instinctiv al corpului nostru de a ne proteja de pericole.",
+      "triggers": {
+        "title": "Ce Declanșează Anxietatea?",
+        "description": "Scenarii precum susținerea unui examen sau începerea unui nou loc de muncă pot declanșa anxietatea. În aceste momente, anxietatea poate fi benefică, servind ca semn de avertizare pentru a fi mai atenți la lucrurile care ne-ar putea afecta. Pe de altă parte, anxietatea poate apărea și fără o amenințare reală și se poate intensifica.",
+        "items": [
+          "Presiunea examenelor și a evaluărilor academice",
+          "Schimbări majore în viață (loc de muncă nou, mutare, divorț)",
+          "Situații sociale și evaluarea de către ceilalți",
+          "Probleme financiare și incertitudinea economică",
+          "Probleme de sănătate sau îngrijorări medicale",
+          "Pierderea controlului asupra situațiilor de viață",
+          "Experiențe traumatice din trecut"
+        ]
+      },
+      "causes": {
+        "title": "Cauze și Factori de Risc",
+        "items": [
+          "Factori genetici și predispoziție familială",
+          "Dezechilibre chimice în creier (serotonină, noradrenalină)",
+          "Experiențe traumatice din copilărie sau viața adultă",
+          "Stresul cronic și presiunile cotidiene",
+          "Afecțiuni medicale (probleme tiroidiene, afecțiuni cardiace)",
+          "Consumul de substanțe (cafeină, alcool, droguri)",
+          "Trăsături de personalitate (perfecționism, nevoie de control)"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "description": "Folosim o combinație de tehnici bazate pe dovezi pentru a trata anxietatea, adaptate nevoilor tale individuale.",
+        "methods": [
+          "Terapia Cognitiv-Comportamentală (TCC) pentru identificarea și restructurarea gândurilor anxioase",
+          "EMDR pentru procesarea experiențelor traumatice care alimentează anxietatea",
+          "Tehnici de mindfulness și relaxare pentru gestionarea simptomelor fizice",
+          "Terapia Acceptării și Angajamentului (ACT) pentru flexibilitate psihologică",
+          "NLP pentru transformarea credințelor limitante",
+          "Exerciții de respirație și grounding pentru atacurile de panică"
+        ]
+      },
+      "physicalSymptoms": {
+        "title": "Simptome Fizice ale Anxietății",
+        "items": [
+          "Bătăi rapide ale inimii sau palpitații",
+          "Transpirație excesivă",
+          "Tremurături sau senzație de slăbiciune",
+          "Dificultăți de respirație sau senzație de sufocare",
+          "Dureri sau disconfort în piept",
+          "Greață sau probleme digestive",
+          "Amețeli sau senzație de leșin",
+          "Tensiune musculară și dureri de cap"
+        ]
+      },
+      "whenToSeekHelp": "Este important să cauți ajutor profesional atunci când îngrijorările și anxietatea te copleșesc și afectează negativ viața ta de zi cu zi. Recunoașterea simptomelor și învățarea mecanismelor eficiente de coping sunt pași esențiali către recuperare."
     },
     "depression": {
       "title": "Depresie",
@@ -620,7 +755,48 @@
         }
       },
       "statistics": "Aproape 10% dintre femei experimentează depresie în timpul sarcinii; aceasta crește la 16% în primele 3 luni după naștere. Tulburarea bipolară afectează aproximativ 2% din populație.",
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Este complet normal ca dispozițiile noastre să se schimbe pe măsură ce răspundem la numeroasele provocări ale vieții. A te simți trist sau abătut este ceva obișnuit, dar unii dintre noi nu sunt capabili să-și regleze stările de spirit sau se simt foarte triști pentru perioade lungi de timp. Depresia este mult mai mult decât tristețe - include un sentiment persistent de abătere, lipsă de valoare, amorțeală sau vinovăție care afectează profund modul în care gestionăm viața de zi cu zi.",
+      "causes": {
+        "title": "Cauze și Factori de Risc",
+        "items": [
+          "Dezechilibre ale neurotransmițătorilor (serotonină, dopamină, noradrenalină)",
+          "Predispoziție genetică și istoric familial de depresie",
+          "Evenimente de viață stresante sau traumatice",
+          "Boli cronice sau durere persistentă",
+          "Izolare socială și lipsa suportului emoțional",
+          "Abuz de substanțe (alcool, droguri)",
+          "Schimbări hormonale (postpartum, menopauză, probleme tiroidiene)",
+          "Efecte secundare ale unor medicamente"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "description": "Oferim un plan de tratament personalizat care combină multiple abordări terapeutice.",
+        "methods": [
+          "Terapia Cognitiv-Comportamentală pentru restructurarea gândurilor negative",
+          "Terapia Schemelor pentru pattern-urile emoționale adânc înrădăcinate",
+          "Activarea comportamentală pentru recâștigarea motivației și plăcerii",
+          "Tehnici de mindfulness pentru conștientizare și auto-compasiune",
+          "EMDR pentru depresia legată de traumă",
+          "Terapia interpersonală pentru îmbunătățirea relațiilor"
+        ]
+      },
+      "warningSignsDetailed": {
+        "title": "Semne de Avertizare Detaliate",
+        "description": "Unii oameni cu depresie par să funcționeze normal, ascunzându-se în spatele unui zâmbet înșelător. Acești oameni se ascund adesea în spatele unei măști de abătere persistentă și oboseală.",
+        "items": [
+          "Pierderea interesului pentru activitățile care odată aduceau plăcere",
+          "Fluctuații ale apetitului sau greutății",
+          "Insomnie sau somn excesiv",
+          "Oboseală constantă și lipsă de energie",
+          "Sentimente de vinovăție excesivă sau lipsă de valoare",
+          "Dificultăți de concentrare și luarea deciziilor",
+          "Retragere socială și izolare",
+          "Consum de alcool sau substanțe ca mecanism de coping",
+          "Gânduri recurente despre moarte sau sinucidere"
+        ]
+      }
     },
     "trauma": {
       "title": "Traumă",
@@ -654,7 +830,59 @@
         }
       },
       "ptsdNote": "Trauma se poate dezvolta în PTSD (Tulburare de Stres Post-Traumatic) când simptomele persistă și afectează semnificativ viața de zi cu zi.",
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Evenimentele înfricoșătoare sau tulburătoare sunt stresante pentru oricine și pot duce la o rană psihologică numită traumă. Aceasta poate fi deosebit de intensă dacă te confrunți deja cu o afecțiune mintală existentă. Poate fi vorba de un accident de mașină, pierderea unei persoane dragi, violență, agresiune sexuală sau abuz, sau un dezastru natural. Poți fi, de asemenea, puternic afectat dacă vezi pe altcineva trecând printr-un astfel de eveniment traumatic.",
+      "causes": {
+        "title": "Cauze Comune ale Traumei",
+        "items": [
+          "Accidente (auto, de muncă, casnice)",
+          "Pierderea unei persoane dragi",
+          "Violență fizică sau emoțională",
+          "Agresiune sexuală sau abuz",
+          "Dezastre naturale (cutremure, inundații, incendii)",
+          "Experiențe din zone de conflict sau război",
+          "Neglijare în copilărie sau abuz",
+          "Proceduri medicale traumatizante",
+          "Trauma intergenerațională transmisă de la părinți sau bunici"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "description": "Oferim tratament specializat pentru traumă folosind metode validate științific.",
+        "methods": [
+          "EMDR - tratament standard de aur recunoscut de OMS și APA pentru PTSD",
+          "Terapia Psihotraumei Orientată pe Identitate (IoPT) - metodă specializată dezvoltată de Prof. Dr. Franz Ruppert",
+          "Terapia Cognitiv-Comportamentală focusată pe traumă",
+          "Tehnici de stabilizare și grounding",
+          "Terapia Schemelor pentru pattern-urile generate de traumă",
+          "Procesarea somatică și lucrul cu corpul"
+        ]
+      },
+      "ptsdDetailed": {
+        "title": "Diferența dintre Traumă și PTSD",
+        "description": "Este important de menționat că, deși trauma și PTSD sunt legate, nu sunt același lucru. PTSD este o afecțiune care se poate dezvolta după un eveniment traumatic și se caracterizează prin simptome precum flashback-uri, coșmaruri și comportament de evitare. Trauma, pe de altă parte, este evenimentul în sine și poate include o varietate de reacții fizice, emoționale și psihologice.",
+        "ptsdSymptoms": [
+          "Flashback-uri - revivarea evenimentului traumatic",
+          "Coșmaruri recurente legate de eveniment",
+          "Evitarea locurilor, persoanelor sau situațiilor asociate cu trauma",
+          "Hipervigilență și reactivitate exagerată la stimuli",
+          "Amorțeală emoțională și detașare",
+          "Dificultăți de concentrare și memorie",
+          "Iritabilitate și izbucniri de furie"
+        ]
+      },
+      "physicalSymptoms": {
+        "title": "Simptome Fizice ale Traumei",
+        "items": [
+          "Insomnie și tulburări de somn",
+          "Oboseală cronică",
+          "Tensiune musculară și dureri",
+          "Probleme digestive",
+          "Dureri de cap frecvente",
+          "Sistem imunitar slăbit",
+          "Palpitații și hiperventilație"
+        ]
+      }
     },
     "addiction": {
       "title": "Dependență",
@@ -694,7 +922,32 @@
           "description": "Dependența de senzațiile emoționale și fizice asociate cu experiențele traumatice."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Dependența poate avea un impact semnificativ asupra sănătății mintale. Poate duce la dezvoltarea unor afecțiuni mintale precum depresia, anxietatea și PTSD, sau poate agrava afecțiunile mintale existente. Este important de menționat că mulți care se luptă cu dependența se confruntă și cu probleme de sănătate mintală, și este esențial să abordăm ambele probleme simultan.",
+      "causes": {
+        "title": "Cauzele Dependenței",
+        "description": "Deși cauzele dependenței sunt complexe și diferite pentru fiecare persoană, cercetările sugerează că factorii genetici, de mediu și personali joacă un rol în dezvoltarea dependenței.",
+        "items": [
+          "Predispoziție genetică - poate face o persoană mai vulnerabilă la dependență",
+          "Factori de mediu - stres, traumă, acces la substanțe",
+          "Afecțiuni mintale preexistente (depresie, anxietate, PTSD)",
+          "Experiențe traumatice nerezolvate",
+          "Presiunea socială și influența grupului",
+          "Mecanisme de coping nesănătoase dezvoltate în copilărie",
+          "Izolare socială și lipsa suportului emoțional"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Terapia Cognitiv-Comportamentală pentru identificarea și schimbarea pattern-urilor de gândire",
+          "Terapia focusată pe traumă pentru abordarea cauzelor subiacente",
+          "Tehnici de mindfulness pentru gestionarea poftelor și impulsurilor",
+          "Terapia de grup și suport în recuperare",
+          "Dezvoltarea mecanismelor de coping sănătoase",
+          "Abordarea duală - tratarea simultană a dependenței și a afecțiunilor mintale asociate"
+        ]
+      }
     },
     "adhd": {
       "title": "ADHD",
@@ -726,7 +979,18 @@
           "description": "Simptome atât de neatenție, cât și de hiperactivitate-impulsivitate."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Evaluare și psihodiagnostic comprehensiv",
+          "Strategii de organizare și management al timpului",
+          "Terapia Cognitiv-Comportamentală adaptată pentru ADHD",
+          "Tehnici de mindfulness pentru îmbunătățirea atenției",
+          "Coaching pentru dezvoltarea abilităților executive",
+          "Suport pentru gestionarea impulsivității"
+        ]
+      }
     },
     "attachment": {
       "title": "Tulburare de Atașament",
@@ -762,7 +1026,50 @@
           "description": "Dificultate în formarea legăturilor emoționale, adesea datorată neglijării timpurii."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Tulburările de atașament se dezvoltă când legăturile timpurii cu îngrijitorii sunt perturbate sau absente. Pattern-urile de atașament se formează în copilărie și influențează profund relațiile, reglarea emoțională și valoarea de sine pe tot parcursul vieții.",
+      "attachmentStyles": {
+        "title": "Stilurile de Atașament Detaliate",
+        "secure": {
+          "name": "Atașament Sigur (Sănătos)",
+          "description": "Capacitatea de a forma relații stabile, bazate pe încredere și intimitate emoțională."
+        },
+        "anxious": {
+          "name": "Atașament Anxios/Preocupat",
+          "description": "Caracterizat prin hipervigilență în relații, gelozie extremă și teamă constantă de abandon. Persoanele cu acest stil caută constant reasigurare de la parteneri."
+        },
+        "avoidant": {
+          "name": "Atașament Evitant/Distant",
+          "description": "Evitarea intimității emoționale, preferința pentru independență și dificultatea de a se baza pe alții. Poate părea detașat sau dezinteresat emoțional."
+        },
+        "disorganized": {
+          "name": "Atașament Dezorganizat/Fricos-Evitant",
+          "description": "Comportamente contradictorii - dorința de apropiere coexistă cu teama de intimitate. Adesea rezultat din experiențe traumatice cu îngrijitorii."
+        }
+      },
+      "longTermEffects": {
+        "title": "Efecte pe Termen Lung",
+        "items": [
+          "Stimă de sine scăzută și valoare de sine fragilă",
+          "Dificultăți sociale și izolare",
+          "Anxietate și depresie",
+          "Disociere și amorțeală emoțională",
+          "Probleme cu substanțe ca mecanism de coping",
+          "Dificultăți în menținerea relațiilor stabile",
+          "Alegerea repetată a partenerilor nepotriviți"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Terapia Schemelor pentru pattern-urile de atașament",
+          "IoPT - Terapia Psihotraumei Orientată pe Identitate",
+          "Terapie focusată pe emoții pentru vindecarea rănilor de atașament",
+          "Identificarea declanșatorilor și gestionarea emoțiilor",
+          "Dezvoltarea comportamentelor sociale sănătoase",
+          "Ghidaj în alegerea partenerilor sănătoși"
+        ]
+      }
     },
     "eatingDisorders": {
       "title": "Tulburări de Alimentație",
@@ -798,7 +1105,33 @@
           "description": "Tulburare Evitantă/Restrictivă a Aportului Alimentar - alimentație limitată nelegată de imaginea corporală."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Tulburările de alimentație afectează mulți oameni din întreaga lume. Statisticile arată că cel puțin 9% din populație va suferi de o tulburare de alimentație la un moment dat în viață. Sunt afecțiuni mintale complexe care necesită intervenție profesională.",
+      "causes": {
+        "title": "Cauze și Factori de Risc",
+        "items": [
+          "Presiune socială și standarde nerealiste de frumusețe",
+          "Predispoziție genetică și biochimică",
+          "Stimă de sine scăzută și imagine corporală negativă",
+          "Experiențe traumatice (în special abuz sexual)",
+          "Perfecționism și nevoie de control",
+          "Dinamici familiale disfuncționale",
+          "Presiuni din activități sportive sau profesionale",
+          "Influența rețelelor sociale și a mediei"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "description": "Recuperarea de o tulburare de alimentație este absolut posibilă cu tratamentul adecvat.",
+        "methods": [
+          "Terapia Cognitiv-Comportamentală adaptată pentru tulburări de alimentație",
+          "Terapia Schemelor pentru pattern-urile emoționale subiacente",
+          "Tehnici de mindful eating și reconectare cu corpul",
+          "Abordarea traumei subiacente prin EMDR",
+          "Lucrul cu imaginea corporală și stima de sine",
+          "Suport nutrițional integrat în procesul terapeutic"
+        ]
+      }
     },
     "grief": {
       "title": "Doliu și Pierdere",
@@ -835,7 +1168,75 @@
           "description": "Doliu care nu este recunoscut deschis sau susținut social."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Pierderea și doliul sunt experiențe universale și o emoție foarte complexă care ne afectează pe toți la un moment dat în viață. Fie că este vorba de pierderea unei persoane dragi, a unui loc de muncă sau chiar a unei posesiuni importante, emoțiile care însoțesc aceste pierderi pot fi copleșitoare și dificil de gestionat.",
+      "effects": {
+        "title": "Efectele Doliului și Pierderii",
+        "description": "Efectele doliului pot fi semnificative și de amploare. Doliul ne poate afecta bunăstarea fizică, emoțională și mintală.",
+        "physical": [
+          "Nivel scăzut de energie și oboseală",
+          "Modificări ale apetitului",
+          "Tulburări de somn",
+          "Slăbirea sistemului imunitar"
+        ],
+        "emotional": [
+          "Tristețe profundă și dor",
+          "Furie și iritabilitate",
+          "Vinovăție și regret",
+          "Sentimente de neputință și deznădejde"
+        ],
+        "cognitive": [
+          "Dificultăți de concentrare",
+          "Confuzie și dezorientare",
+          "Gânduri repetitive despre pierdere",
+          "Modificări ale stimei de sine"
+        ]
+      },
+      "stages": {
+        "title": "Cele 7 Stadii ale Doliului",
+        "items": [
+          {
+            "stage": "Șoc și Negare",
+            "description": "Reacția inițială de neîncredere și amorțeală emoțională"
+          },
+          {
+            "stage": "Durere și Vinovăție",
+            "description": "Sentimente intense de suferință și auto-învinovățire"
+          },
+          {
+            "stage": "Furie și Negociere",
+            "description": "Frustrare și încercări de a schimba realitatea"
+          },
+          {
+            "stage": "Depresie",
+            "description": "Tristețe profundă și retragere"
+          },
+          {
+            "stage": "Punctul de Cotitură",
+            "description": "Începerea procesului de acceptare"
+          },
+          {
+            "stage": "Reconstrucție",
+            "description": "Găsirea de noi moduri de a funcționa"
+          },
+          {
+            "stage": "Acceptare și Speranță",
+            "description": "Integrarea pierderii și deschiderea către viitor"
+          }
+        ],
+        "note": "Este important de menționat că doliul este diferit pentru fiecare și unii dintre noi s-ar putea să nu experimenteze toate aceste stadii sau să le experimenteze într-o ordine diferită."
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Suport empatic și spațiu sigur pentru exprimarea emoțiilor",
+          "Tehnici de procesare a durerii și pierderii",
+          "Terapia focusată pe sens și reconstrucția vieții",
+          "Mindfulness pentru gestionarea emoțiilor copleșitoare",
+          "Suport pentru doliul complicat sau prelungit",
+          "Tehnici de reintegrare socială și reconstrucție"
+        ]
+      }
     },
     "relationships": {
       "title": "Relații",
@@ -872,7 +1273,40 @@
           "description": "Învățarea de a stabili și menține limite sănătoase."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Relațiile sunt fundamentul vieții noastre. Ne ajută să ne simțim în siguranță și provocați, și ne ajută să învățăm și să creștem. Fiecare relație sănătoasă și apropiată va genera conflicte și dezacorduri - este modul nostru de a gestiona diferențele de idei, convingeri și perspective. Când conflictul devine cronic, poate duce la stres serios și, dacă nu este gestionat, poate contribui la deteriorarea sănătății mintale și fizice.",
+      "relationshipTypes": {
+        "title": "Cele 4 Tipuri Principale de Relații",
+        "items": [
+          {
+            "name": "Relații Romantice",
+            "description": "Implică o conexiune emoțională și fizică profundă între două persoane. Pot lua multe forme: dating, logodnă, căsătorie. Sunt caracterizate de iubire, încredere și sprijin reciproc."
+          },
+          {
+            "name": "Relații Platonice",
+            "description": "Relații non-romantice între prieteni, bazate pe încredere, respect reciproc și interese comune."
+          },
+          {
+            "name": "Relații Familiale",
+            "description": "Marcate de un sentiment puternic de loialitate, iubire și responsabilitate. Pot fi complexe cu multe dinamici diferite."
+          },
+          {
+            "name": "Relații Profesionale",
+            "description": "Existente între persoane care lucrează împreună, caracterizate de un scop sau obiectiv comun."
+          }
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Consiliere individuală și de cuplu",
+          "Tehnici de comunicare sănătoasă",
+          "Stabilirea și menținerea limitelor",
+          "Rezolvarea conflictelor și negocierea",
+          "Abordarea pattern-urilor de atașament nesigure",
+          "Terapia sistemică pentru dinamicile familiale"
+        ]
+      }
     },
     "stress": {
       "title": "Stres",
@@ -909,7 +1343,49 @@
           "description": "Epuizare din stres prelungit legat de muncă sau îngrijire."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Stresul este o problemă comună care afectează mulți oameni. Este o reacție naturală la situații provocatoare, dar când devine cronic, poate afecta negativ sănătatea fizică și mintală.",
+      "causes": {
+        "title": "Cele Mai Frecvente Cauze ale Stresului",
+        "items": [
+          {
+            "name": "Stresul legat de muncă",
+            "description": "Conform APA, munca este principala sursă de stres la adulți. Peste 60% dintre angajați experimentează stres legat de muncă. Cauzele comune includ orele lungi de lucru, termene strânse, lipsa controlului și suport insuficient."
+          },
+          {
+            "name": "Stresul relațional",
+            "description": "Stresul în relațiile personale poate avea cauze variate: conflicte cu membrii familiei, prieteni sau parteneri romantici, probleme financiare sau lipsa suportului social."
+          },
+          {
+            "name": "Stresul financiar",
+            "description": "Problemele financiare sunt o sursă majoră de stres. Conform studiilor APA, 72% dintre adulți au raportat că banii sunt o sursă semnificativă de stres."
+          }
+        ]
+      },
+      "physicalEffects": {
+        "title": "Efectele Fizice ale Stresului Cronic",
+        "description": "Stresul cronic este asociat cu o serie de probleme de sănătate fizică.",
+        "items": [
+          "Boli cardiovasculare și hipertensiune arterială",
+          "Obezitate și diabet",
+          "Probleme digestive și sindromul intestinului iritabil",
+          "Dureri de cap și migrene cronice",
+          "Tensiune musculară și dureri de spate",
+          "Sistem imunitar slăbit",
+          "Tulburări de somn"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Tehnici de gestionare a stresului bazate pe dovezi",
+          "Mindfulness și meditație pentru reducerea stresului",
+          "Strategii pentru un echilibru sănătos între viața personală și profesională",
+          "Tehnici de relaxare și respirație",
+          "Terapia Cognitiv-Comportamentală pentru schimbarea pattern-urilor de gândire stresante",
+          "Coaching pentru dezvoltarea rezilienței"
+        ]
+      }
     },
     "perinatal": {
       "title": "Tulburări de Dispoziție Perinatale",
@@ -948,7 +1424,43 @@
         }
       },
       "statistics": "Aproape 10% dintre femei experimentează depresie în timpul sarcinii; aceasta crește la 16% în primele 3 luni după naștere.",
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Tulburările de dispoziție perinatale afectează părinții în timpul sarcinii și în perioada postpartum. 1 din 5 mame în așteptare experimentează depresie sau anxietate perinatală. 1 din 20 tați în așteptare experimentează depresie. Aceste afecțiuni sunt tratabile cu suport adecvat.",
+      "causes": {
+        "title": "Cauze și Factori de Risc",
+        "items": [
+          "Istoric de anxietate sau depresie",
+          "Pierdere reproductivă (avort spontan, FIV)",
+          "Sarcină dificilă sau complicații",
+          "Privarea de somn",
+          "Stres financiar sau relațional",
+          "Lipsa suportului social",
+          "Schimbări hormonale majore",
+          "Naștere traumatică"
+        ]
+      },
+      "selfCare": {
+        "title": "Strategii de Auto-Îngrijire",
+        "items": [
+          "Expunere la lumina soarelui (10-15 minute zilnic)",
+          "Activitate fizică moderată (20-30 minute zilnic)",
+          "Prioritizarea somnului când este posibil",
+          "Menținerea conexiunilor sociale",
+          "Acceptarea ajutorului de la cei dragi",
+          "Consultație profesională de specialitate"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Evaluare specializată pentru tulburări perinatale",
+          "Terapia Cognitiv-Comportamentală adaptată pentru perioada perinatală",
+          "Suport pentru crearea legăturii mamă-copil",
+          "Tehnici de mindfulness pentru gestionarea anxietății",
+          "Consiliere de cuplu pentru tranziția la parentaj",
+          "Planificare pentru prevenirea recăderii"
+        ]
+      }
     },
     "sexualDysfunction": {
       "title": "Disfuncții Sexuale",
@@ -984,7 +1496,45 @@
           "description": "Durere asociată cu activitatea sexuală."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Disfuncțiile sexuale pot afecta toate fazele ciclului de răspuns sexual - dorință, excitație, orgasm. Afectează persoane de toate genurile și orientările. Cu suport profesional sensibil, multe dintre aceste provocări pot fi abordate cu succes.",
+      "causes": {
+        "title": "Cauze și Factori de Risc",
+        "items": [
+          "Probleme psihologice (anxietate, depresie, stres)",
+          "Experiențe traumatice, în special abuz sexual",
+          "Probleme de imagine corporală și stimă de sine",
+          "Boli fizice și efecte secundare ale medicamentelor",
+          "Probleme relaționale și lipsa comunicării",
+          "Factori hormonali și schimbări legate de vârstă",
+          "Dependență de pornografie",
+          "Ajustări post-sarcină"
+        ]
+      },
+      "commonIssues": {
+        "title": "Probleme Comune Abordate",
+        "items": [
+          "Discrepanțe ale libidoului între parteneri",
+          "Durere în timpul actului sexual (dispareunie, vaginism)",
+          "Dificultăți de orgasm (anorgasmie)",
+          "Disfuncție erectilă",
+          "Ejaculare precoce",
+          "Preocupări legate de imaginea corporală",
+          "Recuperare sexuală după traumă",
+          "Ajustări post-sarcină în viața sexuală"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Consiliere psihosexuală sensibilă și profesională",
+          "Terapia Cognitiv-Comportamentală pentru anxietatea de performanță",
+          "EMDR pentru trauma sexuală",
+          "Tehnici de mindfulness și reconectare cu corpul",
+          "Consiliere de cuplu pentru îmbunătățirea comunicării intime",
+          "Exerciții specifice pentru îmbunătățirea funcției sexuale"
+        ]
+      }
     },
     "mensMentalHealth": {
       "title": "Sănătatea Mintală a Bărbaților",
@@ -1021,7 +1571,44 @@
           "description": "Construirea inteligenței emoționale și a conexiunii."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Bărbații prezintă adesea simptome diferite față de femei pentru aceleași afecțiuni. Ratele depresiei masculine au crescut dramatic. Presiunea societală de a suprima emoțiile și stigmatul asociat sănătății mintale la bărbați fac ca mulți bărbați să amâne căutarea ajutorului profesional.",
+      "causes": {
+        "title": "Cauze și Factori de Risc",
+        "items": [
+          "Genetică și predispoziție biologică",
+          "Evenimente traumatice și experiențe adverse",
+          "Stresul prelungit (profesional, financiar, relațional)",
+          "Presiunea societală de a fi 'puternic' și de a nu arăta vulnerabilitate",
+          "Izolarea emoțională și lipsa suportului social",
+          "Tranziții de viață (divorț, pensionare, pierderea locului de muncă)",
+          "Roluri și așteptări de gen restrictive"
+        ]
+      },
+      "selfCare": {
+        "title": "Strategii de Auto-Îngrijire pentru Bărbați",
+        "items": [
+          "Timp petrecut în natură și activități în aer liber",
+          "Stabilirea și menținerea limitelor sănătoase",
+          "Somn consistent și igienă a somnului",
+          "Creșterea bucuriei prin activități planificate",
+          "Exerciții fizice regulate",
+          "Construirea și menținerea conexiunilor sociale",
+          "Căutarea ajutorului profesional timpuriu"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "description": "Oferim un spațiu sigur și fără judecată unde bărbații pot explora provocările lor de sănătate mintală.",
+        "methods": [
+          "Terapie individuală adaptată nevoilor specifice ale bărbaților",
+          "Tehnici de gestionare a furiei și reglare emoțională",
+          "Coaching pentru dezvoltarea inteligenței emoționale",
+          "Abordarea stresului legat de muncă și burnout",
+          "Lucrul cu identitatea masculină și rolurile de gen",
+          "Strategii practice și orientate spre soluții"
+        ]
+      }
     },
     "bipolar": {
       "title": "Tulburare Bipolară",
@@ -1054,7 +1641,30 @@
         }
       },
       "statistics": "Tulburarea bipolară afectează aproximativ 2% din populație.",
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "Tulburarea bipolară, cunoscută anterior ca 'depresie maniacală', implică perioade de depresie și manie, cu perioade de dispoziție normală între ele. Mania este opusul depresiei și poate varia în intensitate. Tulburarea bipolară pare a fi cel mai strâns legată de istoricul familial.",
+      "causes": {
+        "title": "Cauze și Factori de Risc",
+        "items": [
+          "Predispoziție genetică puternică și istoric familial",
+          "Dezechilibre ale neurotransmițătorilor",
+          "Stresul și conflictele pot declanșa episoade",
+          "Modificări ale ciclului somn-veghe",
+          "Consum de substanțe",
+          "Poate fi diagnosticată greșit ca depresie, ADHD sau schizofrenie"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Psihoeducație despre tulburarea bipolară și managementul simptomelor",
+          "Terapia Cognitiv-Comportamentală pentru gestionarea episoadelor",
+          "Tehnici de reglare emoțională și mindfulness",
+          "Monitorizarea dispozițiilor și identificarea semnelor de avertizare",
+          "Suport pentru aderența la tratament",
+          "Terapia interpersonală și a ritmurilor sociale"
+        ]
+      }
     },
     "personality": {
       "title": "Tulburări de Personalitate",
@@ -1086,7 +1696,18 @@
           "description": "Caracterizat de comportamente anxioase sau temătoare (Evitantă, Dependentă, Obsesiv-Compulsivă)."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Terapia Schemelor - abordare specializată pentru tulburări de personalitate",
+          "DBT (Terapia Dialectică Comportamentală) - în special pentru Borderline",
+          "Terapia focusată pe mentalizare",
+          "Dezvoltarea abilităților de reglare emoțională",
+          "Lucrul cu relațiile interpersonale",
+          "Tehnici de mindfulness și auto-compasiune"
+        ]
+      }
     },
     "selfEsteem": {
       "title": "Stimă de Sine",
@@ -1123,7 +1744,30 @@
           "description": "Învățarea de a-ți valoriza și proteja nevoile."
         }
       },
-      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+      "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "causes": {
+        "title": "Cauze ale Stimei de Sine Scăzute",
+        "items": [
+          "Experiențe negative din copilărie (critică, neglijare, abuz)",
+          "Bullying sau excludere socială",
+          "Relații abuzive sau toxice",
+          "Eșecuri percepute sau comparații constante",
+          "Standarde nerealiste de perfecționism",
+          "Traumă și experiențe adverse",
+          "Presiunea rețelelor sociale"
+        ]
+      },
+      "treatmentApproach": {
+        "title": "Abordarea Noastră Terapeutică",
+        "methods": [
+          "Terapia Cognitiv-Comportamentală pentru restructurarea gândurilor negative",
+          "Terapia Schemelor pentru pattern-urile adânc înrădăcinate",
+          "Tehnici de auto-compasiune și mindfulness",
+          "Exerciții de construire a încrederii",
+          "Dezvoltarea abilităților asertive",
+          "Lucrul cu imaginea de sine și identitatea"
+        ]
+      }
     }
   },
   "legal": {
@@ -1160,7 +1804,29 @@
       "Creez o experiență de bunăstare profesională, personală și compasivă",
       "Ofer abilități pentru schimbare semnificativă"
     ],
-    "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău"
+    "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+    "detailedPoints": [
+      {
+        "title": "Abordare Holistică",
+        "description": "Prioritizez bunăstarea clientului și abordez problemele trecute cu vederea de alte servicii. Nu tratăm doar simptomele, ci persoana în întregime."
+      },
+      {
+        "title": "Feedback Continuu",
+        "description": "Revizuiesc continuu feedback-ul clienților pentru a adapta și îmbunătăți constant procesul terapeutic."
+      },
+      {
+        "title": "Opt Forme de Inteligență",
+        "description": "Analizez și valorific cele 8 forme de inteligență: naturalistă, interpersonală, intrapersonală, lingvistică, logico-matematică, corporală/kinestezică, muzicală și spațială."
+      },
+      {
+        "title": "Experiență Personalizată",
+        "description": "Creez o experiență de bunăstare profesională, personală și compasivă, adaptată fiecărui client în parte."
+      },
+      {
+        "title": "Abilități pentru Schimbare",
+        "description": "Ofer abilități concrete și instrumente practice pentru schimbare semnificativă și durabilă în viața ta."
+      }
+    ]
   },
   "assessment": {
     "title": "Chestionar Pre-Consultație",

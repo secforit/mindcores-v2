@@ -102,43 +102,6 @@ export function HeroSection() {
           </div>
         </div>
 
-        {/* Secondary Section - Logo and Stats */}
-        <div className="grid md:grid-cols-2 gap-8 items-center pt-8 border-t border-border/30">
-          {/* Logo */}
-          <div className="flex justify-center md:justify-start">
-            <div className="flex items-center gap-6">
-              <div className="relative w-20 h-20 sm:w-24 sm:h-24">
-                <Image
-                  src="/logo.png"
-                  alt="Mindcores Logo"
-                  fill
-                  className="object-contain"
-                />
-              </div>
-              <div>
-                <h2 className="text-2xl font-light text-foreground">Mindcores</h2>
-                <p className="text-sm text-muted-foreground">Psychology Practice</p>
-              </div>
-            </div>
-          </div>
-
-          {/* Stats */}
-          <div className="flex flex-wrap justify-center md:justify-end gap-8">
-            <div className="text-center">
-              <p className="text-3xl font-light text-primary">15+</p>
-              <p className="text-sm text-muted-foreground">{t("yearsExperience")}</p>
-            </div>
-            <div className="text-center">
-              <p className="text-3xl font-light text-primary">1000+</p>
-              <p className="text-sm text-muted-foreground">{t("clientsHelped")}</p>
-            </div>
-            <div className="text-center">
-              <p className="text-3xl font-light text-primary">3</p>
-              <p className="text-sm text-muted-foreground">{t("languages")}</p>
-            </div>
-          </div>
-        </div>
-
         {/* Accreditations */}
         <div className="mt-8 pt-6 border-t border-border/20 text-center">
           <p className="text-xs text-muted-foreground">
