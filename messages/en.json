@@ -178,7 +178,7 @@
       "emdr": {
         "name": "EMDR Therapy",
         "description": "Eye Movement Desensitization and Reprocessing - a powerful treatment for trauma and PTSD that helps the brain process disturbing memories.",
-        "fullTitle": "EMDR (Eye Movement Desensitization and Reprocessing) Therapy",
+        "fullTitle": "EMDR (EYE MOVEMENT DESENSITIZATION REPROCESSING) THERAPY",
         "intro": "It's known that severe emotional pain requires a long time to heal, and EMDR is a psychotherapy that enables us to heal from the symptoms and emotional distress that disturbing life experiences have caused. This type of therapy shows that the mind can in fact heal from psychological trauma just how the body recovers from physical trauma.",
         "benefits": {
           "title": "EMDR is Beneficial For",
@@ -224,8 +224,8 @@
       "mindfulness": {
         "name": "Mindfulness-Based Therapy",
         "description": "Integrate mindfulness practices into your healing journey, developing present-moment awareness and emotional regulation skills.",
-        "fullTitle": "Mindfulness-Based Therapy",
-        "intro": "Mindfulness is a state of being where we're deliberately and completely aware of our thoughts, emotions and experiences, without distraction and judgement. In therapy, mindfulness allows us to become attuned to and connected with bodily sensations, cognitions and feelings, helping us to accept them without being controlled or heavily influenced by them.",
+        "fullTitle": "MINDFULNESS",
+        "intro": "Mindfulness is a state of being where we’re deliberately and completely aware of our thoughts, emotions and experiences, without distraction and judgement. In therapy, mindfulness allows us to become attuned to and connected with bodily sensations, cognitions and feelings, helping us to accept them without being controlled or heavily influenced by them.",
         "howItHelps": "It can become incredibly easy for our thoughts to accumulate and spiral – often without us being completely aware of the build up. Mindful practices – such as meditation – can be incorporated into therapies and aim to teach us how to break away from unhelpful or negative thought patterns that can cause us to spiral into a depressive state. It invites us to become aware of that accumulation, and allows us to separate ourselves from negative thought patterns, emotions, and bodily sensations that would otherwise become overwhelming or harmful.",
         "benefits": {
           "title": "Problems Mindfulness Can Address",
@@ -245,7 +245,8 @@
           ]
         },
         "conclusion": "The state of awareness that we gain through mindfulness makes it easier to embrace other therapeutic strategies and emotional healing.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "detailedDescription": "It can become incredibly easy for our thoughts to accumulate and spiral – often without us being completely aware of the build up. Mindful practices – such as meditation – can be incorporated into therapies and aim to teach us how to break away from unhelpful or negative thought patterns that can cause us to spiral into a depressive state. It invites us to become aware of that accumulation, and allows us to separate ourselves from negative thought patterns, emotions, and bodily sensations that would otherwise become overwhelming or harmful."
       },
       "cbt": {
         "name": "Cognitive Behavioral Therapy",
@@ -275,8 +276,8 @@
       "nlp": {
         "name": "NLP Techniques",
         "description": "Neuro-Linguistic Programming methods to transform limiting beliefs and create positive behavioral changes.",
-        "fullTitle": "Neuro-Linguistic Programming (NLP)",
-        "intro": "NLP is used as a method of personal development through promoting skills, such as self-reflection, confidence, and communication. The technique changes thoughts and behaviors to help achieve desired outcomes. It is also applied commercially to achieve work-orientated goals, such as improved productivity or job progression.",
+        "fullTitle": "Neuro-linguistic programming (NLP)",
+        "intro": "NLP is used as a method of personal development through promoting skills, such as self-reflection, confidence, and communication. The technique to change thoughts and behaviors to help achieve desired outcomes for them. Is is also applied commercially to achieve work-orientated goals, such as improved productivity or job progression.",
         "howItWorks": "NLP uses perceptual, behavioral, and communication techniques to make it easier to change thoughts and actions. NLP detects and modifies unconscious biases or limitations of an individual's map of the world. It operates through the conscious use of language to bring about changes in thoughts and behavior.",
         "benefits": {
           "title": "NLP Uses Include",
@@ -301,13 +302,14 @@
           ]
         },
         "vakog": "NLP works with our five senses (VAKOG): Visual (seeing), Auditory (listening), Kinesthetic (feeling), Olfactory (smelling), and Gustatory (tasting). Our body, emotional life and thought systems influence each other - by changing your posture, you can change emotional states and thoughts.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "detailedDescription": "NLP uses perceptual, behavioral, and communication techniques in order to  make it easier in changing thoughts and actions. NLP detects and modify unconscious biases or limitations of an individual’s map of the world. Is not hypnotherapy but it operates through the conscious use of language to bring about changes in thoughts and behavior. The framework involves rapport-building, information-gathering, and goal-setting."
       },
       "family": {
         "name": "Family Therapy",
         "description": "Address family dynamics, improve communication, and strengthen relationships within the family system.",
-        "fullTitle": "Family Therapy",
-        "intro": "A psychotherapeutic approach that focuses on the family as a social system. It initiates changes within the family system and supports the family in resolving difficulties, finding new perspectives, and developing more satisfying forms of coexistence.",
+        "fullTitle": "Family Therapy for Couples and Families",
+        "intro": "Family therapy for couples and families",
         "approach": "Family therapy is solution-oriented and strives to achieve rapid improvements. A key principle is 'helping clients to help themselves': Therapy encourages clients to take initiative in solving their problems. Therefore, a relatively short therapy period is often sufficient—on average, between 5 and 20 sessions.",
         "benefits": {
           "title": "Family Therapy Can Help With",
@@ -328,13 +330,15 @@
           "title": "About Sessions",
           "description": "Family therapy is solution-oriented and strives for rapid improvements. A key principle is 'helping clients help themselves.' On average, between 5 and 20 sessions are sufficient."
         },
-        "uniqueAdvantage": "A great advantage is that typical behavioral patterns, labels, and unwritten family rules can be observed directly during therapy sessions. The therapist's targeted questions allow for new perspectives and insights."
+        "uniqueAdvantage": "A great advantage is that typical behavioral patterns, labels, and unwritten family rules can be observed directly during therapy sessions. The therapist's targeted questions allow for new perspectives and insights.",
+        "detailedDescription": "A psychotherapeutic approach that focuses on the family as a social system. It initiates changes within the family system and supports the family in resolving difficulties, finding new perspectives, and developing more satisfying forms of coexistence.",
+        "howItHelps": "A major advantage is that typical behavioral patterns, etiquette, and unwritten rules of the family can be directly observed during therapy sessions.The therapist's targeted questions enable new perspectives on the problematic situation, and often, with minimal stimuli, they can initiate changes relatively quickly, often leading to surprising therapeutic successes. Furthermore, this approach avoids blaming the patient or their family for a problem—because problems are always explained by the mutual influences between family members."
       },
       "couples": {
         "name": "Couples Counseling",
         "description": "Build stronger connections, resolve conflicts, and develop healthy communication patterns with your partner.",
-        "fullTitle": "Couples Counseling",
-        "intro": "Couples counseling provides a safe space for partners to address relationship challenges, improve communication, and strengthen their bond. Using evidence-based techniques, we help couples navigate conflicts and build healthier, more fulfilling relationships.",
+        "fullTitle": "Family Therapy for Couples and Families",
+        "intro": "Family therapy for couples and families",
         "benefits": {
           "title": "Couples Counseling Can Help With",
           "items": [
@@ -349,7 +353,9 @@
           ]
         },
         "approach": "Our approach avoids blaming either partner—problems are explained by mutual influences between partners. Through targeted questions and interventions, we help couples gain new perspectives and develop healthier patterns of interaction.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "detailedDescription": "A psychotherapeutic approach that focuses on the family as a social system. It initiates changes within the family system and supports the family in resolving difficulties, finding new perspectives, and developing more satisfying forms of coexistence.",
+        "howItHelps": "A major advantage is that typical behavioral patterns, etiquette, and unwritten rules of the family can be directly observed during therapy sessions.The therapist's targeted questions enable new perspectives on the problematic situation, and often, with minimal stimuli, they can initiate changes relatively quickly, often leading to surprising therapeutic successes. Furthermore, this approach avoids blaming the patient or their family for a problem—because problems are always explained by the mutual influences between family members."
       },
       "positivePsychotherapy": {
         "name": "Positive and Transcultural Psychotherapy",
@@ -382,7 +388,7 @@
         "name": "Systemic Family Constellations",
         "description": "Reveal hidden dynamics in family systems and organizational structures for deeper understanding and resolution.",
         "fullTitle": "Systemic Family & Business Constellations",
-        "intro": "Systemic Family & Business Constellations is a powerful, profound approach to addressing life's challenges, going beyond the surface to connect with the matter at its source. It is a well-respected choice for those looking for sustainable results.",
+        "intro": "Systemic Family & Business Constellations is a powerful, profound approach to addressing life’s challenges, going beyond the surface to connect with the matter at its source. It is a well-respected choice for those looking for sustainable results.",
         "explanation": "The unconscious patterns that affect our individual lives can also have an impact on our relationship and family lives. Not only do we need to uncover what these are, but once we have, to become clear about how to create a new context for relationship moving forward.",
         "scope": "This encompasses the impact of intergenerational trauma, where there is a pattern handed down from one generation to another or entrenched in a system, be it a family, institution or business. It can relate to behavioral and relationship patterns, as well as those associated with health, career, sexuality or money.",
         "benefits": {
@@ -398,13 +404,14 @@
           ]
         },
         "business": "Business constellations are a powerful method to analyze complex problems, find sustainable solutions, and free the energy to take necessary steps. They give in-depth insight and help establish the source of a problem in a short time.",
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "detailedDescription": "The unconscious patterns that affect our individual lives can also have an impact on our Relationship & Family lives. Not only do we need to uncover what these are, but once we have, to become clear about how to create a new context for relationship moving forward and the skills and strategies to make amends where necessary to relate from a more heart-centered place."
       },
       "solutionFocused": {
         "name": "Solution-Focused Therapy",
         "description": "A brief, goal-directed approach that focuses on solutions rather than problems to create rapid positive change.",
-        "fullTitle": "Solution-Focused Therapy",
-        "intro": "Solution focused therapy concentrates on finding present-time solutions to problems and looking to our hopes for the future to come to a quick resolution. It puts emphasis on the fact that we often already know what we need to do to improve our lives, but aims to help us realise and find the best solutions through coaching, questioning and goal setting.",
+        "fullTitle": "SOLUTION FOCUSED THERAPY",
+        "intro": "Solution focused therapy concentrates on finding present-time solutions to problems and looking to our hopes for the future to come to a quick resolution. Solution focused therapy puts emphasis on the fact that we often already know what we need to do to improve our lives, but aims to help us realise and find the best solutions through coaching, questioning and goal setting.",
         "concept": "This therapy is largely based around goal setting and the step-by-step process involved to reach our goals. It also aims to demonstrate to clients their resilience and the different ways they are capable of coping – many of which they are likely already using without acknowledgement.",
         "example": "Our therapists could use solution focused therapy in multiple ways. One example would be asking you to describe your ideal scenario where your issues don't exist. This can help identify small and practical steps that can be immediately taken.",
         "applications": "Solution focused therapy is often used to address issues for individuals, family units, and couples, but can also be useful to aid problems within a school or workplace.",
@@ -417,8 +424,8 @@
       "identityTrauma": {
         "name": "Identity-Oriented Trauma Therapy",
         "description": "Specialized approach addressing how trauma affects identity and sense of self.",
-        "fullTitle": "Identity-Oriented Psychotrauma Therapy (IoPT)",
-        "intro": "Healing from either physical or mental disorders needs a goal. According to Prof. Dr. Ruppert this 'equates to fully and completely living one's own identity, so that we can express and realise what is at the core of our being'. In order to be in touch with our own identity we 'need a healthy self, a free will and to be in close emotional contact with our body'.",
+        "fullTitle": "Identity Oriented Psycho Trauma Theory (IoPT)",
+        "intro": "Healing from either physical or mental disorders needs a goal. According to Prof. Dr. Ruppert this \"equates to fully and completely living one's own identity, so that we can express and realise what is at the core of our being\". In order to be in touch with our own identity we \"need a healthy self, a free will and to be in close emotional contact with our body\".",
         "framework": "The IoPT framework provides a safe way to explore the suppressed and unconscious parts of the psyche, to recover from the effects of trauma and to restore our healthy self. The central focus in this therapy is on personal life and an in-depth discovery of one's own identity.",
         "understanding": "The framework shows how trauma affects the whole Living Human Organism (LHO) and how to recover from the effect of trauma to gain a healthy self and a healthy will, despite traumatisation. IoPT therapy is based on a specific understanding of trauma, and psychological splitting as the means of surviving trauma.",
         "traumaBiography": {
@@ -436,7 +443,8 @@
             "Recovery involves gaining a healthy self and a healthy will",
             "The Intention Method allows safe exploration and healing"
           ]
-        }
+        },
+        "detailedDescription": "The IoPT framework provides a safe way to explore the suppressed and unconscious parts of the psyche, to recover from the effects of trauma and to restore our healthy self. The central focus in this therapy is on a personal life and an in-depth discovery of one's own identity."
       },
       "schemaTherapy": {
         "name": "Schema Therapy",
@@ -521,7 +529,7 @@
         "name": "Systemic Counseling",
         "description": "Exploring how relationships and systems influence emotional experience and behavior.",
         "fullTitle": "Systemic Counseling",
-        "intro": "Systemic counselors use conversations to explore how people's different relationships affect a system. Each social relationship influences a person's emotional experience and behavior in its own way.",
+        "intro": "Systemic Counseling",
         "approach": "Our approach is characterized by acceptance, empathy, impartiality, and appreciation. We assume the independence of the client and view them as 'experts in their own case.' Assuming that everyone can develop their own solutions, we work with the client's existing resources and skills.",
         "methods": {
           "title": "Methods of the Systemic Approach",
@@ -535,13 +543,14 @@
         },
         "principle": "The client's resources are activated to achieve their individual solutions and goals as independently and self-organized as possible. The client is the expert in their problems and solutions; the counselor is the expert in the path to finding the solution.",
         "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
-        "expertPrinciple": "The client's resources are activated to achieve their individual solutions and goals as independently as possible. The client is the expert on their problems and solutions; the counselor is the expert on the path to finding the solution."
+        "expertPrinciple": "The client's resources are activated to achieve their individual solutions and goals as independently as possible. The client is the expert on their problems and solutions; the counselor is the expert on the path to finding the solution.",
+        "detailedDescription": "Systemic counselors use conversations to explore how people's different relationships affect a system. Each social relationship influences a person's emotional experience and behavior in its own way."
       },
       "bioenergetic": {
         "name": "Bioenergetic Coaching",
         "description": "A holistic method integrating body, mind, and soul for lasting change.",
         "fullTitle": "Bioenergetic Coaching",
-        "intro": "Change doesn't just begin in the mind, but permeates the entire person—body, mind, and soul. As early as the 1950s, it was proven that emotional blockages are anchored not only mentally but also physically.",
+        "intro": "Bioenergetic Coaching",
         "explanation": "Bioenergetic coaching, a holistic method, incorporates bioenergetic exercises aimed at activating the body and releasing stored tensions to promote inner balance and freedom. It combines thought reflection with physical activation and consideration of emotional and mental processes.",
         "bodyMemory": {
           "title": "Body Memory",
@@ -555,7 +564,8 @@
             "Breathing exercise: With hands on your belly, breathe deeply and feel your belly expand. When exhaling, let the air escape slowly. This calms the mind and reduces stress."
           ]
         },
-        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success"
+        "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+        "detailedDescription": "Change doesn't just begin in the mind, but permeates the entire person—body, mind, and soul. As early as the 1950s, it was proven that emotional blockages are anchored not only mentally but also physically."
       }
     }
   },
@@ -616,50 +626,50 @@
     "anxiety": {
       "title": "Anxiety",
       "subtitle": "Understanding and Overcoming Anxiety",
-      "intro": "Anxiety is your body's instinctive protection mechanism. When you perceive danger, your brain sends signals that activate the fight-or-flight response, helping you survive in potentially life-threatening situations.",
+      "intro": "Anxiety can occur in many people without warning and at any stage of our lives, and is often present alongside other disorders like depression or post-traumatic stress disorder. It’s an frequently diagnosed and treated mental health disorder, but at its core, feeling anxious is our body’s instinctive way of keeping us safe from danger.",
       "symptoms": {
-        "title": "Key Symptoms",
+        "title": "What Are 5 Symptoms Of Anxiety?",
         "items": [
-          "Intense worry about everyday situations",
-          "Loss of control over thoughts and feelings",
-          "Detachment from body or surroundings",
-          "Catastrophizing and expecting the worst",
-          "Physical tension and restlessness"
+          "Intense feelings of worry, distress, nervousness, or panic",
+          "Feeling that these emotions are out of your control",
+          "A sense of being detached from your body",
+          "Catastrophizing (i.e., taking things out of proportion and experiencing thoughts like “everything is going to go wrong” or “I might die”)",
+          "Feeling tense, on edge, scared, agitated or nauseous"
         ]
       },
       "types": {
-        "title": "Types of Anxiety",
-        "gad": {
-          "name": "Generalized Anxiety Disorder (GAD)",
-          "description": "Persistent and excessive worry about various aspects of daily life."
+        "title": "The Different Types Of Anxiety",
+        "generalised_anxiety_disorder": {
+          "name": "Generalised Anxiety Disorder (GAD)",
+          "description": "Generalised anxiety is marked by excessive, exaggerated anxiety and worry about everyday life events out of your control"
         },
-        "ocd": {
+        "obsessive_compulsive_disorde": {
           "name": "Obsessive-Compulsive Disorder (OCD)",
-          "description": "Recurring, unwanted thoughts and repetitive behaviors."
+          "description": "Obsessions and compulsions is a mental illness that causes repeated unwanted thoughts or sensations (obsessions) or the urge to do something over and over again (compulsions)"
         },
-        "social": {
+        "social_anxiety": {
           "name": "Social Anxiety",
-          "description": "Intense fear of social situations and being judged by others."
+          "description": "The defining feature of social anxiety disorder (also called social phobia) is intense anxiety or fear of being judged or rejected in social or public situations"
         },
-        "separation": {
+        "separation_anxiety": {
           "name": "Separation Anxiety",
-          "description": "Excessive fear of being separated from attachment figures."
+          "description": "This is a common type of anxiety experienced in children being separated from a parent or caregiver"
         },
-        "panic": {
-          "name": "Panic Disorder",
-          "description": "Sudden, intense episodes of fear with physical symptoms."
+        "panic_attacks_and_panic_diso": {
+          "name": "Panic Attacks And Panic Disorder",
+          "description": "An individual suffering from panic attacks will experience intense, overwhelming anxiety with physical symptoms like dizziness, fainting, excessive sweating, heart-racing and or chest pain."
         },
         "agoraphobia": {
           "name": "Agoraphobia",
-          "description": "Fear of situations where escape might be difficult."
+          "description": "A person with agoraphobia is typically fearful of leaving environments (like their home) that they consider to be safe"
         },
-        "specific": {
+        "specific_phobias": {
           "name": "Specific Phobias",
-          "description": "Intense fear of specific objects or situations."
+          "description": "A specific phobia is experienced when a person feels an overwhelming fear of an object (like spiders, snakes or dogs) or a situation (e.g"
         },
-        "health": {
+        "health_anxiety": {
           "name": "Health Anxiety",
-          "description": "Excessive worry about having a serious illness."
+          "description": "An individual experiencing health anxiety typically experiences irrational worries about minor symptoms, falsely believing they indicate serious medical conditions"
         }
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
@@ -717,9 +727,9 @@
       "whenToSeekHelp": "It is important to seek professional help when worries and anxiety overwhelm you and negatively affect your daily life. Recognizing symptoms and learning effective coping mechanisms are essential steps toward recovery."
     },
     "depression": {
-      "title": "Depression",
+      "title": "DEPRESSION",
       "subtitle": "Understanding Depression",
-      "intro": "Depression is more than just sadness. It's a persistent lowness, feelings of worthlessness, numbness, and guilt that affects how you think, feel, and handle daily activities.",
+      "intro": "It’s completely normal for our moods to shift and change as we respond and adapt to life’s many challenges. Feeling sad, moody or low is common, but some of us are unable to regulate our moods, or may feel intensely sad or low for a prolonged period of time. This can severely affect how we cope and live our day-to-day lives.",
       "symptoms": {
         "title": "Key Symptoms",
         "items": [
@@ -732,26 +742,26 @@
         ]
       },
       "types": {
-        "title": "Types of Depression",
-        "major": {
+        "title": "Types Of Mood Disorders",
+        "major_depression": {
           "name": "Major Depression",
-          "description": "Severe symptoms that interfere with daily functioning."
+          "description": "Major depression is sometimes called major depressive disorder, clinical depression, unipolar depression or simply ‘depression’"
         },
-        "dysthymic": {
+        "dysthymic_disorder": {
           "name": "Dysthymic Disorder",
-          "description": "Chronic, less severe depression lasting two years or more."
+          "description": "The symptoms of dysthymia are similar to those of major depression but are less severe"
         },
-        "bipolar": {
+        "bipolar_disorder": {
           "name": "Bipolar Disorder",
-          "description": "Cycles of depression alternating with periods of elevated mood."
+          "description": "This used to be known as ‘manic depression’ because the person experiences periods of depression and periods of mania, with periods of normal mood in between"
         },
-        "perinatal": {
-          "name": "Perinatal/Postnatal Depression",
-          "description": "Depression occurring during pregnancy or after childbirth."
+        "perinatal_and_postnatal_depr": {
+          "name": "Perinatal And Postnatal Depression",
+          "description": "Women are at an increased risk of depression during pregnancy (known as the antenatal or prenatal period) and in the year following childbirth (known as the postnatal period)"
         },
-        "sad": {
+        "seasonal_affective_disorder_": {
           "name": "Seasonal Affective Disorder (SAD)",
-          "description": "Depression related to seasonal changes, typically winter."
+          "description": "SAD is a mood disorder that has a seasonal pattern"
         }
       },
       "statistics": "Almost 10% of women experience depression during pregnancy; this increases to 16% in the first 3 months after birth. Bipolar disorder affects approximately 2% of the population.",
@@ -799,34 +809,34 @@
       }
     },
     "trauma": {
-      "title": "Trauma",
+      "title": "TRAUMA",
       "subtitle": "Understanding and Healing Trauma",
-      "intro": "Trauma is a psychological wound resulting from frightening or disturbing events. It can affect how you think, feel, and relate to others long after the event has passed.",
+      "intro": "Frightening or disturbing events are distressing for anyone and can result in a psychological wound, known as trauma, which may be particularly exaggerated or triggering if you are already coping with existing mental illness.",
       "symptoms": {
-        "title": "Emotional Signs",
+        "title": "What Are Signs Of Trauma?",
         "items": [
-          "Fear and hypervigilance",
-          "Grief and sadness",
-          "Guilt and shame",
-          "Anger and irritability",
-          "Anxiety and panic",
+          "Fear",
+          "Grief",
+          "Guilt or shame",
+          "Anger",
+          "Anxiety",
           "Emotional numbness",
-          "Sleep difficulties and nightmares"
+          "Difficulty sleeping"
         ]
       },
       "types": {
-        "title": "Types of Trauma",
-        "acute": {
+        "title": "What Are The 3 Types Of Trauma?",
+        "type1": {
           "name": "Acute Trauma",
-          "description": "Results from a single event with temporary effects."
+          "description": "This is the most common type of trauma and is usually caused by a single, isolated event, such as a car accident or a natural disaster. The effects of acute trauma can be temporary, and most people will recover within a few days or weeks."
         },
-        "chronic": {
+        "type2": {
           "name": "Chronic Trauma",
-          "description": "Results from repeated exposure to distressing events."
+          "description": "This is the result of repeated or prolonged exposure to traumatic events, such as child abuse or domestic violence. The effects of chronic trauma can be long-lasting and severe, and can include physical, emotional, and psychological problems."
         },
-        "complex": {
+        "type3": {
           "name": "Complex Trauma",
-          "description": "Results from multiple traumatic events, often interpersonal."
+          "description": "This is a combination of both acute and chronic trauma, and is often the result of prolonged exposure to multiple traumatic events, such as growing up in a war-torn country or experiencing multiple forms of abuse. The effects of complex trauma can be severe and long-lasting, and can include physical, emotional, and psychological problems."
         }
       },
       "ptsdNote": "Trauma can develop into PTSD (Post-Traumatic Stress Disorder) when symptoms persist and significantly impact daily life.",
@@ -885,40 +895,39 @@
       }
     },
     "addiction": {
-      "title": "Addiction",
+      "title": "ADDICTION",
       "subtitle": "Understanding and Overcoming Addiction",
-      "intro": "Addiction is defined as a chronic brain disease characterized by a compulsive need to engage in a behavior or use a substance despite how bad it can be for us. It's a complex condition involving genetics, environment, and personal characteristics, and can manifest in various ways including substance addiction, gambling, and behavioral addictions.",
+      "intro": "Addiction can have a significant impact on mental health. It can lead to the development of mental health conditions such as depression, anxiety, and PTSD or can make existing mental health conditions worse, making it difficult for us to access appropriate help and support.",
       "symptoms": {
-        "title": "Key Signs",
+        "title": "What Are The Types Of Addiction?",
         "items": [
-          "Compulsive need to engage in behavior despite negative consequences",
-          "Inability to stop or control use despite wanting to",
-          "Neglecting responsibilities and relationships",
-          "Withdrawal symptoms when not using",
-          "Increased tolerance requiring more to achieve the same effect",
-          "Spending significant time obtaining, using, or recovering"
+          "Substance addiction: It means the use of illegal drugs or to use prescription or uncountable drugs or alcohol for other purposes than those for which they are meant to be used, mostly in excessive amounts. Substance abuse may lead to emotional, social, physical and job-related problems. Addiction to drugs and alcohol is the most well-known type of addiction. Another addictions can be: Marijuana, prescription medicines (pain pills), stimulants, anxiety pills, Methaamphetamine, cocaine, opiates, hallucinogens, inhalants.",
+          "Behavioural addiction: According to science this addiction is described as an intense desire to repeat some action that is pleasurable or perceived to improve wellbeing or capable of alleviating some personal distress. This includes addiction to activities such as gambling, sex, pornography, plastic surgery, gaming, food, exercise, and shopping.",
+          "Process addiction: It is an behavioral addiction characterized by an individual‘s preoccupation with certain activity, often compulsive that results in negative consequences. Addiction to things like food, the internet, texting, surfing the web, overeating and video games.",
+          "Relational addiction: Addiction to relationships which often looks like codependency. One person ‘‘love‘‘ another person in an obsessive intensity that is not in the interest of either party.",
+          "Trauma addiction: Addiction to the emotional and physical sensations associated with traumatic experiences."
         ]
       },
       "types": {
-        "title": "Types of Addiction",
-        "substance": {
-          "name": "Substance Addiction",
-          "description": "Use of illegal drugs, prescription medications, or alcohol for purposes other than intended, often in excessive amounts. Can lead to emotional, social, physical, and job-related problems."
+        "title": "What Are The Types Of Addiction?",
+        "type1": {
+          "name": "Substance addiction",
+          "description": "It means the use of illegal drugs or to use prescription or uncountable drugs or alcohol for other purposes than those for which they are meant to be used, mostly in excessive amounts. Substance abuse may lead to emotional, social, physical and job-related problems. Addiction to drugs and alcohol is the most well-known type of addiction. Another addictions can be: Marijuana, prescription medicines (pain pills), stimulants, anxiety pills, Methaamphetamine, cocaine, opiates, hallucinogens, inhalants."
         },
-        "behavioral": {
-          "name": "Behavioral Addiction",
-          "description": "Intense desire to repeat actions that are pleasurable or perceived to improve wellbeing. Includes gambling, sex, pornography, gaming, food, exercise, and shopping."
+        "type2": {
+          "name": "Behavioural addiction",
+          "description": "According to science this addiction is described as an intense desire to repeat some action that is pleasurable or perceived to improve wellbeing or capable of alleviating some personal distress. This includes addiction to activities such as gambling, sex, pornography, plastic surgery, gaming, food, exercise, and shopping."
         },
-        "process": {
-          "name": "Process Addiction",
-          "description": "Preoccupation with certain activities that results in negative consequences. Includes addiction to food, internet, texting, overeating, and video games."
+        "type3": {
+          "name": "Process addiction",
+          "description": "It is an behavioral addiction characterized by an individual‘s preoccupation with certain activity, often compulsive that results in negative consequences. Addiction to things like food, the internet, texting, surfing the web, overeating and video games."
         },
-        "relational": {
-          "name": "Relational Addiction",
-          "description": "Addiction to relationships which often looks like codependency. One person loves another in an obsessive intensity that is not in the interest of either party."
+        "type4": {
+          "name": "Relational addiction",
+          "description": "Addiction to relationships which often looks like codependency. One person ‘‘love‘‘ another person in an obsessive intensity that is not in the interest of either party."
         },
-        "trauma": {
-          "name": "Trauma Addiction",
+        "type5": {
+          "name": "Trauma addiction",
           "description": "Addiction to the emotional and physical sensations associated with traumatic experiences."
         }
       },
@@ -950,33 +959,59 @@
       }
     },
     "adhd": {
-      "title": "ADHD",
+      "title": "What Is ADHD?",
       "subtitle": "Understanding ADHD",
-      "intro": "Attention Deficit Hyperactivity Disorder (ADHD) is a neurodevelopmental condition that affects both children and adults. It impacts attention, impulse control, and activity levels, making everyday tasks more challenging.",
+      "intro": "ADHD is one of the most common neurodevelopmental disorders of childhood. It’s usually first diagnosed in childhood and often lasts into adulthood.",
       "symptoms": {
-        "title": "Key Symptoms",
+        "title": "ADHD Symptoms: What Are Common Daily Challenges Adults With ADHD May Experience?",
         "items": [
-          "Difficulty sustaining attention in tasks or activities",
-          "Easily distracted by unrelated thoughts or stimuli",
-          "Difficulty organizing tasks and managing time",
-          "Forgetfulness in daily activities",
-          "Fidgeting, restlessness, or difficulty staying seated",
-          "Impulsive decisions without considering consequences"
+          "Anxiety",
+          "Chronic boredom",
+          "Chronic lateness and forgetfulness",
+          "Depression",
+          "Trouble concentrating when reading",
+          "Trouble controlling anger",
+          "Problems at work",
+          "Impulsiveness",
+          "Low tolerance for frustration",
+          "Low self-esteem",
+          "Mood swings",
+          "Poor organizational skills",
+          "Procrastination",
+          "Relationship problems",
+          "Substance abuse or addiction",
+          "Low motivation"
         ]
       },
       "types": {
-        "title": "Types of ADHD",
-        "inattentive": {
-          "name": "Predominantly Inattentive",
-          "description": "Difficulty focusing, following instructions, and organizing tasks."
+        "title": "The Inattentive Type",
+        "type1": {
+          "name": "Short attention span for age (difficulty sustaining attentio",
+          "description": ""
         },
-        "hyperactive": {
-          "name": "Predominantly Hyperactive-Impulsive",
-          "description": "Excessive movement, talking, and difficulty waiting."
+        "type2": {
+          "name": "Difficulty listening to others",
+          "description": ""
         },
-        "combined": {
-          "name": "Combined Presentation",
-          "description": "Symptoms of both inattention and hyperactivity-impulsivity."
+        "type3": {
+          "name": "Difficulty attending to details",
+          "description": ""
+        },
+        "type4": {
+          "name": "Easily distracted",
+          "description": ""
+        },
+        "type5": {
+          "name": "Forgetful",
+          "description": ""
+        },
+        "type6": {
+          "name": "Poor organisational skills for age",
+          "description": ""
+        },
+        "type7": {
+          "name": "Poor study skills for age",
+          "description": ""
         }
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
@@ -993,9 +1028,9 @@
       }
     },
     "attachment": {
-      "title": "Attachment Disorder",
+      "title": "ATTACHMENT DISORDER",
       "subtitle": "Understanding Attachment Issues",
-      "intro": "Attachment disorders develop when early bonds with caregivers are disrupted or absent. These patterns can affect relationships, emotional regulation, and self-worth throughout life.",
+      "intro": "Experiencing attachment issues can be quite common for adults and while there is no formal diagnosis, it’s often thought to stem from untreated attachment issues from one’s childhood. If you don’t work to resolve attachment issues, you may go through life struggling to trust others and feel safe and secure in an intimate relationship.",
       "symptoms": {
         "title": "Key Signs",
         "items": [
@@ -1008,22 +1043,22 @@
         ]
       },
       "types": {
-        "title": "Attachment Styles",
-        "anxious": {
-          "name": "Anxious Attachment",
-          "description": "Preoccupation with relationships and fear of abandonment."
+        "title": "What Are The 4 Attachment Disorders?",
+        "secure_attachment": {
+          "name": "Secure Attachment",
+          "description": "Are you comfortable expressing emotions openly? Are you comfortable depending on your partner? And letting your partner depend on you? Then it’s likely you have a secure attachment style"
         },
-        "avoidant": {
-          "name": "Avoidant Attachment",
-          "description": "Discomfort with closeness and preference for independence."
+        "attachment_anxiety": {
+          "name": "Attachment Anxiety",
+          "description": "Do you highly value your relationships but often worry whether your loved one is as invested in the relationship as you are? You may suffer from attachment anxiety"
         },
-        "disorganized": {
-          "name": "Disorganized Attachment",
-          "description": "Conflicting desires for closeness and fear of intimacy."
+        "avoidant_or_dismissive_attac": {
+          "name": "Avoidant Or Dismissive Attachment",
+          "description": "Do you tend to hide or suppress your feelings when faced with an emotion-dense situation? If you feel you are emotionally strong, independent and self-sufficient, and often see yourself as a ‘lone wolf’, you may have an avoidant attachment style"
         },
-        "reactive": {
-          "name": "Reactive Attachment Disorder",
-          "description": "Difficulty forming emotional bonds, often due to early neglect."
+        "disorganised_or_fearful_atta": {
+          "name": "Disorganised Or Fearful Attachment",
+          "description": "If you show socially unstable or ambiguous behaviours, don’t seek intimacy or closeness and find it hard to trust and depend on others, you may have a fearful attachment style"
         }
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
@@ -1031,20 +1066,20 @@
       "attachmentStyles": {
         "title": "Attachment Styles in Detail",
         "secure": {
-          "name": "Secure Attachment (Healthy)",
-          "description": "The ability to form stable relationships based on trust and emotional intimacy."
+          "name": "Secure Attachment",
+          "description": "Are you comfortable expressing emotions openly? Are you comfortable depending on your partner? And letting your partner depend on you? Then it’s likely you have a secure attachment style"
         },
         "anxious": {
-          "name": "Anxious/Preoccupied Attachment",
-          "description": "Characterized by hypervigilance in relationships, extreme jealousy, and constant fear of abandonment. People with this style constantly seek reassurance from partners."
+          "name": "Attachment Anxiety",
+          "description": "Do you highly value your relationships but often worry whether your loved one is as invested in the relationship as you are? You may suffer from attachment anxiety"
         },
         "avoidant": {
-          "name": "Avoidant/Dismissive Attachment",
-          "description": "Avoidance of emotional intimacy, preference for independence, and difficulty relying on others. May appear detached or emotionally disinterested."
+          "name": "Avoidant Or Dismissive Attachment",
+          "description": "Do you tend to hide or suppress your feelings when faced with an emotion-dense situation? If you feel you are emotionally strong, independent and self-sufficient, and often see yourself as a ‘lone wolf’, you may have an avoidant attachment style"
         },
         "disorganized": {
-          "name": "Disorganized/Fearful-Avoidant Attachment",
-          "description": "Contradictory behaviors - the desire for closeness coexists with the fear of intimacy. Often the result of traumatic experiences with caregivers."
+          "name": "Disorganised Or Fearful Attachment",
+          "description": "If you show socially unstable or ambiguous behaviours, don’t seek intimacy or closeness and find it hard to trust and depend on others, you may have a fearful attachment style"
         }
       },
       "longTermEffects": {
@@ -1072,9 +1107,9 @@
       }
     },
     "eatingDisorders": {
-      "title": "Eating Disorders",
+      "title": "EATING DISORDERS",
       "subtitle": "Understanding Eating Disorders",
-      "intro": "Eating disorders are serious mental health conditions characterized by persistent disturbances in eating behaviors and related thoughts and emotions. They can affect physical health and quality of life.",
+      "intro": "Eating disorders affect many people in the world. According to the statistics this significant global health concern shows that at least 9% of population will experience an eating disorder at some point in their lives. It is very important to understand and address disordered eating. They are a complex mental health conditions that require professional interventions.",
       "symptoms": {
         "title": "Warning Signs",
         "items": [
@@ -1087,22 +1122,18 @@
         ]
       },
       "types": {
-        "title": "Types of Eating Disorders",
-        "anorexia": {
+        "title": "What Are Three Common Types Of Eating Disorders?",
+        "anorexia_nervosa": {
           "name": "Anorexia Nervosa",
-          "description": "Severe food restriction, intense fear of weight gain, and distorted body image."
+          "description": "This involves the extreme restriction of food intake, leading to dangerously low body weight"
         },
-        "bulimia": {
+        "bulimia_nervosa": {
           "name": "Bulimia Nervosa",
-          "description": "Cycles of binge eating followed by compensatory behaviors."
+          "description": "Quite the opposite of anorexia, bulimia usually involves a cycle of binge eating followed by the compensation of purging, fasting or excessive exercise"
         },
-        "binge": {
-          "name": "Binge Eating Disorder",
-          "description": "Recurrent episodes of eating large quantities without compensatory behaviors."
-        },
-        "arfid": {
-          "name": "ARFID",
-          "description": "Avoidant/Restrictive Food Intake Disorder - limited eating not related to body image."
+        "binge_eating": {
+          "name": "Binge Eating",
+          "description": "This involves recurrent episodes of consuming large amounts of food in a short period of time, followed by feelings of shame, guilt and distress"
         }
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
@@ -1134,19 +1165,19 @@
       }
     },
     "grief": {
-      "title": "Grief & Loss",
+      "title": "GRIEF & LOSS",
       "subtitle": "Understanding Grief",
-      "intro": "Grief is a natural response to loss. It can affect us emotionally, physically, and spiritually. While grief is universal, each person's experience is unique and deserves compassionate support.",
+      "intro": "Loss and grief are universal experiences and a very complex emotion that affect us all at some point in our lives. Whether it’s the loss of a loved one, a job, or even a cherished possession, the emotions that come with these losses can be overwhelming and difficult to navigate.",
       "symptoms": {
-        "title": "Common Experiences",
+        "title": "What Are The 7 Stages Of Grief After A Death?",
         "items": [
-          "Intense sadness and longing",
-          "Shock, disbelief, or denial",
-          "Anger or irritability",
-          "Guilt or regret",
-          "Anxiety about the future",
-          "Physical symptoms like fatigue or changes in appetite",
-          "Difficulty concentrating or making decisions"
+          "Shock and denial",
+          "Pain and guilt",
+          "Anger and bargaining",
+          "Depression",
+          "The upward turn",
+          "Reconstruction and working through",
+          "Acceptance and hope"
         ]
       },
       "types": {
@@ -1239,38 +1270,35 @@
       }
     },
     "relationships": {
-      "title": "Relationships",
+      "title": "RELATIONSHIPS",
       "subtitle": "Understanding Relationship Challenges",
-      "intro": "Healthy relationships are fundamental to our wellbeing. When relationships struggle, it affects every aspect of our lives. Understanding relationship dynamics can help build stronger, more fulfilling connections.",
+      "intro": "Relationships are the basis of our lives. They help us feel safe and challenged, and help us learn and grow.",
       "symptoms": {
-        "title": "Common Challenges",
+        "title": "What Are The 4 Main Types Of Relationships?",
         "items": [
-          "Communication difficulties",
-          "Trust issues and jealousy",
-          "Frequent conflicts or arguments",
-          "Feeling disconnected or lonely",
-          "Difficulty with intimacy",
-          "Codependency patterns",
-          "Boundary issues"
+          "Romantic Relationships: Romantic relationships are perhaps the most well-known type of relationship. They involve a deep emotional and physical connection between two people and often include a strong commitment to one another. Romantic relationships can take many forms, including dating, engagement, and marriage. They can be long-term or short-term and are usually characterised by love, trust, and mutual support.",
+          "Platonic Relationships: These are non-romantic relationships between friends. They are built on trust, mutual respect, and shared interests. Platonic relationships can be close and intimate, but they do not involve a romantic or sexual connection. Examples of platonic relationships include friendships between coworkers, classmates, or neighbours.",
+          "Family Relationships: These relationships are often characterised by a strong sense of loyalty, love, and responsibility. Familial relationships can be complex, with many different dynamics at play. They can include relationships between parents and children, siblings, grandparents, and other relatives.",
+          "Professional Relationships: These exist between people who work together and are often characterised by a shared goal or purpose and can include relationships between colleagues, supervisors, and subordinates. They can be formal or informal, and they can be based on trust, respect, and mutual support."
         ]
       },
       "types": {
-        "title": "Areas We Address",
-        "couples": {
-          "name": "Couples Counseling",
-          "description": "Improving communication, resolving conflicts, and rebuilding connection."
+        "title": "What Are The 4 Main Types Of Relationships?",
+        "type1": {
+          "name": "Romantic Relationships",
+          "description": "Romantic relationships are perhaps the most well-known type of relationship. They involve a deep emotional and physical connection between two people and often include a strong commitment to one another. Romantic relationships can take many forms, including dating, engagement, and marriage. They can be long-term or short-term and are usually characterised by love, trust, and mutual support."
         },
-        "family": {
-          "name": "Family Dynamics",
-          "description": "Addressing patterns, roles, and communication within families."
+        "type2": {
+          "name": "Platonic Relationships",
+          "description": "These are non-romantic relationships between friends. They are built on trust, mutual respect, and shared interests. Platonic relationships can be close and intimate, but they do not involve a romantic or sexual connection. Examples of platonic relationships include friendships between coworkers, classmates, or neighbours."
         },
-        "interpersonal": {
-          "name": "Interpersonal Skills",
-          "description": "Building healthier relationships in all areas of life."
+        "type3": {
+          "name": "Family Relationships",
+          "description": "These relationships are often characterised by a strong sense of loyalty, love, and responsibility. Familial relationships can be complex, with many different dynamics at play. They can include relationships between parents and children, siblings, grandparents, and other relatives."
         },
-        "boundaries": {
-          "name": "Boundary Setting",
-          "description": "Learning to establish and maintain healthy boundaries."
+        "type4": {
+          "name": "Professional Relationships",
+          "description": "These exist between people who work together and are often characterised by a shared goal or purpose and can include relationships between colleagues, supervisors, and subordinates. They can be formal or informal, and they can be based on trust, respect, and mutual support."
         }
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
@@ -1309,19 +1337,19 @@
       }
     },
     "stress": {
-      "title": "Stress",
+      "title": "STRESS",
       "subtitle": "Understanding and Managing Stress",
-      "intro": "Stress is your body's response to demands and pressures. While some stress can be motivating, chronic stress can significantly impact your physical and mental health. Learning to manage stress is essential for wellbeing.",
+      "intro": "Stress is a common issue that affects many people. It’s a natural response to challenging situations, but when it becomes chronic, it can have a negative impact on both physical and mental health.",
       "symptoms": {
-        "title": "Signs of Chronic Stress",
+        "title": "What Are The 7 Symptoms Of Stress?",
         "items": [
-          "Persistent feelings of overwhelm",
-          "Difficulty relaxing or sleeping",
-          "Irritability and mood swings",
-          "Physical tension and headaches",
-          "Difficulty concentrating",
-          "Changes in appetite",
-          "Withdrawal from activities or people"
+          "Bursts of anger, irritability or sadness",
+          "Fatigue",
+          "Feeling helpless or hopeless",
+          "Uninterested in life",
+          "A loss in sense of humour",
+          "Racing thoughts",
+          "Struggle to enjoy yourself"
         ]
       },
       "types": {
@@ -1385,42 +1413,76 @@
           "Cognitive Behavioral Therapy for changing stressful thought patterns",
           "Coaching for developing resilience"
         ]
+      },
+      "selfCare": {
+        "title": "Some Of The Ways We Can Help You Overcome Stress Include:",
+        "items": [
+          "Understanding ways to achieve a healthy work/life balance",
+          "Utilising proven strategies and techniques that effectively manage stress"
+        ]
       }
     },
     "perinatal": {
-      "title": "Perinatal Mood Disorders",
+      "title": "PERINATAL MOOD DISORDERS",
       "subtitle": "Understanding Perinatal Mental Health",
-      "intro": "Perinatal mood disorders affect parents during pregnancy and the postpartum period. Almost 10% of women experience depression during pregnancy, increasing to 16% in the first 3 months after birth. These conditions are treatable with proper support.",
+      "intro": "While every experience is different, having a baby is a significant life event. Much like the physical changes we go through during pregnancy, there may be many emotional changes that come with each trimester. While it’s a time of joy, excitement and many firsts, it can also come with a degree of anxiety or ‘ups and downs’ in mood. Although it is normal to experience these emotions when expecting a baby, some of us do develop more intense levels of anxiety or lowered moods which can impact our daily lives. When this occurs during pregnancy it is known as antenatal anxiety or antenatal depression.",
       "symptoms": {
-        "title": "Warning Signs",
+        "title": "Signs Of Perinatal Depression",
         "items": [
-          "Persistent sadness or emptiness",
-          "Severe mood swings",
-          "Difficulty bonding with the baby",
-          "Withdrawal from family and friends",
-          "Changes in appetite and sleep",
-          "Overwhelming fatigue",
-          "Intense anxiety or panic attacks",
-          "Thoughts of harming yourself or the baby"
+          "Persistent worry about the health or wellbeing of your baby",
+          "Constantly feeling low, hopeless or empty",
+          "Sudden mood swings",
+          "Common sadness or crying (for no obvious reason)",
+          "Nervousness or constant panic",
+          "Intrusive thoughts and compulsive behaviours (e.g., unwanted thoughts relating to harming your baby)",
+          "Shortness of breath",
+          "Low energy",
+          "Bad sleeps",
+          "Feeling ‘detached’ from your surroundings",
+          "Suicidal thoughts or behaviours"
         ]
       },
       "types": {
-        "title": "Types of Perinatal Disorders",
-        "prenatal": {
-          "name": "Prenatal Depression",
-          "description": "Depression occurring during pregnancy."
+        "title": "What Causes Perinatal Mood Disorder?",
+        "type1": {
+          "name": "A pre-existing history of anxiety and/or depression",
+          "description": ""
         },
-        "postpartum": {
-          "name": "Postpartum Depression",
-          "description": "Depression occurring after childbirth."
+        "type2": {
+          "name": "Previous reproductive loss (infertility, IVF, miscarriage, t",
+          "description": ""
         },
-        "anxiety": {
-          "name": "Perinatal Anxiety",
-          "description": "Excessive worry and anxiety during or after pregnancy."
+        "type3": {
+          "name": "A difficult or complex pregnancy",
+          "description": ""
         },
-        "psychosis": {
-          "name": "Postpartum Psychosis",
-          "description": "Rare but serious condition requiring immediate medical attention."
+        "type4": {
+          "name": "Birth trauma",
+          "description": ""
+        },
+        "type5": {
+          "name": "Premature or sick baby",
+          "description": ""
+        },
+        "type6": {
+          "name": "Challenges with feeding or settling",
+          "description": ""
+        },
+        "type7": {
+          "name": "Sleep deprivation",
+          "description": ""
+        },
+        "type8": {
+          "name": "Pre-existing physical illnesses",
+          "description": ""
+        },
+        "type9": {
+          "name": "Financial stress",
+          "description": ""
+        },
+        "type10": {
+          "name": "Relationship stress",
+          "description": ""
         }
       },
       "statistics": "Almost 10% of women experience depression during pregnancy; this increases to 16% in the first 3 months after birth.",
@@ -1463,18 +1525,25 @@
       }
     },
     "sexualDysfunction": {
-      "title": "Sexual Dysfunctions",
+      "title": "SEXUAL DYSFUNCTIONS",
       "subtitle": "Understanding Sexual Health",
-      "intro": "Sexual dysfunctions can affect anyone and involve difficulties with desire, arousal, orgasm, or pain during sexual activity. These challenges often have psychological components and can be addressed with professional support.",
+      "intro": "Sexual dysfunction refers to conditions that impact sexual desire, arousal, orgasm, and pain during intercourse. It is a problem that can happen during any phase of the sexual cycle and prevents from experiencing satisfaction from sexual activity. The sexual response cycle traditionally includes excitement, plateau, orgasm and resolution. Sexual dysfunction is common which is why people of all sexes, genders, orientations, and relationship statuses can benefit from psychosexual therapy.",
       "symptoms": {
-        "title": "Common Concerns",
+        "title": "What Are Other Sexual Dysfunction Examples?",
         "items": [
-          "Low sexual desire or interest",
-          "Difficulty with arousal",
-          "Difficulty achieving orgasm",
-          "Pain during sexual activity",
-          "Performance anxiety",
-          "Relationship tension due to sexual issues"
+          "Mismatched libidos and desire discrepancies",
+          "Painful sex",
+          "Vaginismus",
+          "Difficulties in reaching orgasm",
+          "Delayed ejaculation",
+          "Porn dependency",
+          "Anxiety before or during sex",
+          "Low mood contributing to low sexual desire",
+          "Body image concerns",
+          "Adjusting to sex after pregnancy and childbirth",
+          "Adjusting to illness and disability",
+          "Adjusting to sexually transmitted infection",
+          "Recovering from sex related trauma"
         ]
       },
       "types": {
@@ -1537,9 +1606,9 @@
       }
     },
     "mensMentalHealth": {
-      "title": "Men's Mental Health",
+      "title": "MEN’S MENTAL HEALTH",
       "subtitle": "Supporting Men's Wellbeing",
-      "intro": "Men often face unique challenges in addressing mental health due to societal expectations and stigma. Creating a space where men can openly discuss their struggles is essential for healing and growth.",
+      "intro": "There’s no denying that mental instability in men is also common.  Men can develop most of the same mental disorders and conditions like women, but they may experience different symptoms. In the nowadays silent epidemic in society which is impacting families, teachers, community members and friends, unfortunately the rate of male depression have dramatically risen.",
       "symptoms": {
         "title": "Common Challenges",
         "items": [
@@ -1611,9 +1680,9 @@
       }
     },
     "bipolar": {
-      "title": "Bipolar Disorder",
+      "title": "BIPOLAR DISORDER",
       "subtitle": "Understanding Bipolar Disorder",
-      "intro": "Bipolar disorder is characterized by significant mood swings including emotional highs (mania or hypomania) and lows (depression). It affects approximately 2% of the population and can be effectively managed with proper treatment.",
+      "intro": "To outsiders looking in, bipolar disorder can be hard to recognise as it comes in many forms. It’s a complex disorder, and people living with bipolar disorder will have periods of depression and mania and will alternate between these two extremes.",
       "symptoms": {
         "title": "Key Symptoms",
         "items": [
@@ -1626,18 +1695,18 @@
         ]
       },
       "types": {
-        "title": "Types of Bipolar Disorder",
-        "bipolarI": {
-          "name": "Bipolar I",
-          "description": "Manic episodes lasting at least 7 days, often with depressive episodes."
+        "title": "What Are The Types Of Bipolar Disorder?",
+        "bipolar_i_disorder": {
+          "name": "Bipolar I Disorder",
+          "description": "Manic episodes will typically last at least one week"
         },
-        "bipolarII": {
-          "name": "Bipolar II",
-          "description": "Pattern of depressive episodes and hypomanic episodes."
+        "bipolar_ii_disorder": {
+          "name": "Bipolar II Disorder",
+          "description": "This disorder is made up of a pattern of depressive episodes and hypomanic manic episodes (less severe than manic episodes), without ever having a full manic episode"
         },
-        "cyclothymic": {
+        "cyclothymic_disorder": {
           "name": "Cyclothymic Disorder",
-          "description": "Chronic fluctuating mood with periods of hypomania and depression."
+          "description": "Multiple episodes of manic and depressive symptoms lasting for at least two years, though not meeting the full diagnostic criteria of hypomanic or depressive episodes."
         }
       },
       "statistics": "Bipolar disorder affects approximately 2% of the population.",
@@ -1667,9 +1736,9 @@
       }
     },
     "personality": {
-      "title": "Personality Disorders",
+      "title": "PERSONALITY DISORDERS",
       "subtitle": "Understanding Personality Patterns",
-      "intro": "Personality disorders involve long-standing patterns of thinking, feeling, and behaving that differ from cultural expectations and cause distress or difficulties in functioning. With specialized therapy, meaningful change is possible.",
+      "intro": "A personality disorder is a mental disorder in which we experience a rigid and unhealthy pattern of thinking and behaving. Suffering from a personality disorder, is often experience challenges perceiving and relating to other people and situations. This causes significant problems in forming and maintaining positive relationships, work, school, and social life.",
       "symptoms": {
         "title": "Common Features",
         "items": [
@@ -1682,18 +1751,18 @@
         ]
       },
       "types": {
-        "title": "Clusters of Personality Disorders",
-        "clusterA": {
+        "title": "What Are The 10 Personality Disorders?",
+        "cluster_a": {
           "name": "Cluster A",
-          "description": "Characterized by odd or eccentric behaviors (Paranoid, Schizoid, Schizotypal)."
+          "description": "People with ‘Cluster A’ personality disorders typically experience ‘odd’ or ‘eccentric’ thoughts or behaviors:"
         },
-        "clusterB": {
+        "cluster_b": {
           "name": "Cluster B",
-          "description": "Characterized by dramatic or emotional behaviors (Borderline, Narcissistic, Antisocial, Histrionic)."
+          "description": "People with ‘Cluster B’ personality disorders typically experience unstable emotions and dramatic or impulsive behaviours:"
         },
-        "clusterC": {
+        "cluster_c": {
           "name": "Cluster C",
-          "description": "Characterized by anxious or fearful behaviors (Avoidant, Dependent, Obsessive-Compulsive)."
+          "description": "People with ‘Cluster C’ personality disorders typically experience anxious and fearful thoughts and behaviour:"
         }
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
@@ -1707,12 +1776,22 @@
           "Working with interpersonal relationships",
           "Mindfulness and self-compassion techniques"
         ]
+      },
+      "detailedDescription": "In some cases, people may not realise having a personality disorder because the way of thinking and behaving seems natural to them, or may even blame others for the challenges they have.",
+      "causes": {
+        "title": "What Is The Root Cause Of Personality Disorders?",
+        "items": [
+          "Currently, the causes of personality disorders aren’t entirely understood.",
+          "Current studies show that the development of a personality disorder is due to a combination of early childhood environment and genetics.",
+          "People with particular personality types, such as borderline personality disorders (BPD), are known to have higher rates of childhood abuse, neglect or/and trauma.",
+          "Personality disorders usually develop in teenage or early adulthood years.."
+        ]
       }
     },
     "selfEsteem": {
-      "title": "Self-Esteem",
+      "title": "SELF-ESTEEM",
       "subtitle": "Building Healthy Self-Worth",
-      "intro": "Self-esteem reflects how we value and perceive ourselves. Low self-esteem can affect every area of life, from relationships to career. Building genuine self-worth is a journey of self-discovery and growth.",
+      "intro": "In today’s world, people are overloaded with messages about how they should look and behave, which is why self-esteem is something that many of people struggle with. But maintaining a positive self image is critical for the own mental health and overall well-being.",
       "symptoms": {
         "title": "Signs of Low Self-Esteem",
         "items": [

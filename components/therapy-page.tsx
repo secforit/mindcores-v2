@@ -133,6 +133,11 @@ export function TherapyPage({ therapyKey, iconName }: TherapyPageProps) {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed">{t("intro")}</p>
+
+            {/* Detailed Description (EMDR) */}
+            {t.has("detailedDescription") && (
+              <p className="text-lg text-muted-foreground leading-relaxed mt-4">{t("detailedDescription")}</p>
+            )}
           </div>
         </div>
       </section>
@@ -216,10 +221,10 @@ export function TherapyPage({ therapyKey, iconName }: TherapyPageProps) {
               )}
 
               {/* Body Memory */}
-              {t.has("bodyMemory") && (
+              {t.has("bodyMemory.title") && (
                 <div>
-                  <h2 className="text-2xl font-light text-foreground mb-4">Body Memory</h2>
-                  <p className="text-muted-foreground leading-relaxed">{t("bodyMemory")}</p>
+                  <h2 className="text-2xl font-light text-foreground mb-4">{t("bodyMemory.title")}</h2>
+                  <p className="text-muted-foreground leading-relaxed">{t("bodyMemory.description")}</p>
                 </div>
               )}
 
@@ -235,6 +240,38 @@ export function TherapyPage({ therapyKey, iconName }: TherapyPageProps) {
                 <div className="bg-secondary/30 p-6 rounded-xl">
                   <h3 className="text-lg font-medium text-foreground mb-3">Example</h3>
                   <p className="text-muted-foreground leading-relaxed">{t("example")}</p>
+                </div>
+              )}
+
+              {/* What To Expect (CBT) */}
+              {t.has("whatToExpect") && (
+                <div>
+                  <h2 className="text-2xl font-light text-foreground mb-4">{t("whatToExpect.title")}</h2>
+                  <p className="text-muted-foreground leading-relaxed">{t("whatToExpect.description")}</p>
+                </div>
+              )}
+
+              {/* Session Info (Family) */}
+              {t.has("sessionInfo") && (
+                <div>
+                  <h2 className="text-2xl font-light text-foreground mb-4">{t("sessionInfo.title")}</h2>
+                  <p className="text-muted-foreground leading-relaxed">{t("sessionInfo.description")}</p>
+                </div>
+              )}
+
+              {/* Miracle Question (Solution-Focused) */}
+              {t.has("miracleQuestion") && (
+                <div>
+                  <h2 className="text-2xl font-light text-foreground mb-4">{t("miracleQuestion.title")}</h2>
+                  <p className="text-muted-foreground leading-relaxed">{t("miracleQuestion.description")}</p>
+                </div>
+              )}
+
+              {/* Schema Explanation (Schema Therapy) */}
+              {t.has("schemaExplanation") && (
+                <div>
+                  <h2 className="text-2xl font-light text-foreground mb-4">{t("schemaExplanation.title")}</h2>
+                  <p className="text-muted-foreground leading-relaxed">{t("schemaExplanation.description")}</p>
                 </div>
               )}
             </div>
@@ -369,6 +406,61 @@ export function TherapyPage({ therapyKey, iconName }: TherapyPageProps) {
                   </div>
                 </div>
               )}
+
+              {/* Phases (EMDR) */}
+              {t.has("phases") && (
+                <div>
+                  <h2 className="text-2xl font-light text-foreground mb-6">{t("phases.title")}</h2>
+                  <div className="space-y-3">
+                    {(t.raw("phases.items") as string[]).map((phase, index) => (
+                      <div
+                        key={index}
+                        className="flex items-start gap-4 p-4 bg-primary/5 rounded-xl"
+                      >
+                        <span className="text-xl font-light text-primary">{index + 1}</span>
+                        <p className="text-foreground leading-relaxed">{phase}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Additional Techniques (EMDR) */}
+              {t.has("additionalTechniques") && (
+                <div>
+                  <h2 className="text-2xl font-light text-foreground mb-6">{t("additionalTechniques.title")}</h2>
+                  <div className="space-y-3">
+                    {(t.raw("additionalTechniques.items") as string[]).map((technique, index) => (
+                      <Card
+                        key={index}
+                        className="bg-card border-border/50"
+                      >
+                        <CardContent className="p-4">
+                          <p className="text-foreground leading-relaxed">{technique}</p>
+                        </CardContent>
+                      </Card>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Key Principles (Identity-Trauma) */}
+              {t.has("keyPrinciples") && (
+                <div>
+                  <h2 className="text-2xl font-light text-foreground mb-6">{t("keyPrinciples.title")}</h2>
+                  <div className="space-y-3">
+                    {(t.raw("keyPrinciples.items") as string[]).map((principle, index) => (
+                      <div
+                        key={index}
+                        className="flex items-start gap-4 p-4 bg-primary/5 rounded-xl"
+                      >
+                        <span className="text-xl font-light text-primary">{index + 1}</span>
+                        <p className="text-foreground leading-relaxed">{principle}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
           </div>
         </div>
@@ -438,12 +530,12 @@ export function TherapyPage({ therapyKey, iconName }: TherapyPageProps) {
       )}
 
       {/* Trauma Biography (if available) */}
-      {t.has("traumaBiography") && (
+      {t.has("traumaBiography.title") && (
         <section className="py-12 bg-secondary/30">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="max-w-3xl mx-auto">
-              <h2 className="text-2xl font-light text-foreground mb-4 text-center">Trauma Biography</h2>
-              <p className="text-muted-foreground leading-relaxed text-center">{t("traumaBiography")}</p>
+              <h2 className="text-2xl font-light text-foreground mb-4 text-center">{t("traumaBiography.title")}</h2>
+              <p className="text-muted-foreground leading-relaxed text-center">{t("traumaBiography.description")}</p>
             </div>
           </div>
         </section>
@@ -493,6 +585,32 @@ export function TherapyPage({ therapyKey, iconName }: TherapyPageProps) {
             <div className="max-w-3xl mx-auto">
               <h2 className="text-2xl font-light text-foreground mb-4 text-center">Understanding Schemas</h2>
               <p className="text-muted-foreground leading-relaxed text-center">{t("schemas")}</p>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Unique Advantage (Family) */}
+      {t.has("uniqueAdvantage") && (
+        <section className="py-12 bg-secondary/30">
+          <div className="mx-auto max-w-7xl px-6 lg:px-8">
+            <div className="max-w-3xl mx-auto">
+              <div className="bg-card border border-primary/20 rounded-xl p-6">
+                <p className="text-foreground leading-relaxed text-center">{t("uniqueAdvantage")}</p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Expert Principle (Systemic Counseling) */}
+      {t.has("expertPrinciple") && (
+        <section className="py-12 bg-primary/5">
+          <div className="mx-auto max-w-7xl px-6 lg:px-8">
+            <div className="max-w-3xl mx-auto">
+              <p className="text-lg text-foreground leading-relaxed text-center italic">
+                {t("expertPrinciple")}
+              </p>
             </div>
           </div>
         </section>

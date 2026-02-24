@@ -616,15 +616,15 @@
     "anxiety": {
       "title": "Anxietate",
       "subtitle": "Înțelegerea și Depășirea Anxietății",
-      "intro": "Anxietatea este mecanismul instinctiv de protecție al corpului tău. Când percepi pericol, creierul tău trimite semnale care activează răspunsul de luptă sau fugă, ajutându-te să supraviețuiești în situații potențial amenințătoare pentru viață.",
+      "intro": "Anxietatea poate apărea la mulți oameni fără avertisment și în orice etapă a vieții și este adesea prezentă alături de alte tulburări precum depresia sau tulburarea de stres post-traumatic. Este o tulburare de sănătate mintală frecvent diagnosticată și tratată, dar în esență, anxietatea este modul instinctiv al corpului de a se proteja de pericol.",
       "symptoms": {
-        "title": "Simptome Principale",
+        "title": "Care sunt cele 5 simptome ale anxietății?",
         "items": [
-          "Îngrijorare intensă legată de situații cotidiene",
-          "Pierderea controlului asupra gândurilor și sentimentelor",
-          "Detașare de corp sau de împrejurimi",
-          "Catastrofizare și așteptarea celui mai rău",
-          "Tensiune fizică și agitație"
+          "Sentimente intense de îngrijorare, suferință, nervozitate sau panică",
+          "Sentimentul că aceste emoții sunt în afara controlului tău",
+          "Sentimentul de detașare fata de propriul corp",
+          "Catastrofizare (adică a lua lucrurile în mod disproporționat și a experimenta gânduri precum \"totul va merge prost\" sau \"s-ar putea să mor\")",
+          "Senzație de tensiune, nervozitate, frică, agitație sau greață"
         ]
       },
       "types": {
@@ -717,9 +717,9 @@
       "whenToSeekHelp": "Este important să cauți ajutor profesional atunci când îngrijorările și anxietatea te copleșesc și afectează negativ viața ta de zi cu zi. Recunoașterea simptomelor și învățarea mecanismelor eficiente de coping sunt pași esențiali către recuperare."
     },
     "depression": {
-      "title": "Depresie",
+      "title": "DEPRESIE",
       "subtitle": "Înțelegerea Depresiei",
-      "intro": "Depresia este mai mult decât tristețe. Este o stare persistentă de abătere, sentimente de lipsă de valoare, amorțeală și vinovăție care afectează modul în care gândești, simți și gestionezi activitățile zilnice.",
+      "intro": "Este complet normal ca starea noastră de spirit să se schimbe și să se schimbe pe măsură ce răspundem și ne adaptăm la numeroasele provocări ale vieții. Sentimentul de tristețe, dispoziție sau deprimare este comun, dar unii dintre noi nu sunt capabili să ne regleze starea de spirit sau se pot simți intens triști sau deprimați pentru o perioadă lungă de timp. Acest lucru poate afecta grav modul în care ne descurcăm și ne trăim viața de zi cu zi.",
       "symptoms": {
         "title": "Simptome Principale",
         "items": [
@@ -732,26 +732,26 @@
         ]
       },
       "types": {
-        "title": "Tipuri de Depresie",
-        "major": {
-          "name": "Depresie Majoră",
-          "description": "Simptome severe care interferează cu funcționarea zilnică."
+        "title": "Tipuri de tulburări de dispoziție",
+        "depresie_major": {
+          "name": "Depresie majoră",
+          "description": "Depresia majoră este uneori numită tulburare depresivă majoră, depresie clinică, depresie unipolară sau pur și simplu \"depresie\""
         },
-        "dysthymic": {
-          "name": "Tulburare Distimică",
-          "description": "Depresie cronică, mai puțin severă, care durează doi ani sau mai mult."
+        "tulburare_distimic": {
+          "name": "Tulburare distimică",
+          "description": "Simptomele distimiei sunt similare cu cele ale depresiei majore, dar sunt mai puțin severe"
         },
-        "bipolar": {
-          "name": "Tulburare Bipolară",
-          "description": "Cicluri de depresie alternând cu perioade de dispoziție elevată."
+        "tulburare_bipolar": {
+          "name": "Tulburare bipolară",
+          "description": "Acest lucru a fost cunoscut sub numele de \"depresie maniacală\", deoarece persoana experimentează perioade de depresie și perioade de manie, cu perioade de dispoziție normală între ele"
         },
-        "perinatal": {
-          "name": "Depresie Perinatală/Postnatală",
-          "description": "Depresie care apare în timpul sarcinii sau după naștere."
+        "depresia_perinatal_i_postnat": {
+          "name": "Depresia perinatală și postnatală",
+          "description": "Femeile prezintă un risc crescut de depresie în timpul sarcinii (cunoscută sub numele de perioadă prenatală sau prenatală) și în anul de după naștere (cunoscută sub numele de perioadă postnatală)"
         },
-        "sad": {
-          "name": "Tulburare Afectivă Sezonieră (SAD)",
-          "description": "Depresie legată de schimbările sezoniere, de obicei iarna."
+        "tulburare_afectiv_sezonier_s": {
+          "name": "Tulburare afectivă sezonieră (SAD)",
+          "description": "SAD este o tulburare de dispoziție care are un model sezonier"
         }
       },
       "statistics": "Aproape 10% dintre femei experimentează depresie în timpul sarcinii; aceasta crește la 16% în primele 3 luni după naștere. Tulburarea bipolară afectează aproximativ 2% din populație.",
@@ -799,34 +799,34 @@
       }
     },
     "trauma": {
-      "title": "Traumă",
+      "title": "TRAUMĂ",
       "subtitle": "Înțelegerea și Vindecarea Traumei",
-      "intro": "Trauma este o rană psihologică rezultată din evenimente înfricoșătoare sau tulburătoare. Poate afecta modul în care gândești, simți și te relaționezi cu ceilalți mult timp după ce evenimentul a trecut.",
+      "intro": "Evenimentele înfricoșătoare sau tulburătoare sunt dureroase pentru oricine și pot duce la o rană psihologică, cunoscută sub numele de traumă, care poate fi deosebit de exagerată sau declanșatoare dacă te confrunți deja cu o boală mintală existentă.",
       "symptoms": {
-        "title": "Semne Emoționale",
+        "title": "Care sunt semnele traumei?",
         "items": [
-          "Frică și hipervigilență",
-          "Durere și tristețe",
-          "Vinovăție și rușine",
-          "Furie și iritabilitate",
-          "Anxietate și panică",
+          "Frică",
+          "Doliu",
+          "Vinovăție sau rușine",
+          "Furie",
+          "Anxietate",
           "Amorțeală emoțională",
-          "Dificultăți de somn și coșmaruri"
+          "Dificultăți de somn"
         ]
       },
       "types": {
-        "title": "Tipuri de Traumă",
-        "acute": {
-          "name": "Traumă Acută",
-          "description": "Rezultă dintr-un singur eveniment cu efecte temporare."
+        "title": "Care sunt cele 3 tipuri de traume?",
+        "type1": {
+          "name": "Traumă acută",
+          "description": "Acesta este cel mai frecvent tip de traumă și este de obicei cauzată de un singur eveniment izolat, cum ar fi un accident de mașină sau un dezastru natural. Efectele traumei acute pot fi temporare și majoritatea oamenilor se vor recupera în câteva zile sau săptămâni."
         },
-        "chronic": {
-          "name": "Traumă Cronică",
-          "description": "Rezultă din expunerea repetată la evenimente stresante."
+        "type2": {
+          "name": "Traumă cronică",
+          "description": "Acesta este rezultatul expunerii repetate sau prelungite la evenimente traumatice, cum ar fi abuzul asupra copiilor sau violența domestică. Efectele traumei cronice pot fi de lungă durată și severe și pot include probleme fizice, emoționale și psihologice."
         },
-        "complex": {
-          "name": "Traumă Complexă",
-          "description": "Rezultă din multiple evenimente traumatice, adesea interpersonale."
+        "type3": {
+          "name": "Traumă complexă",
+          "description": "Aceasta este o combinație de traume acute și cronice și este adesea rezultatul expunerii prelungite la mai multe evenimente traumatice, cum ar fi creșterea într-o țară sfâșiată de război sau experimentarea mai multor forme de abuz. Efectele traumei complexe pot fi severe și de lungă durată și pot include probleme fizice, emoționale și psihologice."
         }
       },
       "ptsdNote": "Trauma se poate dezvolta în PTSD (Tulburare de Stres Post-Traumatic) când simptomele persistă și afectează semnificativ viața de zi cu zi.",
@@ -885,40 +885,39 @@
       }
     },
     "addiction": {
-      "title": "Dependență",
+      "title": "DEPENDENȚĂ",
       "subtitle": "Înțelegerea și Depășirea Dependenței",
-      "intro": "Dependența este definită ca o boală cronică a creierului caracterizată printr-o nevoie compulsivă de a se angaja într-un comportament sau de a folosi o substanță, în ciuda cât de rău poate fi pentru noi. Acest impuls irezistibil este un aspect fundamental al oricărei dependențe – incapacitatea de a ne opri chiar dacă suntem conștienți de consecințele negative și chiar alegem să nu continuăm.",
+      "intro": "Dependența poate avea un impact semnificativ asupra sănătății mintale. Poate duce la dezvoltarea unor afecțiuni de sănătate mintală, cum ar fi depresia, anxietatea și PTSD sau poate agrava afecțiunile de sănătate mintală existente, îngreunându-ne accesul la ajutor și sprijin adecvat.",
       "symptoms": {
-        "title": "Semne Principale",
+        "title": "Care sunt tipurile de dependență?",
         "items": [
-          "Incapacitatea de a opri sau controla consumul în ciuda dorinței",
-          "Neglijarea responsabilităților și relațiilor",
-          "Simptome de sevraj când nu se consumă",
-          "Toleranță crescută necesitând mai mult pentru același efect",
-          "Continuarea consumului în ciuda consecințelor negative",
-          "Petrecerea timpului semnificativ obținând, folosind sau recuperându-se"
+          "Dependența de substanțe: înseamnă consumul de droguri ilegale sau utilizarea de droguri sau alcool pe bază de rețetă sau nenumărate în alte scopuri decât cele pentru care sunt menite să fie folosite, de cele mai multe ori în cantități excesive. Abuzul de substanțe poate duce la probleme emoționale, sociale, fizice și legate de locul de muncă. Dependența de droguri și alcool este cel mai cunoscut tip de dependență. Alte dependențe pot fi: marijuana, medicamente prescripție (pastile pentru durere), stimulente, pastile pentru anxietate, metamfetamină, cocaină, opiacee, halucinogene, inhalanți.",
+          "Dependența comportamentală: Conform științei, dependența este descrisă ca o dorință intensă de a repeta o acțiune care este plăcută sau percepută ca îmbunătățind bunăstarea sau capabilă să atenueze o suferință personală. Aceasta include dependența de activități precum jocurile de noroc, sexul, pornografia, producția de plastic, jocurile, mâncarea, exercițiile fizice și cumpărăturile.",
+          "Dependența de proces: Este o dependență comportamentală caracterizată prin preocuparea unui individ pentru o anumită activitate, adesea compulsivă, care are ca rezultat cilențe negative. Dependența de lucruri precum mâncarea, internetul, mesajele text, navigarea pe internet, supraalimentarea și jocurile video.",
+          "Dependența relațională: Dependența de relații care arată adesea ca o codependență. O persoană \"iubește\" o altă persoană într-o intensitate obsesivă care nu este în interesul niciuneia dintre părți.",
+          "Dependența de traume: Dependența de senzațiile emoționale și fizice asociate cu experiențele traumatice."
         ]
       },
       "types": {
-        "title": "Tipuri de Dependență",
-        "substance": {
-          "name": "Dependența de Substanțe",
-          "description": "Dependența de alcool, droguri, nicotină sau medicamente prescrise care dezvoltă toleranță fizică și simptome de sevraj."
+        "title": "Care sunt tipurile de dependență?",
+        "type1": {
+          "name": "Dependența de substanțe",
+          "description": "înseamnă consumul de droguri ilegale sau utilizarea de droguri sau alcool pe bază de rețetă sau nenumărate în alte scopuri decât cele pentru care sunt menite să fie folosite, de cele mai multe ori în cantități excesive. Abuzul de substanțe poate duce la probleme emoționale, sociale, fizice și legate de locul de muncă. Dependența de droguri și alcool este cel mai cunoscut tip de dependență. Alte dependențe pot fi: marijuana, medicamente prescripție (pastile pentru durere), stimulente, pastile pentru anxietate, metamfetamină, cocaină, opiacee, halucinogene, inhalanți."
         },
-        "behavioral": {
-          "name": "Dependența Comportamentală",
-          "description": "Angajare compulsivă în activități precum jocurile de noroc, gaming, cumpărături sau mâncat care persistă în ciuda consecințelor negative."
+        "type2": {
+          "name": "Dependența comportamentală",
+          "description": "Conform științei, dependența este descrisă ca o dorință intensă de a repeta o acțiune care este plăcută sau percepută ca îmbunătățind bunăstarea sau capabilă să atenueze o suferință personală. Aceasta include dependența de activități precum jocurile de noroc, sexul, pornografia, producția de plastic, jocurile, mâncarea, exercițiile fizice și cumpărăturile."
         },
-        "process": {
-          "name": "Dependența de Proces",
-          "description": "Dependența de activități precum munca, exercițiile fizice sau utilizarea internetului care devin obsesive."
+        "type3": {
+          "name": "Dependența de proces",
+          "description": "Este o dependență comportamentală caracterizată prin preocuparea unui individ pentru o anumită activitate, adesea compulsivă, care are ca rezultat cilențe negative. Dependența de lucruri precum mâncarea, internetul, mesajele text, navigarea pe internet, supraalimentarea și jocurile video."
         },
-        "relational": {
-          "name": "Dependența Relațională",
-          "description": "Dependența de relații care adesea arată ca și codependența. Persoanele afectate își leagă valoarea de sine de a fi într-o relație sau de a însemna ceva pentru cineva."
+        "type4": {
+          "name": "Dependența relațională",
+          "description": "Dependența de relații care arată adesea ca o codependență. O persoană \"iubește\" o altă persoană într-o intensitate obsesivă care nu este în interesul niciuneia dintre părți."
         },
-        "trauma": {
-          "name": "Dependența de Traumă",
+        "type5": {
+          "name": "Dependența de traume",
           "description": "Dependența de senzațiile emoționale și fizice asociate cu experiențele traumatice."
         }
       },
@@ -952,7 +951,7 @@
     "adhd": {
       "title": "ADHD",
       "subtitle": "Înțelegerea ADHD",
-      "intro": "Tulburarea de Deficit de Atenție și Hiperactivitate (ADHD) este o afecțiune de neurodezvoltare care afectează atât copiii, cât și adulții. Impactează atenția, controlul impulsurilor și nivelurile de activitate, făcând sarcinile zilnice mai provocatoare.",
+      "intro": "Ce este ADHD?",
       "symptoms": {
         "title": "Simptome Principale",
         "items": [
@@ -990,12 +989,13 @@
           "Coaching pentru dezvoltarea abilităților executive",
           "Suport pentru gestionarea impulsivității"
         ]
-      }
+      },
+      "detailedDescription": "Este una dintre cele mai frecvente turburari de neurodezvoltare din copilarie. De obicei este diagnosticat prima data in copilarie si dureaza pana la varsta adulta."
     },
     "attachment": {
-      "title": "Tulburare de Atașament",
+      "title": "TULBURARE DE ATAȘAMENT",
       "subtitle": "Înțelegerea Problemelor de Atașament",
-      "intro": "Tulburările de atașament se dezvoltă când legăturile timpurii cu îngrijitorii sunt întrerupte sau absente. Aceste pattern-uri pot afecta relațiile, reglarea emoțională și valoarea de sine pe tot parcursul vieții.",
+      "intro": "Problemele de atașament pot fi destul de frecvente pentru adulți și, deși nu există un diagnostic formal, se crede adesea că provin din probleme de atașament netratate din copilărie. Dacă nu lucrezi pentru a rezolva problemele de atașament, s-ar putea să treci prin viață luptându-te să ai încredere în ceilalți și să te simți în siguranță într-o relație intimă.",
       "symptoms": {
         "title": "Semne Principale",
         "items": [
@@ -1031,20 +1031,20 @@
       "attachmentStyles": {
         "title": "Stilurile de Atașament Detaliate",
         "secure": {
-          "name": "Atașament Sigur (Sănătos)",
-          "description": "Capacitatea de a forma relații stabile, bazate pe încredere și intimitate emoțională."
+          "name": "Atașament securizat",
+          "description": "Te simți confortabil să-ți exprimi emoțiile în mod deschis? Te simți confortabil în funcție de partenerul tău? Și să-ți lași partenerul să depindă de tine? Atunci este probabil să aveți un stil de atașament sigur"
         },
         "anxious": {
-          "name": "Atașament Anxios/Preocupat",
-          "description": "Caracterizat prin hipervigilență în relații, gelozie extremă și teamă constantă de abandon. Persoanele cu acest stil caută constant reasigurare de la parteneri."
+          "name": "Anxietatea de atașament",
+          "description": "Prețuiești foarte mult relațiile tale, dar îți faci adesea griji dacă persoana iubită este la fel de implicată în relație ca tine? S-ar putea să suferiți de anxietate de atașament"
         },
         "avoidant": {
-          "name": "Atașament Evitant/Distant",
-          "description": "Evitarea intimității emoționale, preferința pentru independență și dificultatea de a se baza pe alții. Poate părea detașat sau dezinteresat emoțional."
+          "name": "Atașament evitant sau disprețuitor",
+          "description": "Ai tendința de a-ți ascunde sau suprima sentimentele atunci când te confrunți cu o situație plină de emoții? Dacă simți că ești puternic emoțional, independent și autosuficient și te vezi adesea ca un \"lup singuratic\", este posibil să ai un stil de atașament evitant"
         },
         "disorganized": {
-          "name": "Atașament Dezorganizat/Fricos-Evitant",
-          "description": "Comportamente contradictorii - dorința de apropiere coexistă cu teama de intimitate. Adesea rezultat din experiențe traumatice cu îngrijitorii."
+          "name": "Atașament dezorganizat sau înfricoșător",
+          "description": "Dacă arăți comportamente instabile sau ambigue din punct de vedere social, nu cauți intimitate sau apropiere și îți este greu să ai încredere și să depinzi de ceilalți, este posibil să ai un stil de atașament înfricoșător"
         }
       },
       "longTermEffects": {
@@ -1072,9 +1072,9 @@
       }
     },
     "eatingDisorders": {
-      "title": "Tulburări de Alimentație",
+      "title": "TULBURĂRI DE ALIMENTAȚIE",
       "subtitle": "Înțelegerea Tulburărilor de Alimentație",
-      "intro": "Tulburările de alimentație sunt afecțiuni grave de sănătate mintală caracterizate prin perturbări persistente ale comportamentelor alimentare și gândurilor și emoțiilor asociate. Pot afecta sănătatea fizică și calitatea vieții.",
+      "intro": "Tulburările de alimentație afectează mulți oameni din lume. Conform statisticilor, această problemă semnificativă de sănătate globală arată că cel puțin 9% din populație va experimenta o tulburare de alimentație la un moment dat în viața lor. Este foarte important să înțelegem și să abordăm tulburările de alimentație. Sunt afecțiuni complexe de sănătate mintală care necesită intervenții profesionale.",
       "symptoms": {
         "title": "Semne de Avertizare",
         "items": [
@@ -1087,22 +1087,18 @@
         ]
       },
       "types": {
-        "title": "Tipuri de Tulburări de Alimentație",
-        "anorexia": {
-          "name": "Anorexia Nervoasă",
-          "description": "Restricție alimentară severă, teamă intensă de creșterea în greutate și imagine corporală distorsionată."
+        "title": "Care sunt trei tipuri comune de tulburări de alimentație?",
+        "anorexie_nervoas": {
+          "name": "Anorexie nervoasă",
+          "description": "Acest lucru implică restricția extremă a consumului de alimente, ceea ce duce la o greutate corporală periculos de mică"
         },
-        "bulimia": {
-          "name": "Bulimia Nervoasă",
-          "description": "Cicluri de alimentație excesivă urmate de comportamente compensatorii."
+        "bulimia_nervoas": {
+          "name": "Bulimia nervoasă",
+          "description": "Opusul anorexiei, bulimia implică de obicei un ciclu de mâncat compulsiv urmat de compensarea purjării, a postului sau a exercițiilor fizice excesive"
         },
-        "binge": {
-          "name": "Tulburare de Alimentație Excesivă",
-          "description": "Episoade recurente de consum al unor cantități mari fără comportamente compensatorii."
-        },
-        "arfid": {
-          "name": "ARFID",
-          "description": "Tulburare Evitantă/Restrictivă a Aportului Alimentar - alimentație limitată nelegată de imaginea corporală."
+        "m_ncat_compulsiv": {
+          "name": "Mâncat compulsiv",
+          "description": "Aceasta implică episoade recurente de consum de cantități mari de alimente într-o perioadă scurtă de timp, urmate de sentimente de rușine, vinovăție și suferință"
         }
       },
       "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
@@ -1134,19 +1130,19 @@
       }
     },
     "grief": {
-      "title": "Doliu și Pierdere",
+      "title": "DURERE & PIERDERE",
       "subtitle": "Înțelegerea Doliului",
-      "intro": "Doliul este un răspuns natural la pierdere. Ne poate afecta emoțional, fizic și spiritual. Deși doliul este universal, experiența fiecărei persoane este unică și merită suport compasiv.",
+      "intro": "Pierderea și durerea sunt experiențe universale și o emoție foarte complexă care ne afectează pe toți la un moment dat în viața noastră. Fie că este vorba de pierderea unei persoane dragi, a unui loc de muncă sau chiar a unei posesiuni prețioase, emoțiile care vin odată cu aceste pierderi pot fi copleșitoare și dificil de navigat.",
       "symptoms": {
-        "title": "Experiențe Comune",
+        "title": "Care sunt cele 7 etape ale durerii după o moarte?",
         "items": [
-          "Tristețe intensă și dor",
-          "Șoc, neîncredere sau negare",
-          "Furie sau iritabilitate",
-          "Vinovăție sau regret",
-          "Anxietate despre viitor",
-          "Simptome fizice precum oboseala sau schimbări de apetit",
-          "Dificultate în concentrare sau luarea deciziilor"
+          "Șoc și negare",
+          "Durere și vinovăție",
+          "Furie și negociere",
+          "Depresie",
+          "Întoarcerea ascendentă",
+          "Reconstrucție și lucru",
+          "Acceptare și speranță"
         ]
       },
       "types": {
@@ -1239,38 +1235,35 @@
       }
     },
     "relationships": {
-      "title": "Relații",
+      "title": "RELAŢII",
       "subtitle": "Înțelegerea Provocărilor Relaționale",
-      "intro": "Relațiile sănătoase sunt fundamentale pentru bunăstarea noastră. Când relațiile se luptă, afectează fiecare aspect al vieții noastre. Înțelegerea dinamicilor relaționale poate ajuta la construirea unor conexiuni mai puternice și mai împlinitoare.",
+      "intro": "Relațiile sunt baza vieții noastre. Ne ajută să ne simțim în siguranță și provocați și ne ajută să învățăm și să creștem.",
       "symptoms": {
-        "title": "Provocări Comune",
+        "title": "Care sunt cele 4 tipuri principale de relații?",
         "items": [
-          "Dificultăți de comunicare",
-          "Probleme de încredere și gelozie",
-          "Conflicte sau certuri frecvente",
-          "Sentimentul de deconectare sau singurătate",
-          "Dificultate cu intimitatea",
-          "Pattern-uri de codependență",
-          "Probleme de limite"
+          "Relații romantice: Relațiile romantice sunt probabil cel mai cunoscut tip de relație. Ele implică o conexiune emoțională și fizică profundă între două persoane și includ adesea un angajament puternic unul față de celălalt. Relațiile romantice pot lua mai multe forme, inclusiv întâlniri, logodnă și căsătorie. Ele pot fi pe termen lung sau scurt și sunt de obicei caracterizate de dragoste, încredere și sprijin reciproc.",
+          "Relații platonice: Acestea sunt relații non-romantice între prieteni. Ele sunt construite pe încredere, respect reciproc și interese comune. Relațiile platonice pot fi apropiate și intime, dar nu implică o conexiune romantică sau sexuală. Exemple de relații platonice includ prietenii între colegi, colegi de clasă sau vecini.",
+          "Relații de familie: Aceste relații sunt adesea caracterizate de un puternic sentiment de loialitate, dragoste și responsabilitate. Relațiile de familie pot fi complexe, cu multe dinamici diferite în joc. Acestea pot include relații între părinți și copii, frați, bunici și alte rude.",
+          "Relații profesionale: Acestea există între persoane care lucrează împreună și sunt adesea caracterizate de un scop sau scop comun și pot include relații între colegi, supervizori și subordonați. Ele pot fi formale sau informale și se pot baza pe încredere, respect și sprijin reciproc."
         ]
       },
       "types": {
-        "title": "Domenii pe Care le Abordăm",
-        "couples": {
-          "name": "Consiliere de Cuplu",
-          "description": "Îmbunătățirea comunicării, rezolvarea conflictelor și reconstruirea conexiunii."
+        "title": "Care sunt cele 4 tipuri principale de relații?",
+        "type1": {
+          "name": "Relații romantice",
+          "description": "Relațiile romantice sunt probabil cel mai cunoscut tip de relație. Ele implică o conexiune emoțională și fizică profundă între două persoane și includ adesea un angajament puternic unul față de celălalt. Relațiile romantice pot lua mai multe forme, inclusiv întâlniri, logodnă și căsătorie. Ele pot fi pe termen lung sau scurt și sunt de obicei caracterizate de dragoste, încredere și sprijin reciproc."
         },
-        "family": {
-          "name": "Dinamica Familială",
-          "description": "Abordarea pattern-urilor, rolurilor și comunicării în cadrul familiilor."
+        "type2": {
+          "name": "Relații platonice",
+          "description": "Acestea sunt relații non-romantice între prieteni. Ele sunt construite pe încredere, respect reciproc și interese comune. Relațiile platonice pot fi apropiate și intime, dar nu implică o conexiune romantică sau sexuală. Exemple de relații platonice includ prietenii între colegi, colegi de clasă sau vecini."
         },
-        "interpersonal": {
-          "name": "Abilități Interpersonale",
-          "description": "Construirea unor relații mai sănătoase în toate domeniile vieții."
+        "type3": {
+          "name": "Relații de familie",
+          "description": "Aceste relații sunt adesea caracterizate de un puternic sentiment de loialitate, dragoste și responsabilitate. Relațiile de familie pot fi complexe, cu multe dinamici diferite în joc. Acestea pot include relații între părinți și copii, frați, bunici și alte rude."
         },
-        "boundaries": {
-          "name": "Stabilirea Limitelor",
-          "description": "Învățarea de a stabili și menține limite sănătoase."
+        "type4": {
+          "name": "Relații profesionale",
+          "description": "Acestea există între persoane care lucrează împreună și sunt adesea caracterizate de un scop sau scop comun și pot include relații între colegi, supervizori și subordonați. Ele pot fi formale sau informale și se pot baza pe încredere, respect și sprijin reciproc."
         }
       },
       "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
@@ -1311,17 +1304,17 @@
     "stress": {
       "title": "Stres",
       "subtitle": "Înțelegerea și Gestionarea Stresului",
-      "intro": "Stresul este răspunsul corpului tău la cerințe și presiuni. Deși un anumit nivel de stres poate fi motivant, stresul cronic poate avea un impact semnificativ asupra sănătății tale fizice și mintale. Învățarea gestionării stresului este esențială pentru bunăstare.",
+      "intro": "Stresul este o problemă comună care afectează mulți oameni. Este un răspuns natural la situații dificile, dar atunci când devine cronic, poate avea un impact negativ atât asupra sănătății fizice, cât și asupra sănătății mentale.",
       "symptoms": {
-        "title": "Semne ale Stresului Cronic",
+        "title": "Care sunt cele 7 simptome ale stresului?",
         "items": [
-          "Sentimente persistente de copleșire",
-          "Dificultate în relaxare sau somn",
-          "Iritabilitate și schimbări de dispoziție",
-          "Tensiune fizică și dureri de cap",
-          "Dificultate în concentrare",
-          "Modificări ale apetitului",
-          "Retragere din activități sau de la oameni"
+          "Explozii de furie, iritabilitate sau tristețe",
+          "Oboseală",
+          "Sentimentul de neajutorare sau de speranță",
+          "Neinteresat de viață",
+          "O pierdere a simțului umorului",
+          "Gânduri rapide",
+          "Luptă-te să te distrezi"
         ]
       },
       "types": {
@@ -1388,20 +1381,23 @@
       }
     },
     "perinatal": {
-      "title": "Tulburări de Dispoziție Perinatale",
+      "title": "TULBURĂRI DE DISPOZIȚIE PERINATALE",
       "subtitle": "Înțelegerea Sănătății Mintale Perinatale",
-      "intro": "Tulburările de dispoziție perinatale afectează părinții în timpul sarcinii și în perioada postpartum. Aproape 10% dintre femei experimentează depresie în timpul sarcinii, crescând la 16% în primele 3 luni după naștere. Aceste afecțiuni sunt tratabile cu suport adecvat.",
+      "intro": "Deși fiecare experiență este diferită, a avea un copil este un eveniment semnificativ de viață. La fel ca schimbările fizice prin care trecem în timpul sarcinii, pot exista multe schimbări emoționale care vin cu fiecare trimestru. Deși este un moment de bucurie, entuziasm și multe premiere, poate veni și cu un grad de anxietate sau \"suișuri și coborâșuri\" în starea de spirit. Deși este normal să experimentezi aceste emoții atunci când aștepți un copil, unii dintre noi dezvoltă niveluri mai intense de anxietate sau stări de spirit scăzute care ne pot afecta viața de zi cu zi. Când acest lucru se întâmplă în timpul sarcinii, este cunoscut sub numele de anxietate prenatală sau depresie prenatală.",
       "symptoms": {
-        "title": "Semne de Avertizare",
+        "title": "Semne de depresie perinatală",
         "items": [
-          "Tristețe sau goliciune persistentă",
-          "Schimbări severe de dispoziție",
-          "Dificultate în crearea legăturii cu bebelușul",
-          "Retragere de la familie și prieteni",
-          "Modificări ale apetitului și somnului",
-          "Oboseală copleșitoare",
-          "Anxietate intensă sau atacuri de panică",
-          "Gânduri de a-ți face rău ție sau bebelușului"
+          "Îngrijorare persistentă cu privire la sănătatea sau bunăstarea bebelușului tău",
+          "Simțindu-te în mod constant deprimat, fără speranță sau gol",
+          "Schimbări bruște de dispoziție",
+          "Tristețe sau plâns comun (fără motiv evident)",
+          "Nervozitate sau panică constantă",
+          "Gânduri intruzive și comportamente compulsive (de exemplu, gânduri nedorite legate de rănirea copilului)",
+          "Dificultăți de respirație",
+          "Consum redus de energie",
+          "Somn prost",
+          "Sentimentul de \"detașare\" de mediul înconjurător",
+          "Gânduri sau comportamente suicidare"
         ]
       },
       "types": {
@@ -1463,18 +1459,25 @@
       }
     },
     "sexualDysfunction": {
-      "title": "Disfuncții Sexuale",
+      "title": "DISFUNCȚII SEXUALE",
       "subtitle": "Înțelegerea Sănătății Sexuale",
-      "intro": "Disfuncțiile sexuale pot afecta oricine și implică dificultăți cu dorința, excitația, orgasmul sau durerea în timpul activității sexuale. Aceste provocări au adesea componente psihologice și pot fi abordate cu suport profesional.",
+      "intro": "Disfuncția sexuală se referă la afecțiuni care afectează dorința sexuală, excitarea, orgasmul și durerea în timpul actului sexual. Este o problemă care poate apărea în orice fază a ciclului sexual și împiedică satisfacția activității sexuale. Ciclul de răspuns sexual include în mod tradițional excitare, platou, orgasm și rezoluție. Disfuncția sexuală este comună, motiv pentru care persoanele de toate sexele, genurile, orientările și stările relaționale pot beneficia de terapia psihosexuală.",
       "symptoms": {
-        "title": "Preocupări Comune",
+        "title": "Care sunt alte exemple de disfuncție sexuală?",
         "items": [
-          "Dorință sau interes sexual scăzut",
-          "Dificultate cu excitația",
-          "Dificultate în atingerea orgasmului",
-          "Durere în timpul activității sexuale",
-          "Anxietate de performanță",
-          "Tensiune în relație datorată problemelor sexuale"
+          "Libidouri nepotrivite și discrepanțe de dorință",
+          "Sex dureros",
+          "Vaginism",
+          "Dificultăți în atingerea orgasmului",
+          "Ejaculare întârziată",
+          "Dependența de pornografie",
+          "Anxietate înainte sau în timpul sexului",
+          "Starea de spirit scăzută care contribuie la scăderea dorinței sexuale",
+          "Preocupări legate de imaginea corporală",
+          "Adaptarea la sex după sarcină și naștere",
+          "Adaptarea la boală și dizabilitate",
+          "Adaptarea la infecțiile cu transmitere sexuală",
+          "Recuperarea după traume legate de sex"
         ]
       },
       "types": {
@@ -1537,9 +1540,9 @@
       }
     },
     "mensMentalHealth": {
-      "title": "Sănătatea Mintală a Bărbaților",
+      "title": "SĂNĂTATEA MINTALĂ A BĂRBAȚILOR",
       "subtitle": "Susținerea Bunăstării Bărbaților",
-      "intro": "Bărbații se confruntă adesea cu provocări unice în abordarea sănătății mintale din cauza așteptărilor societale și stigmatului. Crearea unui spațiu unde bărbații pot discuta deschis despre luptele lor este esențială pentru vindecare și creștere.",
+      "intro": "Nu se poate nega că instabilitatea mentală la bărbați este, de asemenea, comună.  Bărbații pot dezvolta majoritatea acelorași tulburări și afecțiuni mentale ca și femeile, dar pot experimenta simptome diferite. În epidemia tăcută din societate, care afectează familiile, profesorii, membrii comunității și prietenii, din păcate, rata depresiei masculine a crescut dramatic.",
       "symptoms": {
         "title": "Provocări Comune",
         "items": [

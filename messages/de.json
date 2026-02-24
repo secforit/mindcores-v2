@@ -306,8 +306,8 @@
       "family": {
         "name": "Familientherapie",
         "description": "Behandlung von Familiendynamiken, Verbesserung der Kommunikation und Stärkung der Beziehungen innerhalb des Familiensystems.",
-        "fullTitle": "Familientherapie",
-        "intro": "Ein psychotherapeutisches Verfahren, das die Familie als soziales System in den Mittelpunkt der psychologischen Intervention stellt. Es initiiert Veränderungen innerhalb des Familiensystems und unterstützt die Familie bei der Auflösung von Schwierigkeiten, dem Finden neuer Perspektiven und der Entwicklung zufriedenstellenderer Formen des Zusammenlebens.",
+        "fullTitle": "Familientherapie für Paare und Familien",
+        "intro": "Ein psychotherapeutische Verfahren was die Familie als soziales System im Zentrum der psychologischen Intervention sieht. Dabei werden Veränderungen des Systems „Familie“ angestoßen und unterstützt die Familie dabei, Schwierigkeiten aufzulösen, neue Perspektiven zu finden und befriedigendere Formen des Zusammenlebens zu entwickeln.",
         "approach": "Familientherapie ist lösungsorientiert und versucht, zügig Verbesserungen zu erreichen. Ein wichtiges Prinzip ist 'Hilfe zur Selbsthilfe': Die Therapie fördert die Eigeninitiative der Klienten bei der Lösung ihrer Probleme. Durchschnittlich sind zwischen 5 und 20 Sitzungen ausreichend.",
         "benefits": {
           "title": "Familientherapie kann helfen bei",
@@ -328,13 +328,14 @@
           "title": "Über die Sitzungen",
           "description": "Familientherapie ist lösungsorientiert und strebt schnelle Verbesserungen an. Ein Schlüsselprinzip ist 'den Klienten helfen, sich selbst zu helfen.' Im Durchschnitt reichen zwischen 5 und 20 Sitzungen aus."
         },
-        "uniqueAdvantage": "Ein großer Vorteil ist, dass typische Verhaltensmuster, Etikettierungen und ungeschriebene Familienregeln direkt während der Therapiesitzungen beobachtet werden können. Die gezielten Fragen des Therapeuten ermöglichen neue Perspektiven und Einsichten."
+        "uniqueAdvantage": "Ein großer Vorteil ist, dass typische Verhaltensmuster, Etikettierungen und ungeschriebene Familienregeln direkt während der Therapiesitzungen beobachtet werden können. Die gezielten Fragen des Therapeuten ermöglichen neue Perspektiven und Einsichten.",
+        "detailedDescription": "Die familien Therapie ist lösungsorientiert und versucht, zügig Verbesserungen zu erreichen. Ein wichtiges Prinzip ist dabei die „Hilfe zur Selbsthilfe“: Die Therapie soll die Eigeninitiative der Klienten bei der Lösung ihrer Probleme fördern. Deshalb reicht oft eine relativ kurze Therapiedauer aus – im Durchschnitt zwischen 5 und 20 Sitzungen. Sie finden oft in relativ großen Abständen statt, da die wichtigste Therapiearbeit wird zwischen den Sitzungen geleistet: die Erkenntnisse aus der Therapie werden im Alltag ausprobiert und mögliche Hausaufgaben erledigt."
       },
       "couples": {
         "name": "Paarberatung",
         "description": "Aufbau stärkerer Verbindungen, Konfliktlösung und Entwicklung gesunder Kommunikationsmuster mit Ihrem Partner.",
-        "fullTitle": "Paarberatung",
-        "intro": "Paarberatung bietet einen sicheren Raum für Partner, um Beziehungsherausforderungen anzusprechen, die Kommunikation zu verbessern und ihre Bindung zu stärken. Mit evidenzbasierten Techniken helfen wir Paaren, Konflikte zu navigieren und gesündere, erfüllendere Beziehungen aufzubauen.",
+        "fullTitle": "Familientherapie für Paare und Familien",
+        "intro": "Ein psychotherapeutische Verfahren was die Familie als soziales System im Zentrum der psychologischen Intervention sieht. Dabei werden Veränderungen des Systems „Familie“ angestoßen und unterstützt die Familie dabei, Schwierigkeiten aufzulösen, neue Perspektiven zu finden und befriedigendere Formen des Zusammenlebens zu entwickeln.",
         "benefits": {
           "title": "Paarberatung kann helfen bei",
           "items": [
@@ -349,7 +350,8 @@
           ]
         },
         "approach": "Unser Ansatz vermeidet es, einen Partner zu beschuldigen - Probleme werden durch gegenseitige Einflüsse zwischen Partnern erklärt. Durch gezielte Fragen und Interventionen helfen wir Paaren, neue Perspektiven zu gewinnen.",
-        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
+        "detailedDescription": "Die familien Therapie ist lösungsorientiert und versucht, zügig Verbesserungen zu erreichen. Ein wichtiges Prinzip ist dabei die „Hilfe zur Selbsthilfe“: Die Therapie soll die Eigeninitiative der Klienten bei der Lösung ihrer Probleme fördern. Deshalb reicht oft eine relativ kurze Therapiedauer aus – im Durchschnitt zwischen 5 und 20 Sitzungen. Sie finden oft in relativ großen Abständen statt, da die wichtigste Therapiearbeit wird zwischen den Sitzungen geleistet: die Erkenntnisse aus der Therapie werden im Alltag ausprobiert und mögliche Hausaufgaben erledigt."
       },
       "positivePsychotherapy": {
         "name": "Positive und Transkulturelle Psychotherapie",
@@ -521,7 +523,7 @@
         "name": "Systemische Beratung",
         "description": "Erforschung, wie Beziehungen und Systeme emotionale Erfahrung und Verhalten beeinflussen.",
         "fullTitle": "Systemische Beratung",
-        "intro": "Systemische Berater nutzen Gespräche, um herauszufinden, wie die verschiedenen Beziehungen von Menschen auf ein System einwirken. Jede soziale Beziehung beeinflusst das emotionale Erleben und das Verhalten einer Person auf ihre eigene Weise.",
+        "intro": "Systemische Beratung",
         "approach": "Unsere Haltung ist geprägt von Akzeptanz, Einfühlungsvermögen, Unvoreingenommenheit und Wertschätzung. Wir gehen von der Selbständigkeit des Klienten aus und betrachten ihn als 'Experten in eigener Sache'.",
         "methods": {
           "title": "Methoden des systemischen Ansatzes",
@@ -535,13 +537,14 @@
         },
         "principle": "Ressourcen des Klienten werden aktiviert, um möglichst eigenverantwortlich und selbstorganisiert zu seinen individuellen Lösungen und Zielen zu gelangen. Der Kunde ist Experte für seine Probleme und Lösungen, der Coach ist Experte für den Weg zum Finden der Lösung.",
         "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
-        "expertPrinciple": "Die Ressourcen des Klienten werden aktiviert, um seine individuellen Lösungen und Ziele so eigenständig wie möglich zu erreichen. Der Klient ist der Experte für seine Probleme und Lösungen; der Berater ist der Experte für den Weg zur Lösungsfindung."
+        "expertPrinciple": "Die Ressourcen des Klienten werden aktiviert, um seine individuellen Lösungen und Ziele so eigenständig wie möglich zu erreichen. Der Klient ist der Experte für seine Probleme und Lösungen; der Berater ist der Experte für den Weg zur Lösungsfindung.",
+        "detailedDescription": "Systemische Berater nutzen Gespräche, um herauszufinden, wie die verschiedenen Beziehungen von Menschen auf ein System einwirken. Jede soziale Beziehung beeinflusst das emotionale Erleben und das Verhalten einer Person auf ihre eigene Weise."
       },
       "bioenergetic": {
         "name": "Bioenergetisches Coaching",
         "description": "Eine ganzheitliche Methode, die Körper, Geist und Seele für dauerhafte Veränderung integriert.",
         "fullTitle": "Bioenergetisches Coaching",
-        "intro": "Veränderung beginnt nicht nur im Kopf, sondern durchdringt den gesamten Menschen - Körper, Geist und Seele. Bereits aus den 1950er Jahren wurde nachgewiesen, dass emotionale Blockaden nicht nur mental, sondern auch körperlich verankert sind.",
+        "intro": "Bioenergetische Coaching",
         "explanation": "Bioenergetisches Coaching, eine ganzheitliche Methode, bezieht bioenergetische Übungen ein, die darauf abzielen, den Körper zu aktivieren und gespeicherte Spannungen zu lösen, um innere Balance und Freiheit zu fördern.",
         "bodyMemory": {
           "title": "Körpergedächtnis",
@@ -555,7 +558,8 @@
             "Atemübung: Hände auf den Bauch legen, tief einatmen und fühlen, wie sich der Bauch nach außen wölbt."
           ]
         },
-        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu"
+        "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
+        "detailedDescription": "Veränderung beginnt nicht nur im Kopf, sondern durchdringt den gesamten Menschen - Körper, Geist und Seele. Bereits aus den 1950er Jahren wurde nachgewiesen, dass emotionale Blockaden nicht nur mental, sondern auch körperlich verankert sind."
       }
     }
   },
@@ -616,50 +620,50 @@
     "anxiety": {
       "title": "Angst",
       "subtitle": "Angst Verstehen und Überwinden",
-      "intro": "Angst ist der instinktive Schutzmechanismus Ihres Körpers. Wenn Sie Gefahr wahrnehmen, sendet Ihr Gehirn Signale, die die Kampf-oder-Flucht-Reaktion aktivieren und Ihnen helfen, in potenziell lebensbedrohlichen Situationen zu überleben.",
+      "intro": "Angstzustände können bei vielen Menschen ohne Vorwarnung und in jeder Phase unseres Lebens auftreten und treten oft neben anderen Störungen wie Depressionen oder posttraumatischen Belastungsstörungen auf. Es ist eine häufig diagnostizierte und behandelte psychische Störung, aber im Kern ist das Gefühl von Angst die instinktive Art und Weise, wie unser Körper uns vor Gefahren schützt.",
       "symptoms": {
-        "title": "Hauptsymptome",
+        "title": "Was sind 5 Symptome von Angstzuständen?",
         "items": [
-          "Intensive Sorgen über alltägliche Situationen",
-          "Kontrollverlust über Gedanken und Gefühle",
-          "Ablösung vom Körper oder der Umgebung",
-          "Katastrophisieren und Erwarten des Schlimmsten",
-          "Körperliche Anspannung und Unruhe"
+          "Intensive Gefühle von Sorge, Verzweiflung, Nervosität oder Panik",
+          "Das Gefühl, dass diese Emotionen außerhalb Ihrer Kontrolle liegen",
+          "Ein Gefühl der Loslösung von deinem Körper",
+          "Katastrophisieren (d. h. Dinge übertreiben und Gedanken wie \"Alles wird schief gehen\" oder \"Ich könnte sterben\" erleben)",
+          "Fühlen Sie sich angespannt, nervös, verängstigt, aufgeregt oder übel"
         ]
       },
       "types": {
-        "title": "Arten von Angststörungen",
-        "gad": {
-          "name": "Generalisierte Angststörung (GAS)",
-          "description": "Anhaltende und übermäßige Sorgen über verschiedene Aspekte des täglichen Lebens."
+        "title": "Die verschiedenen Arten von Angst",
+        "generalisierte_angstst_rung_": {
+          "name": "Generalisierte Angststörung (GAD)",
+          "description": "Generalisierte Angst ist gekennzeichnet durch übermäßige, übertriebene Angst und Sorge um alltägliche Ereignisse, die außerhalb Ihrer Kontrolle liegen"
         },
-        "ocd": {
-          "name": "Zwangsstörung",
-          "description": "Wiederkehrende, unerwünschte Gedanken und repetitive Verhaltensweisen."
+        "zwangsst_rung_ocd": {
+          "name": "Zwangsstörung (OCD)",
+          "description": "Obsessionen und Zwänge sind psychische Erkrankungen, die wiederholte unerwünschte Gedanken oder Empfindungen (Obsessionen) oder den Drang verursachen, etwas immer und immer wieder zu tun (Zwänge)"
         },
-        "social": {
-          "name": "Soziale Angst",
-          "description": "Intensive Angst vor sozialen Situationen und Beurteilung durch andere."
+        "soziale_ngste": {
+          "name": "Soziale Ängste",
+          "description": "Das definierende Merkmal der sozialen Angststörung (auch soziale Phobie genannt) ist die intensive Angst oder die Angst, in sozialen oder öffentlichen Situationen beurteilt oder abgelehnt zu werden"
         },
-        "separation": {
+        "trennungsangst": {
           "name": "Trennungsangst",
-          "description": "Übermäßige Angst, von Bezugspersonen getrennt zu werden."
+          "description": "Dies ist eine häufige Art von Angst, die bei Kindern auftritt, die von einem Elternteil oder einer Betreuungsperson getrennt werden"
         },
-        "panic": {
-          "name": "Panikstörung",
-          "description": "Plötzliche, intensive Angstzustände mit körperlichen Symptomen."
+        "panikattacken_und_panikst_ru": {
+          "name": "Panikattacken und Panikstörung",
+          "description": "Eine Person, die an Panikattacken leidet, erlebt intensive, überwältigende Angstzustände mit körperlichen Symptomen wie Schwindel, Ohnmacht, übermäßigem Schwitzen, Herzrasen und/oder Brustschmerzen."
         },
-        "agoraphobia": {
+        "agoraphobie": {
           "name": "Agoraphobie",
-          "description": "Angst vor Situationen, in denen eine Flucht schwierig sein könnte."
+          "description": "Eine Person mit Agoraphobie hat in der Regel Angst, Umgebungen (wie ihr Zuhause) zu verlassen, die sie als sicher ansieht"
         },
-        "specific": {
+        "spezifische_phobien": {
           "name": "Spezifische Phobien",
-          "description": "Intensive Angst vor bestimmten Objekten oder Situationen."
+          "description": "Eine spezifische Phobie tritt auf, wenn eine Person eine überwältigende Angst vor einem Objekt (wie Spinnen, Schlangen oder Hunden) oder einer Situation (z"
         },
-        "health": {
-          "name": "Gesundheitsangst",
-          "description": "Übermäßige Sorge, an einer schweren Krankheit zu leiden."
+        "gesundheits_ngste": {
+          "name": "Gesundheitsängste",
+          "description": "Eine Person, die unter Gesundheitsängsten leidet, macht sich in der Regel irrationale Sorgen über leichte Symptome und glaubt fälschlicherweise, dass sie auf schwerwiegende Erkrankungen hinweisen"
         }
       },
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
@@ -717,9 +721,9 @@
       "whenToSeekHelp": "Es ist wichtig, professionelle Hilfe zu suchen, wenn Sorgen und Angst Sie überwältigen und Ihren Alltag negativ beeinflussen. Das Erkennen von Symptomen und das Erlernen wirksamer Bewältigungsmechanismen sind wesentliche Schritte zur Genesung."
     },
     "depression": {
-      "title": "Depression",
+      "title": "DEPRESSION",
       "subtitle": "Depression Verstehen",
-      "intro": "Depression ist mehr als nur Traurigkeit. Es ist eine anhaltende Niedergeschlagenheit, Gefühle der Wertlosigkeit, Taubheit und Schuld, die beeinflussen, wie Sie denken, fühlen und den Alltag bewältigen.",
+      "intro": "Es ist völlig normal, dass sich unsere Stimmungen verändern und verändern, wenn wir auf die vielen Herausforderungen des Lebens reagieren und uns daran anpassen. Sich traurig, launisch oder niedergeschlagen zu fühlen, ist weit verbreitet, aber einige von uns sind nicht in der Lage, ihre Stimmungen zu regulieren, oder fühlen sich über einen längeren Zeitraum sehr traurig oder niedergeschlagen. Dies kann die Art und Weise, wie wir unseren Alltag bewältigen und leben, stark beeinträchtigen.",
       "symptoms": {
         "title": "Hauptsymptome",
         "items": [
@@ -799,34 +803,34 @@
       }
     },
     "trauma": {
-      "title": "Trauma",
+      "title": "TRAUMA",
       "subtitle": "Trauma Verstehen und Heilen",
-      "intro": "Trauma ist eine psychologische Wunde, die aus beängstigenden oder verstörenden Ereignissen resultiert. Es kann beeinflussen, wie Sie denken, fühlen und sich lange nach dem Ereignis auf andere beziehen.",
+      "intro": "Beängstigende oder verstörende Ereignisse sind für jeden belastend und können zu einer psychischen Wunde, einem sogenannten Trauma, führen, das besonders übertrieben oder auslösend sein kann, wenn Sie bereits mit einer bestehenden psychischen Erkrankung fertig werden.",
       "symptoms": {
-        "title": "Emotionale Anzeichen",
+        "title": "Was sind Anzeichen eines Traumas?",
         "items": [
-          "Angst und Hypervigilanz",
-          "Trauer und Traurigkeit",
-          "Schuld und Scham",
-          "Wut und Reizbarkeit",
-          "Angst und Panik",
+          "Furcht",
+          "Kummer",
+          "Schuld oder Scham",
+          "Zorn",
+          "Angst",
           "Emotionale Taubheit",
-          "Schlafstörungen und Albträume"
+          "Schlafstörungen"
         ]
       },
       "types": {
-        "title": "Arten von Trauma",
-        "acute": {
+        "title": "Was sind die 3 Arten von Traumata?",
+        "type1": {
           "name": "Akutes Trauma",
-          "description": "Resultiert aus einem einzelnen Ereignis mit vorübergehenden Auswirkungen."
+          "description": "Dies ist die häufigste Art von Trauma und wird in der Regel durch ein einzelnes, isoliertes Ereignis wie einen Autounfall oder eine Naturkatastrophe verursacht. Die Auswirkungen eines akuten Traumas können vorübergehend sein, und die meisten Menschen erholen sich innerhalb weniger Tage oder Wochen."
         },
-        "chronic": {
+        "type2": {
           "name": "Chronisches Trauma",
-          "description": "Resultiert aus wiederholter Exposition gegenüber belastenden Ereignissen."
+          "description": "Dies ist das Ergebnis einer wiederholten oder längeren Exposition gegenüber traumatischen Ereignissen wie Kindesmissbrauch oder häuslicher Gewalt. Die Auswirkungen eines chronischen Traumas können lang anhaltend und schwerwiegend sein und körperliche, emotionale und psychische Probleme umfassen."
         },
-        "complex": {
+        "type3": {
           "name": "Komplexes Trauma",
-          "description": "Resultiert aus mehreren traumatischen Ereignissen, oft zwischenmenschlicher Natur."
+          "description": "Dies ist eine Kombination aus akutem und chronischem Trauma und ist oft das Ergebnis einer längeren Exposition gegenüber mehreren traumatischen Ereignissen, wie z. B. dem Aufwachsen in einem vom Krieg zerrütteten Land oder dem Erleben mehrerer Formen von Missbrauch. Die Auswirkungen komplexer Traumata können schwerwiegend und lang anhaltend sein und körperliche, emotionale und psychische Probleme umfassen."
         }
       },
       "ptsdNote": "Trauma kann sich zu PTBS (Posttraumatische Belastungsstörung) entwickeln, wenn die Symptome anhalten und das tägliche Leben erheblich beeinträchtigen.",
@@ -885,9 +889,9 @@
       }
     },
     "addiction": {
-      "title": "Sucht",
+      "title": "SUCHT",
       "subtitle": "Sucht Verstehen und Überwinden",
-      "intro": "Sucht wird als chronische Gehirnerkrankung definiert, die durch ein zwanghaftes Bedürfnis gekennzeichnet ist, ein Verhalten auszuüben oder eine Substanz zu verwenden, obwohl dies schädlich für uns sein kann. Dieses unwiderstehliche Verlangen ist ein grundlegender Aspekt jeder Sucht - die Unfähigkeit zu stoppen, obwohl wir uns der negativen Konsequenzen bewusst sind und uns sogar dagegen entscheiden.",
+      "intro": "Sucht kann erhebliche Auswirkungen auf die psychische Gesundheit haben. Sie kann zur Entwicklung von psychischen Erkrankungen wie Depressionen, Angstzuständen und PTBS führen oder bestehende psychische Erkrankungen verschlimmern, was es uns erschwert, Zugang zu angemessener Hilfe und Unterstützung zu erhalten.",
       "symptoms": {
         "title": "Wichtige Anzeichen",
         "items": [
@@ -900,26 +904,26 @@
         ]
       },
       "types": {
-        "title": "Arten von Sucht",
-        "substance": {
+        "title": "Welche Arten von Sucht gibt es?",
+        "type1": {
           "name": "Substanzabhängigkeit",
-          "description": "Abhängigkeit von Alkohol, Drogen, Nikotin oder verschreibungspflichtigen Medikamenten, die körperliche Toleranz und Entzugserscheinungen entwickelt."
+          "description": "Es bedeutet den Konsum illegaler Drogen oder den Konsum von verschreibungspflichtigen oder unzähligen Drogen oder Alkohol für andere Zwecke als die, für die sie verwendet werden sollen, meist in übermäßigen Mengen. Drogenmissbrauch kann zu emotionalen, sozialen, körperlichen und beruflichen Problemen führen. Die Abhängigkeit von Drogen und Alkohol ist die bekannteste Art der Sucht. Weitere Süchte können sein: Marihuana, Medikamente (Schmerztabletten), Stimulanzien, Angstpillen, Methaamphetamin, Kokain, Opiate, Halluzinogene, Inhalationsmittel."
         },
-        "behavioral": {
+        "type2": {
           "name": "Verhaltenssucht",
-          "description": "Zwanghafte Beschäftigung mit Aktivitäten wie Glücksspiel, Gaming, Shopping oder Essen, die trotz negativer Konsequenzen anhält."
+          "description": "Der Wissenschaft zufolge wird diese Sucht als ein intensives Verlangen beschrieben, eine Handlung zu wiederholen, die angenehm ist oder als Verbesserung des Wohlbefindens wahrgenommen wird oder in der Lage ist, persönliche Belastungen zu lindern. Dazu gehört die Sucht nach Aktivitäten wie Glücksspiel, Sex, Pornografie, Schönheitsoperationen, Spielen, Essen, Bewegung und Einkaufen."
         },
-        "process": {
+        "type3": {
           "name": "Prozesssucht",
-          "description": "Sucht nach Aktivitäten wie Arbeit, Sport oder Internetnutzung, die obsessiv werden."
+          "description": "Es handelt sich um eine Verhaltenssucht, die dadurch gekennzeichnet ist, dass eine Person sich mit bestimmten Aktivitäten beschäftigt, die oft zwanghaft sind und zu negativen Konsequenzen führen. Sucht nach Dingen wie Essen, Internet, SMS, Surfen im Internet, übermäßigem Essen und Videospielen."
         },
-        "relational": {
+        "type4": {
           "name": "Beziehungssucht",
-          "description": "Sucht nach Beziehungen, die oft wie Codependenz aussieht. Betroffene verknüpfen ihren Selbstwert damit, in einer Beziehung zu sein oder jemandem etwas zu bedeuten."
+          "description": "Sucht nach Beziehungen, die oft wie Co-Abhängigkeit aussieht. Eine Person \"liebt\" eine andere Person in einer obsessiven Intensität, die nicht im Interesse einer der beiden Parteien ist."
         },
-        "trauma": {
+        "type5": {
           "name": "Traumasucht",
-          "description": "Sucht nach den emotionalen und körperlichen Empfindungen, die mit traumatischen Erfahrungen verbunden sind."
+          "description": "Sucht nach emotionalen und körperlichen Empfindungen, die mit traumatischen Erlebnissen verbunden sind."
         }
       },
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
@@ -993,9 +997,9 @@
       }
     },
     "attachment": {
-      "title": "Bindungsstörung",
+      "title": "BINDUNGSSTÖRUNG",
       "subtitle": "Bindungsprobleme Verstehen",
-      "intro": "Bindungsstörungen entwickeln sich, wenn frühe Bindungen zu Bezugspersonen gestört oder abwesend sind. Diese Muster können Beziehungen, emotionale Regulation und Selbstwertgefühl ein Leben lang beeinflussen.",
+      "intro": "Bindungsprobleme können bei Erwachsenen recht häufig auftreten, und obwohl es keine formelle Diagnose gibt, wird oft angenommen, dass sie auf unbehandelte Bindungsprobleme aus der Kindheit zurückzuführen sind. Wenn du nicht daran arbeitest, Bindungsprobleme zu lösen, kannst du durchs Leben gehen und Schwierigkeiten haben, anderen zu vertrauen und dich in einer intimen Beziehung sicher und geborgen zu fühlen.",
       "symptoms": {
         "title": "Wichtige Anzeichen",
         "items": [
@@ -1031,16 +1035,16 @@
       "attachmentStyles": {
         "title": "Bindungsstile im Detail",
         "secure": {
-          "name": "Sichere Bindung (Gesund)",
-          "description": "Die Fähigkeit, stabile Beziehungen aufzubauen, die auf Vertrauen und emotionaler Intimität basieren."
+          "name": "Sichere Befestigung",
+          "description": "Fühlen Sie sich wohl dabei, Emotionen offen auszudrücken? Fühlen Sie sich wohl dabei, von Ihrem Partner abhängig zu sein? Und deinen Partner auf dich verlassen zu lassen? Dann ist es wahrscheinlich, dass Sie einen sicheren Befestigungsstil haben"
         },
         "anxious": {
-          "name": "Ängstliche/Besorgte Bindung",
-          "description": "Gekennzeichnet durch Hypervigilanz in Beziehungen, extreme Eifersucht und ständige Angst vor Verlassenwerden. Menschen mit diesem Stil suchen ständig Bestätigung von Partnern."
+          "name": "Unorganisierte oder ängstliche Bindung",
+          "description": "Wenn du sozial instabile oder zweideutige Verhaltensweisen zeigst, keine Intimität oder Nähe suchst und es dir schwer fällt, anderen zu vertrauen und von ihnen abhängig zu sein, hast du möglicherweise einen ängstlichen Bindungsstil"
         },
         "avoidant": {
-          "name": "Vermeidende/Abweisende Bindung",
-          "description": "Vermeidung emotionaler Intimität, Vorliebe für Unabhängigkeit und Schwierigkeit, sich auf andere zu verlassen. Kann distanziert oder emotional desinteressiert wirken."
+          "name": "Vermeidende oder abweisende Bindung",
+          "description": "Neigen Sie dazu, Ihre Gefühle zu verstecken oder zu unterdrücken, wenn Sie mit einer emotionsreichen Situation konfrontiert werden? Wenn du das Gefühl hast, emotional stark, unabhängig und autark zu sein, und dich oft als \"einsamen Wolf\" siehst, hast du vielleicht einen vermeidenden Bindungsstil"
         },
         "disorganized": {
           "name": "Desorganisierte/Ängstlich-Vermeidende Bindung",
@@ -1072,9 +1076,9 @@
       }
     },
     "eatingDisorders": {
-      "title": "Essstörungen",
+      "title": "ESSSTÖRUNGEN",
       "subtitle": "Essstörungen Verstehen",
-      "intro": "Essstörungen sind schwerwiegende psychische Erkrankungen, die durch anhaltende Störungen des Essverhaltens und damit verbundener Gedanken und Emotionen gekennzeichnet sind. Sie können die körperliche Gesundheit und Lebensqualität beeinträchtigen.",
+      "intro": "Essstörungen betreffen viele Menschen auf der Welt. Den Statistiken zufolge zeigt dieses bedeutende globale Gesundheitsproblem, dass mindestens 9 % der Bevölkerung irgendwann in ihrem Leben an einer Essstörung leiden werden. Es ist sehr wichtig, Essstörungen zu verstehen und anzugehen. Sie sind komplexe psychische Erkrankungen, die professionelle Eingriffe erfordern.",
       "symptoms": {
         "title": "Warnzeichen",
         "items": [
@@ -1087,22 +1091,18 @@
         ]
       },
       "types": {
-        "title": "Arten von Essstörungen",
-        "anorexia": {
-          "name": "Anorexia Nervosa",
-          "description": "Schwere Nahrungsrestriktion, intensive Angst vor Gewichtszunahme und verzerrtes Körperbild."
+        "title": "Was sind die drei häufigsten Arten von Essstörungen?",
+        "anorexia_nervosa": {
+          "name": "Anorexia nervosa",
+          "description": "Dabei kommt es zu einer extremen Einschränkung der Nahrungsaufnahme, was zu einem gefährlich niedrigen Körpergewicht führt"
         },
-        "bulimia": {
-          "name": "Bulimia Nervosa",
-          "description": "Zyklen von Essanfällen gefolgt von kompensatorischen Verhaltensweisen."
+        "bulimie": {
+          "name": "Bulimie",
+          "description": "Ganz im Gegenteil von Magersucht handelt es sich bei Bulimie in der Regel um einen Zyklus von Essattacken, gefolgt von der Kompensation von Entschlackung, Fasten oder exzessiver Bewegung"
         },
-        "binge": {
-          "name": "Binge-Eating-Störung",
-          "description": "Wiederkehrende Episoden des Essens großer Mengen ohne kompensatorische Verhaltensweisen."
-        },
-        "arfid": {
-          "name": "ARFID",
-          "description": "Vermeidend-Restriktive Nahrungsaufnahmestörung - eingeschränktes Essen, nicht auf Körperbild bezogen."
+        "essattacken": {
+          "name": "Essattacken",
+          "description": "Dabei handelt es sich um wiederkehrende Episoden, in denen große Mengen an Nahrung in kurzer Zeit konsumiert werden, gefolgt von Gefühlen der Scham, Schuld und Verzweiflung"
         }
       },
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
@@ -1134,19 +1134,19 @@
       }
     },
     "grief": {
-      "title": "Trauer & Verlust",
+      "title": "TRAUER & VERLUST",
       "subtitle": "Trauer Verstehen",
-      "intro": "Trauer ist eine natürliche Reaktion auf Verlust. Sie kann uns emotional, körperlich und spirituell beeinflussen. Obwohl Trauer universell ist, ist die Erfahrung jeder Person einzigartig und verdient mitfühlende Unterstützung.",
+      "intro": "Verlust und Trauer sind universelle Erfahrungen und eine sehr komplexe Emotion, die uns alle irgendwann in unserem Leben betreffen. Ob es sich um den Verlust eines geliebten Menschen, eines Jobs oder sogar eines geliebten Besitzes handelt, die Emotionen, die mit diesen Verlusten einhergehen, können überwältigend und schwer zu bewältigen sein.",
       "symptoms": {
-        "title": "Häufige Erfahrungen",
+        "title": "Was sind die 7 Stadien der Trauer nach einem Todesfall?",
         "items": [
-          "Intensive Traurigkeit und Sehnsucht",
-          "Schock, Unglaube oder Verleugnung",
-          "Wut oder Reizbarkeit",
-          "Schuld oder Bedauern",
-          "Angst vor der Zukunft",
-          "Körperliche Symptome wie Müdigkeit oder Appetitveränderungen",
-          "Konzentrations- oder Entscheidungsschwierigkeiten"
+          "Schock und Verleugnung",
+          "Schmerz und Schuld",
+          "Ärger und Feilschen",
+          "Depressionen",
+          "Die Wende nach oben",
+          "Rekonstruktion und Aufarbeitung",
+          "Akzeptanz und Hoffnung"
         ]
       },
       "types": {
@@ -1239,38 +1239,35 @@
       }
     },
     "relationships": {
-      "title": "Beziehungen",
+      "title": "BEZIEHUNGEN",
       "subtitle": "Beziehungsherausforderungen Verstehen",
-      "intro": "Gesunde Beziehungen sind grundlegend für unser Wohlbefinden. Wenn Beziehungen kämpfen, beeinflusst das jeden Aspekt unseres Lebens. Das Verstehen von Beziehungsdynamiken kann helfen, stärkere, erfüllendere Verbindungen aufzubauen.",
+      "intro": "Beziehungen sind die Grundlage unseres Lebens. Sie helfen uns, uns sicher und herausgefordert zu fühlen, und helfen uns, zu lernen und zu wachsen.",
       "symptoms": {
-        "title": "Häufige Herausforderungen",
+        "title": "Was sind die 4 Haupttypen von Beziehungen?",
         "items": [
-          "Kommunikationsschwierigkeiten",
-          "Vertrauensprobleme und Eifersucht",
-          "Häufige Konflikte oder Streitigkeiten",
-          "Gefühl der Distanzierung oder Einsamkeit",
-          "Schwierigkeiten mit Intimität",
-          "Codependenz-Muster",
-          "Grenzprobleme"
+          "Romantische Beziehungen: Romantische Beziehungen sind vielleicht die bekannteste Art von Beziehung. Sie beinhalten eine tiefe emotionale und körperliche Verbindung zwischen zwei Menschen und beinhalten oft eine starke Bindung zueinander. Romantische Beziehungen können viele Formen annehmen, darunter Dating, Verlobung und Ehe. Sie können langfristig oder kurzfristig sein und sind in der Regel von Liebe, Vertrauen und gegenseitiger Unterstützung geprägt.",
+          "Platonische Beziehungen: Dies sind nicht-romantische Beziehungen zwischen Freunden. Sie basieren auf Vertrauen, gegenseitigem Respekt und gemeinsamen Interessen. Platonische Beziehungen können eng und intim sein, aber sie beinhalten keine romantische oder sexuelle Verbindung. Beispiele für platonische Beziehungen sind Freundschaften zwischen Kollegen, Klassenkameraden oder Nachbarn.",
+          "Familiäre Beziehungen: Diese Beziehungen sind oft von einem starken Gefühl der Loyalität, Liebe und Verantwortung geprägt. Familiäre Beziehungen können komplex sein und viele verschiedene Dynamiken im Spiel haben. Dazu können Beziehungen zwischen Eltern und Kindern, Geschwistern, Großeltern und anderen Verwandten gehören.",
+          "Berufliche Beziehungen: Diese bestehen zwischen Menschen, die zusammenarbeiten und oft durch ein gemeinsames Ziel oder einen gemeinsamen Zweck gekennzeichnet sind, und können Beziehungen zwischen Kollegen, Vorgesetzten und Untergebenen umfassen. Sie können formell oder informell sein und auf Vertrauen, Respekt und gegenseitiger Unterstützung basieren."
         ]
       },
       "types": {
-        "title": "Bereiche, die wir behandeln",
-        "couples": {
-          "name": "Paarberatung",
-          "description": "Verbesserung der Kommunikation, Konfliktlösung und Wiederaufbau der Verbindung."
+        "title": "Was sind die 4 Haupttypen von Beziehungen?",
+        "type1": {
+          "name": "Romantische Beziehungen",
+          "description": "Romantische Beziehungen sind vielleicht die bekannteste Art von Beziehung. Sie beinhalten eine tiefe emotionale und körperliche Verbindung zwischen zwei Menschen und beinhalten oft eine starke Bindung zueinander. Romantische Beziehungen können viele Formen annehmen, darunter Dating, Verlobung und Ehe. Sie können langfristig oder kurzfristig sein und sind in der Regel von Liebe, Vertrauen und gegenseitiger Unterstützung geprägt."
         },
-        "family": {
-          "name": "Familiendynamik",
-          "description": "Behandlung von Mustern, Rollen und Kommunikation innerhalb von Familien."
+        "type2": {
+          "name": "Platonische Beziehungen",
+          "description": "Dies sind nicht-romantische Beziehungen zwischen Freunden. Sie basieren auf Vertrauen, gegenseitigem Respekt und gemeinsamen Interessen. Platonische Beziehungen können eng und intim sein, aber sie beinhalten keine romantische oder sexuelle Verbindung. Beispiele für platonische Beziehungen sind Freundschaften zwischen Kollegen, Klassenkameraden oder Nachbarn."
         },
-        "interpersonal": {
-          "name": "Zwischenmenschliche Fähigkeiten",
-          "description": "Aufbau gesünderer Beziehungen in allen Lebensbereichen."
+        "type3": {
+          "name": "Familiäre Beziehungen",
+          "description": "Diese Beziehungen sind oft von einem starken Gefühl der Loyalität, Liebe und Verantwortung geprägt. Familiäre Beziehungen können komplex sein und viele verschiedene Dynamiken im Spiel haben. Dazu können Beziehungen zwischen Eltern und Kindern, Geschwistern, Großeltern und anderen Verwandten gehören."
         },
-        "boundaries": {
-          "name": "Grenzsetzung",
-          "description": "Lernen, gesunde Grenzen zu setzen und aufrechtzuerhalten."
+        "type4": {
+          "name": "Berufliche Beziehungen",
+          "description": "Diese bestehen zwischen Menschen, die zusammenarbeiten und oft durch ein gemeinsames Ziel oder einen gemeinsamen Zweck gekennzeichnet sind, und können Beziehungen zwischen Kollegen, Vorgesetzten und Untergebenen umfassen. Sie können formell oder informell sein und auf Vertrauen, Respekt und gegenseitiger Unterstützung basieren."
         }
       },
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
@@ -1309,19 +1306,19 @@
       }
     },
     "stress": {
-      "title": "Stress",
+      "title": "STRESS",
       "subtitle": "Stress Verstehen und Bewältigen",
-      "intro": "Stress ist die Reaktion Ihres Körpers auf Anforderungen und Druck. Während etwas Stress motivierend sein kann, kann chronischer Stress Ihre körperliche und psychische Gesundheit erheblich beeinträchtigen. Stressbewältigung zu lernen ist wesentlich für das Wohlbefinden.",
+      "intro": "Stress ist ein häufiges Problem, das viele Menschen betrifft. Es ist eine natürliche Reaktion auf herausfordernde Situationen, aber wenn es chronisch wird, kann es sich negativ auf die körperliche und geistige Gesundheit auswirken.",
       "symptoms": {
-        "title": "Zeichen von chronischem Stress",
+        "title": "Was sind die 7 Symptome von Stress?",
         "items": [
-          "Anhaltende Überforderungsgefühle",
-          "Schwierigkeiten beim Entspannen oder Schlafen",
-          "Reizbarkeit und Stimmungsschwankungen",
-          "Körperliche Verspannung und Kopfschmerzen",
-          "Konzentrationsschwierigkeiten",
-          "Appetitveränderungen",
-          "Rückzug von Aktivitäten oder Menschen"
+          "Ausbrüche von Wut, Reizbarkeit oder Traurigkeit",
+          "Müdigkeit",
+          "Sich hilflos oder hoffnungslos fühlen",
+          "Desinteresse am Leben",
+          "Ein Verlust an Sinn für Humor",
+          "Rasende Gedanken",
+          "Kämpfen Sie darum, sich zu amüsieren"
         ]
       },
       "types": {
@@ -1388,20 +1385,16 @@
       }
     },
     "perinatal": {
-      "title": "Perinatale Stimmungsstörungen",
+      "title": "PERINATALE STIMMUNGSSTÖRUNGEN",
       "subtitle": "Perinatale psychische Gesundheit Verstehen",
-      "intro": "Perinatale Stimmungsstörungen betreffen Eltern während der Schwangerschaft und in der postpartalen Zeit. Fast 10% der Frauen erleben Depressionen während der Schwangerschaft, steigend auf 16% in den ersten 3 Monaten nach der Geburt. Diese Erkrankungen sind mit angemessener Unterstützung behandelbar.",
+      "intro": "Obwohl jede Erfahrung anders ist, ist die Geburt eines Babys ein bedeutendes Lebensereignis. Ähnlich wie bei den körperlichen Veränderungen, die wir während der Schwangerschaft durchmachen, kann es mit jedem Trimester viele emotionale Veränderungen geben. Es ist zwar eine Zeit der Freude, Aufregung und vieler Premieren, aber sie kann auch mit einem gewissen Maß an Angst oder \"Höhen und Tiefen\" in der Stimmung einhergehen. Obwohl es normal ist, diese Emotionen zu erleben, wenn man ein Baby erwartet, entwickeln einige von uns ein intensiveres Maß an Angst oder schlechter Stimmung, was sich auf unser tägliches Leben auswirken kann. Wenn dies während der Schwangerschaft auftritt, wird es als vorgeburtliche Angst oder vorgeburtliche Depression bezeichnet.",
       "symptoms": {
-        "title": "Warnzeichen",
+        "title": "Wie man mit den Symptomen einer perinatalen Depression umgeht",
         "items": [
-          "Anhaltende Traurigkeit oder Leere",
-          "Schwere Stimmungsschwankungen",
-          "Schwierigkeiten, eine Bindung zum Baby aufzubauen",
-          "Rückzug von Familie und Freunden",
-          "Appetit- und Schlafveränderungen",
-          "Überwältigende Müdigkeit",
-          "Intensive Angst oder Panikattacken",
-          "Gedanken, sich selbst oder dem Baby zu schaden"
+          "Raus in die Sonne. In Sonnenlicht und an der frischen Luft zu sein, kann unsere Stimmung deutlich verbessern. Obwohl es als Eltern schwierig sein kann, sich um sich selbst zu kümmern, können 10-15 Minuten in der Sonne und in der Natur unsere Stimmung positiv beeinflussen.",
+          "Bringen Sie Bewegung wieder in Ihre Routine auf. Es ist bekannt, dass körperliche Aktivität die Symptome von Depressionen lindert und das psychische Wohlbefinden verbessert. Je nachdem, in welcher Phase wir uns befinden (z. B. einige Wochen nach der Geburt), können wir mit sanften Übungen wie Gehen beginnen, mit dem Ziel, 20-30 Minuten pro Tag aktiv zu sein.",
+          "Ruhepause. Untersuchungen haben gezeigt, dass Frauen, die am wenigsten Schlaf bekamen, mit depressiveren Symptomen verbunden waren. Je nachdem, in welchem Stadium wir uns befinden, kann es sein, dass unser Baby die Nacht nicht durchschläft. Wenn wir um zusätzliche Unterstützung bitten oder sie suchen, können wir früher ins Bett gehen oder tagsüber Zeit für ein Nickerchen finden.",
+          "Widerstehen Sie der Isolation. Viele Studien haben gezeigt, dass es helfen kann, mit anderen über unsere Gefühle zu sprechen, um unsere Stimmung zu steuern. Auch wenn wir das Gefühl haben, auf Autopilot zu laufen, kann es eine große Hilfe sein, sich Zeit zu nehmen, um mit anderen Erwachsenen oder Müttern zu sprechen, um Unterstützung zu erhalten."
         ]
       },
       "types": {
@@ -1463,18 +1456,25 @@
       }
     },
     "sexualDysfunction": {
-      "title": "Sexuelle Dysfunktionen",
+      "title": "SEXUELLE DYSFUNKTIONEN",
       "subtitle": "Sexuelle Gesundheit Verstehen",
-      "intro": "Sexuelle Dysfunktionen können jeden betreffen und umfassen Schwierigkeiten mit Verlangen, Erregung, Orgasmus oder Schmerzen während sexueller Aktivität. Diese Herausforderungen haben oft psychologische Komponenten und können mit professioneller Unterstützung angegangen werden.",
+      "intro": "Sexuelle Dysfunktion bezieht sich auf Zustände, die sich auf das sexuelle Verlangen, die Erregung, den Orgasmus und die Schmerzen beim Geschlechtsverkehr auswirken. Es ist ein Problem, das in jeder Phase des sexuellen Zyklus auftreten kann und verhindert, dass die Befriedigung durch sexuelle Aktivität wahrgenommen wird. Der sexuelle Reaktionszyklus umfasst traditionell Erregung, Plateau, Orgasmus und Auflösung. Sexuelle Dysfunktion ist weit verbreitet, weshalb Menschen aller Geschlechter, Orientierungen und Beziehungsstatus von einer psychosexuellen Therapie profitieren können.",
       "symptoms": {
-        "title": "Häufige Anliegen",
+        "title": "Was sind andere Beispiele für sexuelle Funktionsstörungen?",
         "items": [
-          "Geringes sexuelles Verlangen oder Interesse",
-          "Schwierigkeiten mit der Erregung",
-          "Schwierigkeiten, einen Orgasmus zu erreichen",
-          "Schmerzen bei sexueller Aktivität",
-          "Leistungsangst",
-          "Beziehungsspannung aufgrund sexueller Probleme"
+          "Unpassende Libido und Diskrepanzen beim Verlangen",
+          "Schmerzhafter Sex",
+          "Vaginismus",
+          "Schwierigkeiten beim Erreichen des Orgasmus",
+          "Verzögerte Ejakulation",
+          "Abhängigkeit von Pornos",
+          "Angst vor oder während des Sex",
+          "Schlechte Stimmung, die zu geringem sexuellem Verlangen beiträgt",
+          "Bedenken hinsichtlich des Körperbildes",
+          "Anpassung an Sex nach Schwangerschaft und Geburt",
+          "Anpassung an Krankheit und Behinderung",
+          "Anpassung an sexuell übertragbare Infektionen",
+          "Genesung von sexuellen Traumata"
         ]
       },
       "types": {
@@ -1537,9 +1537,9 @@
       }
     },
     "mensMentalHealth": {
-      "title": "Psychische Gesundheit von Männern",
+      "title": "PSYCHISCHE GESUNDHEIT VON MÄNNERN",
       "subtitle": "Das Wohlbefinden von Männern Unterstützen",
-      "intro": "Männer stehen oft vor einzigartigen Herausforderungen bei der Behandlung psychischer Gesundheit aufgrund gesellschaftlicher Erwartungen und Stigma. Einen Raum zu schaffen, in dem Männer offen über ihre Kämpfe sprechen können, ist wesentlich für Heilung und Wachstum.",
+      "intro": "Es lässt sich nicht leugnen, dass psychische Instabilität auch bei Männern weit verbreitet ist.  Männer können die meisten der gleichen psychischen Störungen und Zustände wie Frauen entwickeln, aber sie können unterschiedliche Symptome haben. In der heutzutage stillen Epidemie in der Gesellschaft, die Familien, Lehrer, Gemeindemitglieder und Freunde betrifft, ist die Rate der männlichen Depressionen leider dramatisch gestiegen.",
       "symptoms": {
         "title": "Häufige Herausforderungen",
         "items": [
