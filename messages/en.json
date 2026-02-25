@@ -81,23 +81,23 @@
     "disorders": {
       "anxiety": {
         "title": "Anxiety Disorders",
-        "description": "Comprehensive treatment for generalized anxiety, panic attacks, social anxiety, and phobias using proven therapeutic techniques."
+        "description": "Anxiety can arise without warning and affect every aspect of life, often appearing alongside depression or trauma. We offer comprehensive, evidence-based treatment for generalized anxiety, panic attacks, social anxiety, and phobias — helping you build lasting calm and resilience."
       },
       "depression": {
         "title": "Depression",
-        "description": "Evidence-based approaches to help you overcome depression, regain motivation, and rediscover joy in everyday life."
+        "description": "Persistent sadness, low motivation, and loss of interest in daily life are signs that depression may need professional support. Our evidence-based approaches help you process difficult emotions, regain energy, and rediscover meaning and joy in everyday life."
       },
       "trauma": {
         "title": "Trauma & PTSD",
-        "description": "Specialized EMDR therapy and trauma-focused treatment to help process difficult experiences and find healing."
+        "description": "Frightening or overwhelming experiences can leave deep psychological wounds that shape how you think, feel, and connect with others. Specializing in EMDR and trauma-focused therapy, we help you process difficult memories and rebuild a genuine sense of safety."
       },
       "relationships": {
         "title": "Relationship Issues",
-        "description": "Individual and couples counseling to improve communication, resolve conflicts, and build stronger connections."
+        "description": "Healthy relationships are the foundation of wellbeing, yet also a source of our deepest struggles. We offer individual and couples counseling to improve communication, resolve conflict, and deepen genuine connection."
       },
       "stress": {
         "title": "Stress Management",
-        "description": "Learn effective coping strategies, mindfulness techniques, and lifestyle changes to manage chronic stress."
+        "description": "Chronic stress takes a serious toll on both physical and mental health over time. We help you develop effective coping strategies, mindfulness skills, and sustainable lifestyle changes to restore balance and inner calm."
       },
       "personalGrowth": {
         "title": "Personal Growth",
@@ -105,47 +105,47 @@
       },
       "addiction": {
         "title": "Addiction",
-        "description": "Supportive treatment for substance and behavioral addictions, focusing on recovery and sustainable change."
+        "description": "Addiction significantly impacts mental health, often co-occurring with depression, anxiety, and PTSD. We provide supportive, evidence-based treatment focused on sustainable recovery and lasting change."
       },
       "eatingDisorders": {
         "title": "Eating Disorders",
-        "description": "Specialized care for anorexia, bulimia, binge eating, and other eating-related challenges."
+        "description": "Eating disorders affect at least 9% of the population and encompass far more than food or weight. We provide specialized, compassionate care for anorexia, bulimia, binge eating, and related challenges."
       },
       "perinatal": {
         "title": "Perinatal Mood Disorders",
-        "description": "Support for pregnancy and postpartum mental health, including depression and anxiety."
+        "description": "The transition to parenthood brings profound emotional shifts alongside physical changes. We provide specialized support for perinatal depression, anxiety, and the emotional challenges of pregnancy and early parenthood."
       },
       "grief": {
         "title": "Grief & Loss",
-        "description": "Compassionate support through bereavement and life transitions."
+        "description": "Loss and grief are universal experiences that can profoundly affect every area of life — work, relationships, and sense of self. We offer compassionate support through bereavement, transitions, and the complex emotions that accompany loss."
       },
       "bipolar": {
         "title": "Bipolar Disorder",
-        "description": "Comprehensive management of mood episodes and long-term stability."
+        "description": "Bipolar disorder involves cycles of depression and elevated mood that can be hard to navigate without the right support. We provide comprehensive, evidence-based care for mood stabilization and long-term wellbeing."
       },
       "adhd": {
         "title": "ADHD",
-        "description": "Assessment and treatment for attention and hyperactivity challenges in adults and adolescents."
+        "description": "ADHD is a neurodevelopmental condition that frequently persists into adulthood, affecting focus, organization, and impulse control. We offer assessment and tailored treatment for attention challenges in adults and adolescents."
       },
       "attachment": {
         "title": "Attachment Disorder",
-        "description": "Healing attachment wounds and building secure relationship patterns."
+        "description": "Early attachment wounds often shape adult relationships and emotional patterns in ways that are difficult to recognize alone. We help you understand these patterns and build the secure, trusting connections you deserve."
       },
       "personality": {
         "title": "Personality Disorders",
-        "description": "Specialized therapy for complex personality patterns and interpersonal difficulties."
+        "description": "Personality disorders involve persistent patterns of thinking and relating that cause significant distress and difficulty. We offer specialized therapy to help you understand these patterns and build a more fulfilling life."
       },
       "sexualDysfunction": {
         "title": "Sexual Dysfunctions",
-        "description": "Sensitive and professional support for sexual health concerns."
+        "description": "Sexual dysfunction affects desire, arousal, and satisfaction, and is far more common than many people realize. We offer sensitive, professional support for sexual health concerns in a safe and confidential space."
       },
       "mensMentalHealth": {
         "title": "Men's Mental Health",
-        "description": "Addressing unique mental health challenges faced by men in a supportive environment."
+        "description": "Men can experience most mental health conditions but often face unique social barriers to seeking help. We provide a supportive, non-judgmental environment for addressing the challenges men face with their mental wellbeing."
       },
       "selfEsteem": {
         "title": "Self-Esteem",
-        "description": "Building confidence and a positive self-image through therapeutic support."
+        "description": "In a world full of messages about how we should look and behave, many people struggle with genuine self-worth. We help you build authentic confidence, develop a healthier self-image, and reconnect with your inner strengths."
       }
     },
     "sessionInfo": {
@@ -984,35 +984,27 @@
         ]
       },
       "types": {
-        "title": "The Inattentive Type",
-        "type1": {
-          "name": "Short attention span for age (difficulty sustaining attentio",
-          "description": ""
+        "title": "What Are The 3 Types Of ADHD And Their Symptoms?",
+        "inattentive": {
+          "name": "The Inattentive Type",
+          "description": "Short attention span, difficulty listening to others, difficulty attending to details, easily distracted, forgetful, poor organisational skills for age, poor study skills for age."
         },
-        "type2": {
-          "name": "Difficulty listening to others",
-          "description": ""
+        "impulsive": {
+          "name": "The Impulsive Type",
+          "description": "Often interrupts others, difficulty waiting in school and social contexts, blurts out answers rather than waiting to be called, takes frequent risks without thinking before acting."
         },
-        "type3": {
-          "name": "Difficulty attending to details",
-          "description": ""
+        "hyperactive": {
+          "name": "The Hyperactive Type",
+          "description": "Constantly in motion, sometimes running or climbing without apparent purpose, difficulty remaining seated even when required, excessive fidgeting including limbs, excessive talking, difficulty engaging in quiet activities, repeatedly loses and forgets things, inability to complete a task to the end."
         },
-        "type4": {
-          "name": "Easily distracted",
-          "description": ""
-        },
-        "type5": {
-          "name": "Forgetful",
-          "description": ""
-        },
-        "type6": {
-          "name": "Poor organisational skills for age",
-          "description": ""
-        },
-        "type7": {
-          "name": "Poor study skills for age",
-          "description": ""
+        "combined": {
+          "name": "Combined Presentation",
+          "description": "Symptoms of both inattentiveness and hyperactivity-impulsivity. Symptoms may change over time, and individuals may find they have two or all three of the above presentations, demonstrating the significant fluidity of ADHD as an extremely individualised disorder."
         }
+      },
+      "adultVsChildren": {
+        "title": "How Does ADHD Look In Adults Compared To Children?",
+        "description": "ADHD can present differently depending on the individual, age and gender. Males typically present hyperactive and/or impulsive symptoms, while females may often present symptoms of inattentiveness. Over time, approximately one in three children with ADHD will be in remission by adulthood. Inattentive symptoms have greater persistence into adulthood and show a slower decline than hyperactivity and impulsivity symptoms. In adulthood, hyperactivity symptoms become predominantly felt internally rather than observed externally."
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
       "treatmentApproach": {
@@ -1204,6 +1196,9 @@
       "effects": {
         "title": "Effects of Grief and Loss",
         "description": "The effects of grief can be significant and far-reaching. Grief can affect our physical, emotional, and mental wellbeing.",
+        "physicalLabel": "Physical",
+        "emotionalLabel": "Emotional",
+        "cognitiveLabel": "Cognitive",
         "physical": [
           "Low energy levels and fatigue",
           "Changes in appetite",
@@ -1824,6 +1819,31 @@
         }
       },
       "cta": "Heal, Restore and Thrive - We remodel your boundaries and success",
+      "selfEsteemTypes": {
+        "title": "What Are The 3 Types Of Self-Esteem?",
+        "high": {
+          "name": "High Self-Esteem",
+          "description": "People with high self-esteem have a positive self-image. They are confident and comfortable with who they are, while having a healthy balance between self-acceptance, self-love and self-improvement."
+        },
+        "moderate": {
+          "name": "Moderate Self-Esteem",
+          "description": "People with moderate self-esteem tend to have an inconsistent self-image. They may experience moments of confidence and self-doubt, and their self-esteem may fluctuate depending on the situation."
+        },
+        "low": {
+          "name": "Low Self-Esteem",
+          "description": "People with low self-esteem have a negative self-image. They consistently have a negative self-perception and may find it difficult to accept compliments or believe in their own abilities."
+        }
+      },
+      "improvementStrategies": {
+        "title": "What Things Improve Self-Esteem?",
+        "items": [
+          "Practice Self-Care: Taking care of yourself physically and emotionally, including regular exercise, healthy eating, and getting enough sleep, can improve your self-esteem.",
+          "Set Goals And Work Towards Achieving Them: Setting and achieving goals, no matter how small, can help build your confidence and self-esteem.",
+          "Challenge Negative Thoughts: When you notice negative thoughts about yourself, try to challenge them by asking yourself if they are really true or if you are being too hard on yourself.",
+          "Surround Yourself With Supportive People: Spending time with people who are supportive and positive can help improve your self-esteem.",
+          "Practice Self-Compassion: Treat yourself with the same kindness and understanding that you would offer to a good friend."
+        ]
+      },
       "causes": {
         "title": "Causes of Low Self-Esteem",
         "items": [

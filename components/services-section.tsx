@@ -3,7 +3,6 @@
 import Link from "next/link"
 import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent } from "@/components/ui/card"
 import {
   ArrowRight,
   Brain,
@@ -67,10 +66,9 @@ const disorderConfig: Record<DisorderKey, DisorderConfig> = {
   selfEsteem: { icon: Sparkles, href: "/conditions/self-esteem" },
 }
 
-const disorderKeys: DisorderKey[] = [
-  "anxiety",
-  "depression",
-  "trauma",
+const featuredKeys: DisorderKey[] = ["anxiety", "depression", "trauma"]
+
+const compactKeys: DisorderKey[] = [
   "addiction",
   "adhd",
   "attachment",
@@ -107,43 +105,62 @@ export function ServicesSection() {
           </p>
         </div>
 
-        {/* Services Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {disorderKeys.map((key) => {
+        {/* Featured Conditions */}
+        <div className="grid md:grid-cols-3 gap-6 mb-6">
+          {featuredKeys.map((key) => {
             const config = disorderConfig[key]
             const Icon = config.icon
             return (
-              <Card
+              <Link
                 key={key}
-                className="group bg-card border-border/50 hover:border-primary/30 transition-all duration-300 hover:shadow-lg"
+                href={config.href}
+                className="group relative flex flex-col gap-5 p-8 rounded-2xl border border-border/50 bg-card hover:border-primary/30 hover:shadow-lg transition-all duration-300 overflow-hidden"
               >
-                <CardContent className="p-6">
-                  <div className="space-y-4">
-                    <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
-                      <Icon className="h-6 w-6 text-primary" />
-                    </div>
-                    <h3 className="text-lg font-medium text-foreground">
+                <div className="absolute top-0 right-0 w-40 h-40 bg-primary/5 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2 group-hover:bg-primary/10 transition-colors duration-300" />
+                <div className="relative flex flex-col gap-4 flex-1">
+                  <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors duration-200">
+                    <Icon className="h-6 w-6 text-primary" />
+                  </div>
+                  <div className="flex-1">
+                    <h3 className="text-xl font-medium text-foreground mb-2">
                       {t(`disorders.${key}.title`)}
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed line-clamp-3">
                       {t(`disorders.${key}.description`)}
                     </p>
-                    <Link
-                      href={config.href}
-                      className="inline-flex items-center text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-                    >
-                      {t("learnMore")}
-                      <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
-                    </Link>
                   </div>
-                </CardContent>
-              </Card>
+                  <div className="flex items-center text-sm font-medium text-primary">
+                    {t("learnMore")}
+                    <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform duration-200" />
+                  </div>
+                </div>
+              </Link>
+            )
+          })}
+        </div>
+
+        {/* Additional Specializations */}
+        <div className="flex flex-wrap gap-2.5 justify-center mb-12">
+          {compactKeys.map((key) => {
+            const config = disorderConfig[key]
+            const Icon = config.icon
+            return (
+              <Link
+                key={key}
+                href={config.href}
+                className="group flex items-center gap-2 px-4 py-2.5 rounded-full border border-border/40 bg-card hover:border-primary/40 hover:bg-primary/5 transition-all duration-200"
+              >
+                <Icon className="h-3.5 w-3.5 text-primary shrink-0" />
+                <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors duration-200 whitespace-nowrap">
+                  {t(`disorders.${key}.title`)}
+                </span>
+              </Link>
             )
           })}
         </div>
 
         {/* CTA */}
-        <div className="text-center mt-12">
+        <div className="text-center">
           <Button
             asChild
             size="lg"

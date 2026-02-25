@@ -445,7 +445,7 @@ export function DisorderPage({ disorderKey, iconName }: DisorderPageProps) {
               <div className="grid md:grid-cols-3 gap-6">
                 {t.has("effects.physical") && (
                   <div className="space-y-3">
-                    <h3 className="text-lg font-medium text-primary mb-4">Physical</h3>
+                    <h3 className="text-lg font-medium text-primary mb-4">{t("effects.physicalLabel")}</h3>
                     {(t.raw("effects.physical") as string[]).map((item, index) => (
                       <div key={index} className="flex items-start gap-3 p-3 bg-secondary/30 rounded-lg">
                         <CheckCircle className="h-4 w-4 text-primary shrink-0 mt-0.5" />
@@ -456,7 +456,7 @@ export function DisorderPage({ disorderKey, iconName }: DisorderPageProps) {
                 )}
                 {t.has("effects.emotional") && (
                   <div className="space-y-3">
-                    <h3 className="text-lg font-medium text-primary mb-4">Emotional</h3>
+                    <h3 className="text-lg font-medium text-primary mb-4">{t("effects.emotionalLabel")}</h3>
                     {(t.raw("effects.emotional") as string[]).map((item, index) => (
                       <div key={index} className="flex items-start gap-3 p-3 bg-secondary/30 rounded-lg">
                         <CheckCircle className="h-4 w-4 text-primary shrink-0 mt-0.5" />
@@ -467,7 +467,7 @@ export function DisorderPage({ disorderKey, iconName }: DisorderPageProps) {
                 )}
                 {t.has("effects.cognitive") && (
                   <div className="space-y-3">
-                    <h3 className="text-lg font-medium text-primary mb-4">Cognitive</h3>
+                    <h3 className="text-lg font-medium text-primary mb-4">{t("effects.cognitiveLabel")}</h3>
                     {(t.raw("effects.cognitive") as string[]).map((item, index) => (
                       <div key={index} className="flex items-start gap-3 p-3 bg-secondary/30 rounded-lg">
                         <CheckCircle className="h-4 w-4 text-primary shrink-0 mt-0.5" />

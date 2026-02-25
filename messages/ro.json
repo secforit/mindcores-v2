@@ -81,23 +81,23 @@
     "disorders": {
       "anxiety": {
         "title": "Tulburări de Anxietate",
-        "description": "Tratament comprehensive pentru anxietatea generalizată, atacurile de panică, anxietatea socială și fobii, folosind tehnici terapeutice dovedite."
+        "description": "Anxietatea poate apărea la mulți oameni fără avertisment și în orice etapă a vieții și este adesea prezentă alături de alte tulburări precum depresia sau tulburarea de stres post-traumatic."
       },
       "depression": {
         "title": "Depresie",
-        "description": "Abordări bazate pe dovezi pentru a te ajuta să depășești depresia, să recapeți motivația și să redescoperi bucuria în viața de zi cu zi."
+        "description": "Este complet normal ca starea noastră de spirit să se schimbe și să se schimbe pe măsură ce răspundem și ne adaptăm la numeroasele provocări ale vieții."
       },
       "trauma": {
         "title": "Traumă și PTSD",
-        "description": "Terapie EMDR specializată și tratament focusat pe traumă pentru a ajuta la procesarea experiențelor dificile și găsirea vindecării."
+        "description": "Evenimentele copleșitoare pot lăsa răni psihologice profunde care influențează modul în care gândești, simți și te conectezi cu ceilalți. Specializați în terapie EMDR și centrată pe traumă, te ajutăm să procesezi amintirile dificile și să reconstruiești un sentiment autentic de siguranță."
       },
       "relationships": {
         "title": "Probleme de Relație",
-        "description": "Consiliere individuală și de cuplu pentru a îmbunătăți comunicarea, rezolva conflictele și construi conexiuni mai puternice."
+        "description": "Relațiile sunt baza vieții noastre. Ne ajută să ne simțim în siguranță și provocați și ne ajută să învățăm și să creștem."
       },
       "stress": {
         "title": "Gestionarea Stresului",
-        "description": "Învață strategii eficiente de coping, tehnici de mindfulness și schimbări în stilul de viață pentru a gestiona stresul cronic."
+        "description": "Stresul este o problemă comună care afectează mulți oameni. Este un răspuns natural la situații dificile, dar atunci când devine cronic, poate avea un impact negativ atât asupra sănătății fizice, cât și asupra sănătății mentale."
       },
       "personalGrowth": {
         "title": "Dezvoltare Personală",
@@ -105,23 +105,23 @@
       },
       "addiction": {
         "title": "Dependență",
-        "description": "Tratament suportiv pentru dependențele de substanțe și comportamentale, concentrat pe recuperare și schimbare sustenabilă."
+        "description": "Dependența afectează semnificativ sănătatea mintală, apărând adesea alături de depresie, anxietate și PTSD. Oferim tratament suportiv, bazat pe dovezi, centrat pe recuperare sustenabilă și schimbare durabilă."
       },
       "eatingDisorders": {
         "title": "Tulburări de Alimentație",
-        "description": "Îngrijire specializată pentru anorexie, bulimie, alimentație compulsivă și alte provocări legate de alimentație."
+        "description": "Tulburările de alimentație afectează cel puțin 9% din populație și cuprind mult mai mult decât alimentele sau greutatea. Oferim îngrijire specializată și empatică pentru anorexie, bulimie, alimentație compulsivă și alte provocări conexe."
       },
       "perinatal": {
         "title": "Tulburări de Dispoziție Perinatale",
-        "description": "Suport pentru sănătatea mintală în sarcină și postpartum, inclusiv depresia și anxietatea."
+        "description": "Tranziția la parentaj aduce schimbări emoționale profunde alături de cele fizice. Oferim suport specializat pentru depresia perinatală, anxietate și provocările emoționale ale sarcinii și noii parentalități."
       },
       "grief": {
         "title": "Doliu și Pierdere",
-        "description": "Suport compasiv în doliu și tranziții de viață."
+        "description": "Pierderea și durerea sunt experiențe universale și o emoție foarte complexă care ne afectează pe toți la un moment dat în viața noastră."
       },
       "bipolar": {
         "title": "Tulburare Bipolară",
-        "description": "Management comprehensiv al episoadelor de dispoziție și stabilitate pe termen lung."
+        "description": "Tulburarea bipolară este caracterizată de schimbări semnificative de dispoziție incluzând extreme emoționale (manie sau hipomanie) și scăzute (depresie)."
       },
       "adhd": {
         "title": "ADHD",
@@ -129,23 +129,23 @@
       },
       "attachment": {
         "title": "Tulburare de Atașament",
-        "description": "Vindecarea rănilor de atașament și construirea unor pattern-uri de relație sigure."
+        "description": "Problemele de atașament pot fi destul de frecvente pentru adulți și, deși nu există un diagnostic formal, se crede adesea că provin din probleme de atașament netratate din copilărie."
       },
       "personality": {
         "title": "Tulburări de Personalitate",
-        "description": "Terapie specializată pentru pattern-uri emoționale complexe și dificultăți interpersonale."
+        "description": "Tulburările de personalitate implică pattern-uri de lungă durată de gândire, simțire și comportament care diferă de așteptările culturale și cauzează stres sau dificultăți în funcționare."
       },
       "sexualDysfunction": {
         "title": "Disfuncții Sexuale",
-        "description": "Suport sensibil și profesional pentru preocupări legate de sănătatea sexuală."
+        "description": "Disfuncția sexuală se referă la afecțiuni care afectează dorința sexuală, excitarea, orgasmul și durerea în timpul actului sexual."
       },
       "mensMentalHealth": {
         "title": "Sănătatea Mintală a Bărbaților",
-        "description": "Abordarea provocărilor unice de sănătate mintală cu care se confruntă bărbații într-un mediu suportiv."
+        "description": "Nu se poate nega că instabilitatea mentală la bărbați este, de asemenea, comună.  Bărbații pot dezvolta majoritatea acelorași tulburări și afecțiuni mentale ca și femeile, dar pot experimenta simptome diferite."
       },
       "selfEsteem": {
         "title": "Stimă de Sine",
-        "description": "Construirea încrederii și a unei imagini de sine pozitive prin suport terapeutic."
+        "description": "Stima de sine reflectă modul în care ne valorizăm și ne percepem. Stima de sine scăzută poate afecta fiecare domeniu al vieții, de la relații la carieră."
       }
     },
     "sessionInfo": {
@@ -976,6 +976,10 @@
         "combined": {
           "name": "Prezentare Combinată",
           "description": "Simptome atât de neatenție, cât și de hiperactivitate-impulsivitate."
+        },
+        "impulsive": {
+          "name": "Tipul Impulsiv",
+          "description": "Îi întrerupe adesea pe ceilalți, dificultate în așteptare la școală și în context social, dă răspunsuri fără a aștepta să fie chemat, își asumă riscuri frecvente fără a gândi înainte de a acționa."
         }
       },
       "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
@@ -990,7 +994,11 @@
           "Suport pentru gestionarea impulsivității"
         ]
       },
-      "detailedDescription": "Este una dintre cele mai frecvente turburari de neurodezvoltare din copilarie. De obicei este diagnosticat prima data in copilarie si dureaza pana la varsta adulta."
+      "detailedDescription": "Este una dintre cele mai frecvente turburari de neurodezvoltare din copilarie. De obicei este diagnosticat prima data in copilarie si dureaza pana la varsta adulta.",
+      "adultVsChildren": {
+        "title": "Cum Arată ADHD la Adulți față de Copii?",
+        "description": "ADHD se poate prezenta diferit în funcție de individ, vârstă și sex. Bărbații prezintă de obicei simptome hiperactive și/sau impulsive, în timp ce femeile prezintă adesea simptome de neatenție. Aproximativ unul din trei copii cu ADHD prezintă remisie la vârsta adultă. Simptomele de neatenție au o persistență mai mare la vârsta adultă și un declin mai lent decât simptomele de hiperactivitate și impulsivitate. La vârsta adultă, simptomele de hiperactivitate sunt simțite predominant intern, nu observate exterior."
+      }
     },
     "attachment": {
       "title": "TULBURARE DE ATAȘAMENT",
@@ -1169,6 +1177,9 @@
       "effects": {
         "title": "Efectele Doliului și Pierderii",
         "description": "Efectele doliului pot fi semnificative și de amploare. Doliul ne poate afecta bunăstarea fizică, emoțională și mintală.",
+        "physicalLabel": "Fizic",
+        "emotionalLabel": "Emoțional",
+        "cognitiveLabel": "Cognitiv",
         "physical": [
           "Nivel scăzut de energie și oboseală",
           "Modificări ale apetitului",
@@ -1377,6 +1388,13 @@
           "Tehnici de relaxare și respirație",
           "Terapia Cognitiv-Comportamentală pentru schimbarea pattern-urilor de gândire stresante",
           "Coaching pentru dezvoltarea rezilienței"
+        ]
+      },
+      "selfCare": {
+        "title": "Unele dintre modurile în care vă putem ajuta să depășiți stresul includ:",
+        "items": [
+          "Înțelegerea modalităților de a obține un echilibru sănătos între viața profesională și cea personală",
+          "Utilizarea de strategii și tehnici dovedite care gestionează eficient stresul"
         ]
       }
     },
@@ -1700,6 +1718,16 @@
         }
       },
       "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "detailedDescription": "În unele cazuri, persoanele pot să nu realizeze că au o tulburare de personalitate deoarece modul de gândire și comportare li se pare natural, sau pot chiar să dea vina pe alții pentru dificultățile pe care le au.",
+      "causes": {
+        "title": "Care Este Cauza Principală a Tulburărilor de Personalitate?",
+        "items": [
+          "În prezent, cauzele tulburărilor de personalitate nu sunt pe deplin înțelese.",
+          "Studiile actuale arată că dezvoltarea unei tulburări de personalitate se datorează unei combinații dintre mediul din copilăria timpurie și genetică.",
+          "Persoanele cu anumite tipuri de personalitate, cum ar fi tulburarea de personalitate borderline (BPD), sunt cunoscute că au rate mai ridicate de abuz, neglijare și/sau traumă din copilărie.",
+          "Tulburările de personalitate se dezvoltă de obicei în adolescență sau la începutul vârstei adulte."
+        ]
+      },
       "treatmentApproach": {
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
@@ -1748,6 +1776,31 @@
         }
       },
       "cta": "Vindecă, Restaurează și Prosperează - Remodelăm limitele și succesul tău",
+      "selfEsteemTypes": {
+        "title": "Care Sunt Cele 3 Tipuri de Stimă de Sine?",
+        "high": {
+          "name": "Stimă de Sine Ridicată",
+          "description": "Persoanele cu stimă de sine ridicată au o imagine de sine pozitivă. Sunt încrezători și confortabili cu cine sunt, menținând un echilibru sănătos între acceptarea de sine, iubirea de sine și auto-îmbunătățirea."
+        },
+        "moderate": {
+          "name": "Stimă de Sine Moderată",
+          "description": "Persoanele cu stimă de sine moderată tind să aibă o imagine de sine inconsistentă. Pot experimenta momente de încredere și îndoială de sine, iar stima de sine poate fluctua în funcție de situație."
+        },
+        "low": {
+          "name": "Stimă de Sine Scăzută",
+          "description": "Persoanele cu stimă de sine scăzută au o imagine de sine negativă. Ei au în mod constant o autopercepție negativă și pot găsi dificil să accepte complimente sau să creadă în propriile abilități."
+        }
+      },
+      "improvementStrategies": {
+        "title": "Ce Lucruri Îmbunătățesc Stima de Sine?",
+        "items": [
+          "Practică auto-îngrijirea: A avea grijă de tine fizic și emoțional, inclusiv exerciții regulate, alimentație sănătoasă și somn suficient, poate îmbunătăți stima de sine.",
+          "Stabilește obiective și lucrează pentru a le atinge: Stabilirea și atingerea obiectivelor, indiferent cât de mici, poate ajuta la construirea încrederii și stimei de sine.",
+          "Contestă gândurile negative: Când observi gânduri negative despre tine însuți, încearcă să le contești întrebându-te dacă sunt cu adevărat adevărate sau dacă ești prea dur cu tine însuți.",
+          "Înconjoară-te de oameni care te susțin: Petrecerea timpului cu oameni care sunt suportivi și pozitivi poate ajuta la îmbunătățirea stimei de sine.",
+          "Practică auto-compasiunea: Tratează-te cu aceeași bunătate și înțelegere pe care le-ai oferi unui prieten bun."
+        ]
+      },
       "causes": {
         "title": "Cauze ale Stimei de Sine Scăzute",
         "items": [

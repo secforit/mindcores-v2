@@ -81,23 +81,23 @@
     "disorders": {
       "anxiety": {
         "title": "Angststörungen",
-        "description": "Umfassende Behandlung von generalisierter Angst, Panikattacken, sozialer Angst und Phobien mit bewährten therapeutischen Techniken."
+        "description": "Angstzustände können bei vielen Menschen ohne Vorwarnung und in jeder Phase unseres Lebens auftreten und treten oft neben anderen Störungen wie Depressionen oder posttraumatischen Belastungsstörungen auf."
       },
       "depression": {
         "title": "Depression",
-        "description": "Evidenzbasierte Ansätze, um Ihnen zu helfen, Depressionen zu überwinden, Motivation zurückzugewinnen und Freude im Alltag wiederzuentdecken."
+        "description": "Es ist völlig normal, dass sich unsere Stimmungen verändern und verändern, wenn wir auf die vielen Herausforderungen des Lebens reagieren und uns daran anpassen."
       },
       "trauma": {
         "title": "Trauma & PTBS",
-        "description": "Spezialisierte EMDR-Therapie und traumafokussierte Behandlung zur Verarbeitung schwieriger Erfahrungen und Heilung."
+        "description": "Belastende Erlebnisse können tiefe seelische Wunden hinterlassen, die das Denken, Fühlen und die Verbindung zu anderen prägen. Spezialisiert auf EMDR und traumafokussierte Therapie helfen wir Ihnen, schwierige Erinnerungen zu verarbeiten und ein echtes Sicherheitsgefühl zurückzugewinnen."
       },
       "relationships": {
         "title": "Beziehungsprobleme",
-        "description": "Einzel- und Paarberatung zur Verbesserung der Kommunikation, Konfliktlösung und zum Aufbau stärkerer Verbindungen."
+        "description": "Beziehungen sind die Grundlage unseres Lebens. Sie helfen uns, uns sicher und herausgefordert zu fühlen, und helfen uns, zu lernen und zu wachsen."
       },
       "stress": {
         "title": "Stressmanagement",
-        "description": "Erlernen Sie effektive Bewältigungsstrategien, Achtsamkeitstechniken und Lebensstiländerungen zur Bewältigung von chronischem Stress."
+        "description": "Chronischer Stress belastet die körperliche und psychische Gesundheit erheblich. Wir helfen Ihnen, effektive Bewältigungsstrategien, Achtsamkeitstechniken und nachhaltige Veränderungen zu entwickeln, um inneres Gleichgewicht wiederzufinden."
       },
       "personalGrowth": {
         "title": "Persönliches Wachstum",
@@ -105,47 +105,47 @@
       },
       "addiction": {
         "title": "Sucht",
-        "description": "Unterstützende Behandlung für Substanz- und Verhaltenssüchte mit Fokus auf Genesung und nachhaltige Veränderung."
+        "description": "Sucht beeinträchtigt die psychische Gesundheit erheblich und tritt häufig zusammen mit Depressionen, Angststörungen und PTBS auf. Wir bieten unterstützende, evidenzbasierte Behandlung mit Fokus auf nachhaltige Genesung und dauerhaften Wandel."
       },
       "eatingDisorders": {
         "title": "Essstörungen",
-        "description": "Spezialisierte Betreuung bei Anorexie, Bulimie, Essattacken und anderen essbezogenen Herausforderungen."
+        "description": "Essstörungen betreffen viele Menschen auf der Welt. Den Statistiken zufolge zeigt dieses bedeutende globale Gesundheitsproblem, dass mindestens 9 % der Bevölkerung irgendwann in ihrem Leben an einer Essstörung leiden werden."
       },
       "perinatal": {
         "title": "Perinatale Stimmungsstörungen",
-        "description": "Unterstützung für die psychische Gesundheit in der Schwangerschaft und nach der Geburt, einschließlich Depression und Angst."
+        "description": "Der Übergang zur Elternschaft bringt tiefgreifende emotionale Veränderungen mit sich. Wir bieten spezialisierte Unterstützung bei perinataler Depression, Angst und den emotionalen Herausforderungen der frühen Elternschaft."
       },
       "grief": {
         "title": "Trauer & Verlust",
-        "description": "Einfühlsame Unterstützung bei Trauer und Lebensübergängen."
+        "description": "Verlust und Trauer können jeden Bereich des Lebens tiefgreifend beeinflussen. Wir begleiten Sie einfühlsam durch Trauerprozesse, Lebensübergänge und die komplexen Gefühle, die mit Verlust einhergehen."
       },
       "bipolar": {
         "title": "Bipolare Störung",
-        "description": "Umfassendes Management von Stimmungsepisoden und langfristiger Stabilität."
+        "description": "Die bipolare Störung ist durch signifikante Stimmungsschwankungen gekennzeichnet, einschließlich emotionaler Hochs (Manie oder Hypomanie) und Tiefs (Depression)."
       },
       "adhd": {
         "title": "ADHS",
-        "description": "Bewertung und Behandlung von Aufmerksamkeits- und Hyperaktivitätsproblemen bei Erwachsenen und Jugendlichen."
+        "description": "Die Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) ist eine neurologische Entwicklungsstörung, die sowohl Kinder als auch Erwachsene betrifft."
       },
       "attachment": {
         "title": "Bindungsstörung",
-        "description": "Heilung von Bindungsverletzungen und Aufbau sicherer Beziehungsmuster."
+        "description": "Bindungsprobleme können bei Erwachsenen recht häufig auftreten, und obwohl es keine formelle Diagnose gibt, wird oft angenommen, dass sie auf unbehandelte Bindungsprobleme aus der Kindheit zurückzuführen sind."
       },
       "personality": {
         "title": "Persönlichkeitsstörungen",
-        "description": "Spezialisierte Therapie für komplexe Persönlichkeitsmuster und zwischenmenschliche Schwierigkeiten."
+        "description": "Persönlichkeitsstörungen umfassen lang anhaltende Muster des Denkens, Fühlens und Verhaltens, die von kulturellen Erwartungen abweichen und Leiden oder Funktionsschwierigkeiten verursachen."
       },
       "sexualDysfunction": {
         "title": "Sexuelle Dysfunktionen",
-        "description": "Sensible und professionelle Unterstützung bei Anliegen der sexuellen Gesundheit."
+        "description": "Sexuelle Dysfunktion bezieht sich auf Zustände, die sich auf das sexuelle Verlangen, die Erregung, den Orgasmus und die Schmerzen beim Geschlechtsverkehr auswirken."
       },
       "mensMentalHealth": {
         "title": "Psychische Gesundheit von Männern",
-        "description": "Behandlung einzigartiger psychischer Gesundheitsherausforderungen von Männern in einer unterstützenden Umgebung."
+        "description": "Männer können die meisten psychischen Erkrankungen entwickeln, stehen aber oft vor einzigartigen sozialen Hürden bei der Suche nach Hilfe. Wir bieten eine unterstützende, vorurteilsfreie Umgebung für die psychische Gesundheit von Männern."
       },
       "selfEsteem": {
         "title": "Selbstwertgefühl",
-        "description": "Aufbau von Selbstvertrauen und positivem Selbstbild durch therapeutische Unterstützung."
+        "description": "Das Selbstwertgefühl spiegelt wider, wie wir uns selbst wertschätzen und wahrnehmen. Ein niedriges Selbstwertgefühl kann jeden Lebensbereich beeinflussen, von Beziehungen bis zur Karriere."
       }
     },
     "sessionInfo": {
@@ -981,6 +981,10 @@
         "combined": {
           "name": "Kombinierte Präsentation",
           "description": "Symptome sowohl von Unaufmerksamkeit als auch von Hyperaktivität-Impulsivität."
+        },
+        "impulsive": {
+          "name": "Der Impulsive Typ",
+          "description": "Unterbricht häufig andere, Schwierigkeiten beim Warten in der Schule und in sozialen Situationen, antwortet ohne abgewartet zu werden, geht häufig Risiken ein, ohne vorher nachzudenken."
         }
       },
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
@@ -994,6 +998,10 @@
           "Coaching zur Entwicklung exekutiver Fähigkeiten",
           "Unterstützung beim Umgang mit Impulsivität"
         ]
+      },
+      "adultVsChildren": {
+        "title": "Wie zeigt sich ADHS bei Erwachsenen im Vergleich zu Kindern?",
+        "description": "ADHS kann sich je nach Person, Alter und Geschlecht unterschiedlich zeigen. Männer zeigen typischerweise hyperaktive und/oder impulsive Symptome, während Frauen oft Unaufmerksamkeitssymptome aufweisen. Etwa eines von drei Kindern mit ADHS erlebt bis zum Erwachsenenalter eine Remission. Unaufmerksamkeitssymptome bleiben stärker bis ins Erwachsenenalter bestehen und nehmen langsamer ab als Hyperaktivitäts- und Impulsivitätssymptome. Im Erwachsenenalter werden Hyperaktivitätssymptome vorwiegend innerlich gespürt und weniger nach außen sichtbar."
       }
     },
     "attachment": {
@@ -1173,6 +1181,9 @@
       "effects": {
         "title": "Auswirkungen von Trauer und Verlust",
         "description": "Die Auswirkungen von Trauer können erheblich und weitreichend sein. Trauer kann unser körperliches, emotionales und geistiges Wohlbefinden beeinflussen.",
+        "physicalLabel": "Körperlich",
+        "emotionalLabel": "Emotional",
+        "cognitiveLabel": "Kognitiv",
         "physical": [
           "Niedriges Energieniveau und Müdigkeit",
           "Appetitveränderungen",
@@ -1382,6 +1393,13 @@
           "Kognitive Verhaltenstherapie zur Änderung stressauslösender Denkmuster",
           "Coaching zur Entwicklung von Resilienz"
         ]
+      },
+      "selfCare": {
+        "title": "Einige der Möglichkeiten, wie wir Ihnen helfen können, Stress zu überwinden, sind:",
+        "items": [
+          "Wege zu einer gesunden Work-Life-Balance verstehen",
+          "Einsatz bewährter Strategien und Techniken zur effektiven Stressbewältigung"
+        ]
       }
     },
     "perinatal": {
@@ -1389,12 +1407,19 @@
       "subtitle": "Perinatale psychische Gesundheit Verstehen",
       "intro": "Obwohl jede Erfahrung anders ist, ist die Geburt eines Babys ein bedeutendes Lebensereignis. Ähnlich wie bei den körperlichen Veränderungen, die wir während der Schwangerschaft durchmachen, kann es mit jedem Trimester viele emotionale Veränderungen geben. Es ist zwar eine Zeit der Freude, Aufregung und vieler Premieren, aber sie kann auch mit einem gewissen Maß an Angst oder \"Höhen und Tiefen\" in der Stimmung einhergehen. Obwohl es normal ist, diese Emotionen zu erleben, wenn man ein Baby erwartet, entwickeln einige von uns ein intensiveres Maß an Angst oder schlechter Stimmung, was sich auf unser tägliches Leben auswirken kann. Wenn dies während der Schwangerschaft auftritt, wird es als vorgeburtliche Angst oder vorgeburtliche Depression bezeichnet.",
       "symptoms": {
-        "title": "Wie man mit den Symptomen einer perinatalen Depression umgeht",
+        "title": "Anzeichen einer perinatalen Depression",
         "items": [
-          "Raus in die Sonne. In Sonnenlicht und an der frischen Luft zu sein, kann unsere Stimmung deutlich verbessern. Obwohl es als Eltern schwierig sein kann, sich um sich selbst zu kümmern, können 10-15 Minuten in der Sonne und in der Natur unsere Stimmung positiv beeinflussen.",
-          "Bringen Sie Bewegung wieder in Ihre Routine auf. Es ist bekannt, dass körperliche Aktivität die Symptome von Depressionen lindert und das psychische Wohlbefinden verbessert. Je nachdem, in welcher Phase wir uns befinden (z. B. einige Wochen nach der Geburt), können wir mit sanften Übungen wie Gehen beginnen, mit dem Ziel, 20-30 Minuten pro Tag aktiv zu sein.",
-          "Ruhepause. Untersuchungen haben gezeigt, dass Frauen, die am wenigsten Schlaf bekamen, mit depressiveren Symptomen verbunden waren. Je nachdem, in welchem Stadium wir uns befinden, kann es sein, dass unser Baby die Nacht nicht durchschläft. Wenn wir um zusätzliche Unterstützung bitten oder sie suchen, können wir früher ins Bett gehen oder tagsüber Zeit für ein Nickerchen finden.",
-          "Widerstehen Sie der Isolation. Viele Studien haben gezeigt, dass es helfen kann, mit anderen über unsere Gefühle zu sprechen, um unsere Stimmung zu steuern. Auch wenn wir das Gefühl haben, auf Autopilot zu laufen, kann es eine große Hilfe sein, sich Zeit zu nehmen, um mit anderen Erwachsenen oder Müttern zu sprechen, um Unterstützung zu erhalten."
+          "Anhaltende Sorge um die Gesundheit oder das Wohlbefinden Ihres Babys",
+          "Ständiges Gefühl der Niedergeschlagenheit, Hoffnungslosigkeit oder Leere",
+          "Plötzliche Stimmungsschwankungen",
+          "Häufige Traurigkeit oder Weinen (ohne offensichtlichen Grund)",
+          "Nervosität oder ständige Panik",
+          "Aufdringliche Gedanken und zwanghaftes Verhalten (z.B. unerwünschte Gedanken über die Verletzung Ihres Babys)",
+          "Kurzatmigkeit",
+          "Wenig Energie",
+          "Schlechter Schlaf",
+          "Das Gefühl, von der Umgebung 'losgelöst' zu sein",
+          "Suizidgedanken oder -verhalten"
         ]
       },
       "types": {
@@ -1697,6 +1722,16 @@
         }
       },
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
+      "detailedDescription": "In manchen Fällen bemerken Menschen möglicherweise nicht, dass sie eine Persönlichkeitsstörung haben, weil die Art des Denkens und Verhaltens für sie natürlich erscheint, oder sie geben möglicherweise sogar anderen die Schuld für die Schwierigkeiten, die sie haben.",
+      "causes": {
+        "title": "Was Ist Die Grundursache Von Persönlichkeitsstörungen?",
+        "items": [
+          "Derzeit sind die Ursachen von Persönlichkeitsstörungen nicht vollständig verstanden.",
+          "Aktuelle Studien zeigen, dass die Entwicklung einer Persönlichkeitsstörung auf eine Kombination aus frühkindlichem Umfeld und Genetik zurückzuführen ist.",
+          "Menschen mit bestimmten Persönlichkeitstypen, wie der Borderline-Persönlichkeitsstörung (BPD), sind bekannt dafür, höhere Raten von Kindheitsmissbrauch, Vernachlässigung und/oder Trauma aufzuweisen.",
+          "Persönlichkeitsstörungen entwickeln sich in der Regel in der Jugend oder im frühen Erwachsenenalter."
+        ]
+      },
       "treatmentApproach": {
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
@@ -1745,6 +1780,31 @@
         }
       },
       "cta": "Heilen, Wiederherstellen und Gedeihen - Wir modellieren Ihre Grenzen und Ihren Erfolg neu",
+      "selfEsteemTypes": {
+        "title": "Was Sind Die 3 Arten Von Selbstwertgefühl?",
+        "high": {
+          "name": "Hohes Selbstwertgefühl",
+          "description": "Menschen mit hohem Selbstwertgefühl haben ein positives Selbstbild. Sie sind selbstbewusst und fühlen sich wohl mit dem, wer sie sind, während sie eine gesunde Balance zwischen Selbstakzeptanz, Selbstliebe und Selbstverbesserung aufrechterhalten."
+        },
+        "moderate": {
+          "name": "Moderates Selbstwertgefühl",
+          "description": "Menschen mit moderatem Selbstwertgefühl neigen zu einem inkonsistenten Selbstbild. Sie können Momente des Selbstvertrauens und der Selbstzweifel erleben, und ihr Selbstwertgefühl kann je nach Situation schwanken."
+        },
+        "low": {
+          "name": "Geringes Selbstwertgefühl",
+          "description": "Menschen mit geringem Selbstwertgefühl haben ein negatives Selbstbild. Sie haben konsequent eine negative Selbstwahrnehmung und finden es möglicherweise schwierig, Komplimente anzunehmen oder an ihre eigenen Fähigkeiten zu glauben."
+        }
+      },
+      "improvementStrategies": {
+        "title": "Was Verbessert Das Selbstwertgefühl?",
+        "items": [
+          "Selbstfürsorge praktizieren: Sich physisch und emotional um sich selbst zu kümmern, einschließlich regelmäßiger Bewegung, gesunder Ernährung und ausreichend Schlaf, kann das Selbstwertgefühl verbessern.",
+          "Ziele setzen und daran arbeiten: Das Setzen und Erreichen von Zielen, egal wie klein, kann helfen, Selbstvertrauen und Selbstwertgefühl aufzubauen.",
+          "Negative Gedanken hinterfragen: Wenn Sie negative Gedanken über sich selbst bemerken, versuchen Sie diese zu hinterfragen, indem Sie sich fragen, ob sie wirklich wahr sind oder ob Sie zu hart zu sich selbst sind.",
+          "Umgeben Sie sich mit unterstützenden Menschen: Zeit mit Menschen zu verbringen, die unterstützend und positiv sind, kann helfen, das Selbstwertgefühl zu verbessern.",
+          "Selbstmitgefühl üben: Behandeln Sie sich selbst mit derselben Freundlichkeit und dem Verständnis, das Sie einem guten Freund entgegenbringen würden."
+        ]
+      },
       "causes": {
         "title": "Ursachen für geringes Selbstwertgefühl",
         "items": [
