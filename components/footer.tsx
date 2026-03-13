@@ -55,6 +55,25 @@ export function Footer() {
             <div className="text-xs text-background/50 leading-relaxed mt-2">
               {t("accreditations")}
             </div>
+            <div className="flex flex-wrap items-center gap-3 mt-3">
+              {[
+                { src: "/accreditations/cpr-romania.jpeg", alt: "CPR Romania" },
+                { src: "/accreditations/bdp.png", alt: "BDP" },
+                { src: "/accreditations/iopt.png", alt: "IoPT" },
+                { src: "/accreditations/dvnlp.png", alt: "DVNLP" },
+                { src: "/accreditations/vfp.jpeg", alt: "VFP" },
+                { src: "/accreditations/eca-nexus.jpg", alt: "Schweizerische Eidgenossenschaft" },
+              ].map((logo) => (
+                <Image
+                  key={logo.alt}
+                  src={logo.src}
+                  alt={logo.alt}
+                  width={40}
+                  height={40}
+                  className="h-8 w-auto brightness-0 invert opacity-60 hover:opacity-100 transition-opacity"
+                />
+              ))}
+            </div>
           </div>
 
           {/* Quick Links */}
@@ -117,12 +136,20 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-primary shrink-0" />
-                <a
-                  href={`tel:${tContact("phoneValue").replace(/\s/g, "")}`}
-                  className="text-sm text-background/70 hover:text-primary transition-colors"
-                >
-                  {tContact("phoneValue")}
-                </a>
+                <div className="flex flex-col gap-1">
+                  <a
+                    href={`tel:${tContact("phoneValue").replace(/\s/g, "")}`}
+                    className="text-sm text-background/70 hover:text-primary transition-colors"
+                  >
+                    {tContact("phoneValue")}
+                  </a>
+                  <a
+                    href={`tel:${tContact("phoneValueRo").replace(/\s/g, "")}`}
+                    className="text-sm text-background/70 hover:text-primary transition-colors"
+                  >
+                    {tContact("phoneValueRo")}
+                  </a>
+                </div>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-primary shrink-0" />
@@ -142,7 +169,7 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-background/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-background/50">
-              © {new Date().getFullYear()} Mindcores - Dipl. Psych. Raluca Diana Tocoian. {t("allRightsReserved")}
+              © {new Date().getFullYear()} Mindcores - Raluca-Diana Tocoian. {t("allRightsReserved")}
             </p>
             <div className="flex items-center gap-6">
               <Link

@@ -5,7 +5,7 @@ import { useTranslations } from "next-intl"
 import { Card, CardContent } from "@/components/ui/card"
 import { ArrowRight } from "lucide-react"
 
-type TherapyKey = "emdr" | "mindfulness" | "cbt" | "nlp" | "family" | "couples" | "positivePsychotherapy" | "systemicConstellation" | "solutionFocused" | "identityTrauma" | "schemaTherapy" | "dbt" | "act" | "systemicCounseling" | "bioenergetic"
+type TherapyKey = "nlp" | "family" | "couples" | "positivePsychotherapy" | "systemicConstellation" | "solutionFocused" | "identityTrauma" | "systemicCounseling" | "bioenergetic" | "mindfulness"
 
 interface TherapyConfig {
   key: TherapyKey
@@ -14,21 +14,16 @@ interface TherapyConfig {
 }
 
 const therapyConfigs: TherapyConfig[] = [
-  { key: "emdr", highlight: true, slug: "emdr" },
-  { key: "mindfulness", highlight: false, slug: "mindfulness" },
-  { key: "cbt", highlight: false, slug: "cbt" },
   { key: "nlp", highlight: true, slug: "nlp" },
   { key: "family", highlight: false, slug: "family" },
   { key: "couples", highlight: false, slug: "couples" },
   { key: "positivePsychotherapy", highlight: false, slug: "positive-psychotherapy" },
   { key: "systemicConstellation", highlight: true, slug: "systemic-constellation" },
   { key: "solutionFocused", highlight: false, slug: "solution-focused" },
-  { key: "identityTrauma", highlight: false, slug: "identity-trauma" },
-  { key: "schemaTherapy", highlight: false, slug: "schema-therapy" },
-  { key: "dbt", highlight: true, slug: "dbt" },
-  { key: "act", highlight: false, slug: "act" },
+  { key: "identityTrauma", highlight: true, slug: "identity-trauma" },
   { key: "systemicCounseling", highlight: false, slug: "systemic-counseling" },
   { key: "bioenergetic", highlight: false, slug: "bioenergetic" },
+  { key: "mindfulness", highlight: false, slug: "mindfulness" },
 ]
 
 export function TherapiesSection() {

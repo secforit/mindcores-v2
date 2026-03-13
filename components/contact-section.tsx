@@ -57,17 +57,20 @@ export function ContactSection() {
             {/* Phone */}
             <Card className="bg-secondary/30 border-border/50">
               <CardContent className="p-6">
-                <a href={`tel:${t("phoneValue").replace(/\s/g, "")}`} className="flex items-start gap-4 group">
-                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
+                <div className="flex items-start gap-4">
+                  <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0">
                     <Phone className="h-5 w-5 text-primary" />
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground mb-1">{t("phone")}</p>
-                    <p className="font-medium text-foreground group-hover:text-primary transition-colors">
+                    <a href={`tel:${t("phoneValue").replace(/\s/g, "")}`} className="block font-medium text-foreground hover:text-primary transition-colors">
                       {t("phoneValue")}
-                    </p>
+                    </a>
+                    <a href={`tel:${t("phoneValueRo").replace(/\s/g, "")}`} className="block font-medium text-foreground hover:text-primary transition-colors">
+                      {t("phoneValueRo")}
+                    </a>
                   </div>
-                </a>
+                </div>
               </CardContent>
             </Card>
 

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Diana Raluca | Psychologische Praxis",
-    "description": "Professionelle psychologische Dienstleistungen mit EMDR, Achtsamkeit, NLP und verschiedenen therapeutischen Ansätzen für Angst, Depression, Trauma und mehr."
+    "description": "Professionelle psychologische Dienstleistungen mit IoPT, NLP, Achtsamkeit und verschiedenen therapeutischen Ansätzen für Angst, Depression, Trauma und mehr."
   },
   "nav": {
     "home": "Startseite",
@@ -28,21 +28,21 @@
   },
   "about": {
     "tagline": "Über Mich",
-    "titleStart": "Dipl. Psych.",
+    "titleStart": "Klinische Psychologin und Psychotherapeutin",
     "titleHighlight": "Raluca Diana Tocoian",
     "titleEnd": "",
-    "description": "Als Heilpraktikerin für Psychotherapie widme ich mich der Begleitung von Menschen auf ihrem Weg zu psychischer Gesundheit durch evidenzbasierte therapeutische Ansätze. Mit vertieften Kenntnissen in Schema-Therapie, ACT, DBT und Ausbildung in IoPT 'Identitätsorientierte Psychotrauma-Theorie' entwickelt von Prof. Dr. Franz Ruppert durch die Intentions-Methode, biete ich personalisierte Betreuung in einer warmen, unterstützenden Umgebung. Beratungen biete ich auf Deutsch, Rumänisch und Englisch an.",
+    "description": "Ich widme mich der Begleitung von Menschen auf ihrem Weg zu psychischer Gesundheit durch evidenzbasierte therapeutische Ansätze. Ich habe meine therapeutischen Kenntnisse in Familien- und Paartherapie, systemischer Beratung, NLP, positiver Psychotherapie, IoPT 'Identitätsorientierte Psychotrauma-Theorie' entwickelt von Prof. Dr. Franz Ruppert durch die Intentions-Methode vertieft. Aus persönlichem und beruflichem Interesse habe ich meine Kenntnisse auch in Achtsamkeit, ACT, DBT, Schema-Therapie, Psychoanalyse und Transaktionsanalyse vertieft. Ich biete personalisierte Betreuung in einer warmen, unterstützenden Umgebung. Beratungen sind auf Anfrage auf Deutsch, Rumänisch und Englisch möglich.",
     "yearsOfExcellence": "Jahre Exzellenz",
     "qualifications": {
       "title": "Qualifikationen",
       "items": [
-        "Heilpraktikerin für Psychotherapie",
-        "Spezialistin für Identitätsorientierte Traumatherapie (IoPT)",
-        "Positive & Transkulturelle Psychotherapie",
-        "Systemische Familien- und Paartherapie",
-        "Zertifizierte NLP Master Practitioner",
+        "Klinische Psychologin und Psychotherapeutin",
+        "IoPT, Spezialisierung in identitätsorientierter Traumatherapie",
+        "Positive und transkulturelle Psychotherapie",
+        "Familien- und Paartherapie",
+        "NLP Trainer",
         "Psychosexualitätsberatung",
-        "Schema-Therapie, ACT & DBT ausgebildet"
+        "Systemische Beratung"
       ]
     },
     "values": {
@@ -273,7 +273,7 @@
         }
       },
       "nlp": {
-        "name": "NLP-Techniken",
+        "name": "NLP",
         "description": "Neuro-Linguistische Programmierungsmethoden zur Transformation einschränkender Überzeugungen und Schaffung positiver Verhaltensänderungen.",
         "fullTitle": "Neuro-Linguistisches Programmieren (NLP)",
         "intro": "NLP wird als Methode der persönlichen Entwicklung verwendet, um Fähigkeiten wie Selbstreflexion, Selbstvertrauen und Kommunikation zu fördern. Die Technik verändert Gedanken und Verhaltensweisen, um gewünschte Ergebnisse zu erreichen.",
@@ -571,6 +571,7 @@
     "description": "Machen Sie den ersten Schritt zum psychischen Wohlbefinden. Kontaktieren Sie uns für eine vertrauliche Beratung und entdecken Sie, wie wir zusammenarbeiten können.",
     "phone": "Telefon",
     "phoneValue": "+49 163 786 5012",
+    "phoneValueRo": "+40 745 671 737",
     "email": "E-Mail",
     "emailValue": "dianatocoian@mindcores.org",
     "location": "Standort",
@@ -599,7 +600,7 @@
   },
   "footer": {
     "brandName": "Mindcores",
-    "brandDescription": "Dipl. Psych. Raluca Diana Tocoian - Heilpraktikerin für Psychotherapie. Gewidmet der Begleitung von Menschen zum psychischen Wohlbefinden durch evidenzbasierte therapeutische Ansätze und mitfühlende Betreuung.",
+    "brandDescription": "Raluca-Diana Tocoian - Klinische Psychologin und Psychotherapeutin. Gewidmet der Begleitung von Menschen zum psychischen Wohlbefinden durch evidenzbasierte therapeutische Ansätze und mitfühlende Betreuung.",
     "quickLinks": "Schnelllinks",
     "services": "Leistungen",
     "contact": "Kontakt",
@@ -613,8 +614,8 @@
     "privacyPolicy": "Datenschutz",
     "termsOfService": "Nutzungsbedingungen",
     "impressum": "Impressum",
-    "professionalLicense": "Zugelassen durch Gesundheitsamt Ingolstadt",
-    "accreditations": "Akkreditiert von CPR Rumänien | Anerkannt von BDP Deutschland | Mitglied WAPP, IoPT, NLP | Mitglied VFP (Deutschland)"
+    "professionalLicense": "Gesundheitsamt Ingolstadt",
+    "accreditations": "CPR România | BDP | WAPP | IoPT | NLP | VFP | Gesundheitsamt Ingolstadt | Schweizerische Eidgenossenschaft"
   },
   "conditions": {
     "anxiety": {
@@ -697,11 +698,11 @@
         "title": "Unser Therapeutischer Ansatz",
         "description": "Wir verwenden eine Kombination evidenzbasierter Techniken zur Behandlung von Angst, angepasst an Ihre individuellen Bedürfnisse.",
         "methods": [
-          "Kognitive Verhaltenstherapie (KVT) zur Identifizierung und Umstrukturierung ängstlicher Gedanken",
-          "EMDR zur Verarbeitung traumatischer Erfahrungen, die Angst nähren",
-          "Achtsamkeits- und Entspannungstechniken zur Bewältigung körperlicher Symptome",
-          "Akzeptanz- und Commitment-Therapie (ACT) für psychologische Flexibilität",
-          "NLP zur Transformation einschränkender Überzeugungen",
+          "Identifizierung und Umstrukturierung ängstlicher Gedanken",
+          "Übungen zur Verarbeitung traumatischer Erfahrungen, die Angst schüren",
+          "Entspannungs- und Achtsamkeitstechniken zur Bewältigung körperlicher Symptome",
+          "Psychologische Flexibilität durch Akzeptanz und Engagement",
+          "Transformation einschränkender Überzeugungen",
           "Atem- und Erdungsübungen bei Panikattacken"
         ]
       },
@@ -778,12 +779,12 @@
         "title": "Unser Therapeutischer Ansatz",
         "description": "Wir bieten einen personalisierten Behandlungsplan, der mehrere therapeutische Ansätze kombiniert.",
         "methods": [
-          "Kognitive Verhaltenstherapie zur Umstrukturierung negativer Gedanken",
-          "Schema-Therapie für tief verwurzelte emotionale Muster",
-          "Verhaltensaktivierung zur Wiedergewinnung von Motivation und Freude",
-          "Achtsamkeitstechniken für Bewusstsein und Selbstmitgefühl",
-          "EMDR bei traumabedingter Depression",
-          "Interpersonelle Therapie zur Verbesserung von Beziehungen"
+          "Identifizierung und Umstrukturierung negativer Gedanken",
+          "Identifizierung tief verwurzelter emotionaler Muster",
+          "Verhaltensaktivierung zur Wiedererlangung von Motivation und Freude",
+          "Selbstmitgefühl- und Bewusstseinstechniken",
+          "Ansätze zur Verbesserung zwischenmenschlicher Beziehungen",
+          "Psychologische Flexibilität durch Akzeptanz und Engagement"
         ]
       },
       "warningSignsDetailed": {
@@ -854,12 +855,12 @@
         "title": "Unser Therapeutischer Ansatz",
         "description": "Wir bieten spezialisierte Traumabehandlung mit wissenschaftlich validierten Methoden.",
         "methods": [
-          "EMDR - Goldstandard-Behandlung, anerkannt von WHO und APA für PTBS",
-          "Identitätsorientierte Psychotrauma-Therapie (IoPT) - spezialisierte Methode von Prof. Dr. Franz Ruppert",
-          "Traumafokussierte Kognitive Verhaltenstherapie",
+          "EMDR-Techniken",
+          "Identitätsorientierte Psychotrauma-Therapie (IoPT)",
           "Stabilisierungs- und Erdungstechniken",
-          "Schema-Therapie für traumabedingte Muster",
-          "Somatische Verarbeitung und Körperarbeit"
+          "Skills",
+          "Identifizierung traumabedingter Muster",
+          "Psychosomatische Verarbeitung und Körperarbeit"
         ]
       },
       "ptsdDetailed": {
@@ -944,12 +945,12 @@
       "treatmentApproach": {
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
-          "Kognitive Verhaltenstherapie zur Identifizierung und Änderung von Denkmustern",
-          "Traumafokussierte Therapie zur Behandlung zugrundeliegender Ursachen",
-          "Achtsamkeitstechniken zur Bewältigung von Verlangen und Impulsen",
-          "Gruppentherapie und Genesungsunterstützung",
+          "Identifizierung und Veränderung von Denkmustern",
+          "Traumafokussierter Ansatz zur Behandlung zugrunde liegender Ursachen",
+          "Techniken zur Bewältigung von Impulsen und Verlangen",
+          "Gruppentherapie und Unterstützung bei der Genesung",
           "Entwicklung gesunder Bewältigungsmechanismen",
-          "Dualer Ansatz - gleichzeitige Behandlung von Sucht und assoziierten psychischen Erkrankungen"
+          "Dualer Ansatz - gleichzeitige Behandlung der Sucht und damit verbundener psychischer Erkrankungen"
         ]
       }
     },
@@ -1074,9 +1075,9 @@
       "treatmentApproach": {
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
-          "Schema-Therapie für Bindungsmuster",
+          "Fokussierung auf Bindungsmuster",
           "IoPT - Identitätsorientierte Psychotrauma-Therapie",
-          "Emotionsfokussierte Therapie zur Heilung von Bindungswunden",
+          "Emotionsfokussierter Ansatz zur Heilung von Bindungswunden",
           "Identifizierung von Auslösern und Emotionsmanagement",
           "Entwicklung gesunder sozialer Verhaltensweisen",
           "Anleitung bei der Wahl gesunder Partner"
@@ -1132,12 +1133,13 @@
         "title": "Unser Therapeutischer Ansatz",
         "description": "Die Genesung von einer Essstörung ist mit der richtigen Behandlung absolut möglich.",
         "methods": [
-          "Kognitive Verhaltenstherapie angepasst für Essstörungen",
-          "Schema-Therapie für zugrundeliegende emotionale Muster",
-          "Achtsames Essen und Körperreconnection-Techniken",
-          "Behandlung zugrundeliegender Traumata durch EMDR",
+          "Kognitiv-verhaltensorientierte Ausrichtung und Fokussierung angepasst für Essstörungen",
+          "Identifizierung zugrunde liegender emotionaler Muster",
+          "Achtsames Essen Techniken",
+          "Fokussierung auf die Wiederverbindung mit dem Körper",
+          "Behandlung zugrunde liegender Traumata",
           "Arbeit mit Körperbild und Selbstwertgefühl",
-          "In den therapeutischen Prozess integrierte Ernährungsunterstützung"
+          "Ernährungsunterstützung integriert in den therapeutischen Prozess"
         ]
       }
     },
@@ -1471,10 +1473,10 @@
       "treatmentApproach": {
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
-          "Spezialisierte Beurteilung für perinatale Störungen",
-          "Kognitive Verhaltenstherapie angepasst für die perinatale Zeit",
-          "Unterstützung bei der Mutter-Kind-Bindung",
-          "Achtsamkeitstechniken zur Angstbewältigung",
+          "Spezialisierte Beurteilung perinataler Störungen",
+          "Kognitiv-verhaltensorientierte Ausrichtung und Fokussierung angepasst für die perinatale Zeit",
+          "Unterstützung beim Aufbau der Mutter-Kind-Bindung",
+          "Entspannungs- und Achtsamkeitstechniken zur Angstbewältigung",
           "Paarberatung für den Übergang zur Elternschaft",
           "Planung zur Rückfallprävention"
         ]
@@ -1552,10 +1554,10 @@
       "treatmentApproach": {
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
-          "Sensible und professionelle psychosexuelle Beratung",
-          "Kognitive Verhaltenstherapie bei Leistungsangst",
-          "EMDR bei sexuellem Trauma",
-          "Achtsamkeits- und Körperreconnection-Techniken",
+          "Einfühlsame und professionelle psychosexuelle Beratung",
+          "Kognitiv-verhaltensorientierter Ansatz und Fokus bei Leistungsangst",
+          "Techniken und Fokussierung bei sexuellem Trauma",
+          "Achtsamkeits- und Körperverbindungstechniken",
           "Paarberatung zur Verbesserung der intimen Kommunikation",
           "Spezifische Übungen zur Verbesserung der sexuellen Funktion"
         ]
@@ -1683,8 +1685,8 @@
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
           "Psychoedukation über bipolare Störung und Symptommanagement",
-          "Kognitive Verhaltenstherapie zur Bewältigung von Episoden",
-          "Emotionsregulations- und Achtsamkeitstechniken",
+          "Kognitiv-verhaltensorientierte Fokussierung bei der Bewältigung von Episoden",
+          "Techniken zur Emotionsregulation, Achtsamkeit und Entspannung",
           "Stimmungsüberwachung und Identifizierung von Warnzeichen",
           "Unterstützung bei der Therapietreue",
           "Interpersonelle und soziale Rhythmustherapie"
@@ -1736,11 +1738,16 @@
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
           "Schema-Therapie - spezialisierter Ansatz für Persönlichkeitsstörungen",
-          "DBT (Dialektisch-Behaviorale Therapie) - insbesondere bei Borderline",
+          "Therapeutische Interventionen aus der Dialektisch-Behavioralen Therapie (DBT) - insbesondere bei Borderline",
           "Mentalisierungsfokussierte Therapie",
-          "Entwicklung von Emotionsregulationsfähigkeiten",
-          "Arbeit an zwischenmenschlichen Beziehungen",
-          "Achtsamkeits- und Selbstmitgefühlstechniken"
+          "Entwicklung von Fähigkeiten zur Emotionsregulation",
+          "Arbeit mit zwischenmenschlichen Beziehungen",
+          "Achtsamkeits- und Selbstmitgefühlstechniken",
+          "Achtsamkeit zur Bewältigung überwältigender Emotionen",
+          "Identitätsorientierte Psychotrauma-Therapie (IoPT)",
+          "Stabilisierungs-, Erdungs- und Skills-Techniken",
+          "Identifizierung traumabedingter Muster",
+          "Psychosomatische Verarbeitung und Körperarbeit"
         ]
       }
     },
@@ -1820,14 +1827,26 @@
       "treatmentApproach": {
         "title": "Unser Therapeutischer Ansatz",
         "methods": [
-          "Kognitive Verhaltenstherapie zur Umstrukturierung negativer Gedanken",
-          "Schema-Therapie für tief verwurzelte Muster",
+          "Identifizierung und Umstrukturierung negativer Gedanken",
+          "Identifizierung, Umformulierung und Neubewertung tief verwurzelter Muster",
           "Selbstmitgefühls- und Achtsamkeitstechniken",
           "Übungen zum Aufbau von Selbstvertrauen",
-          "Entwicklung von Durchsetzungsfähigkeiten",
+          "Entwicklung assertiver Fähigkeiten",
           "Arbeit mit Selbstbild und Identität"
         ]
       }
+    },
+    "sexualAbuse": {
+      "title": "Sexueller Missbrauch",
+      "subtitle": "Verständnis und Umgang mit sexuellem Missbrauch",
+      "intro": "Sexueller Missbrauch ist ein Trauma und stellt eine schwere Verletzung der individuellen Rechte dar und umfasst unerwünschte sowie schädliche sexuelle Verhaltensweisen. Das Spektrum reicht von verbaler Belästigung bis hin zu körperlichen Übergriffen. Für die Betroffenen führt dies oft zu tiefgreifenden psychischen und emotionalen Traumata, die die mentale Gesundheit, die Beziehungsfähigkeit und das allgemeine Wohlbefinden beeinträchtigen. Prävention und Aufklärung sind entscheidend, um dieses Problem anzugehen und den Betroffenen die notwendige Unterstützung und Ressourcen zu bieten.",
+      "couplesContext": "Sexueller Missbrauch in Partnerschaften bezieht sich auf missbräuchliche Verhaltensweisen innerhalb einer engen Beziehung, bei denen ein Partner durch sexuelle Nötigung, Manipulation oder Gewalt Macht und Kontrolle über den anderen ausübt. Dies kann sich in verschiedenen Formen äußern, wie etwa durch unerwünschte sexuelle Annäherungsversuche, erzwungene sexuelle Handlungen oder die Anwendung von Einschüchterung, um Gehorsam zu erzwingen.",
+      "dynamics": "Das Verständnis der Dynamik von Missbrauch in Paarbeziehungen ist von großer Bedeutung, da oft komplexe emotionale Bindungen bestehen, die es den Opfern erschweren, die Situation zu erkennen oder sich aus dem Umfeld zu befreien. Viele Betroffene fühlen sich isoliert, schämen sich oder haben Angst, Hilfe zu suchen, was den Kreislauf des Missbrauchs weiter aufrechterhalten kann. Um sexuellem Missbrauch in Beziehungen entgegenzuwirken, bedarf es Sensibilisierung, Unterstützung und Intervention, damit Betroffene den Weg aus dem missbräuchlichen Umfeld finden und gesunde, konsensbasierte Beziehungen fördern können.",
+      "genderNote": "Sowohl Frauen als auch Männer können von sexuellem Missbrauch betroffen sein.",
+      "cta": "Sollten Sie eines dieser Verhaltensweisen bei sich oder anderen bemerken, zögern Sie nicht, Hilfe zu suchen. Kontaktieren Sie uns noch heute!",
+      "sessionInfo": "Online-Sitzung von 60+ Minuten",
+      "appointmentsLabel": "Für Termine",
+      "languagesAvailable": "Deutsch - Englisch - Rumänisch"
     }
   },
   "legal": {
@@ -1887,6 +1906,75 @@
         "description": "Ich biete konkrete Fähigkeiten und praktische Werkzeuge für bedeutsame und dauerhafte Veränderung in Ihrem Leben."
       }
     ]
+  },
+  "ioptTraining": {
+    "pageTitle": "IoPT Ausbildung und Intervision",
+    "training": {
+      "tagline": "IoPT AUSBILDUNG",
+      "trainerName": "Prof. Franz Ruppert",
+      "intro": "Das Ausbildungsprogramm bietet ein tiefes Verständnis dafür, wie Trauma den gesamten lebenden menschlichen Organismus beeinflusst und wie die Heilung der Traumafolgen möglich ist, um ein gesundes Selbst und einen gesunden Willen wiederzuerlangen.",
+      "description1": "Die Heilung sowohl körperlicher als auch psychischer Störungen erfordert ein klares Ziel. Laut Prof. Dr. Franz Ruppert bedeutet dieses Ziel \u201Edie eigene Identität vollständig und ganz zu leben, damit wir ausdrücken und verwirklichen können, was im Kern unseres Wesens liegt.\u201C",
+      "description2": "Um mit der eigenen Identität in Kontakt zu sein, ist es notwendig, \u201Eein gesundes Selbst, einen freien Willen und eine authentische emotionale Verbindung mit dem eigenen Körper zu haben.\u201C",
+      "description3": "Der IoPT-Rahmen bietet eine sichere Möglichkeit, die verdrängten und unbewussten Teile der Psyche zu erforschen und den Genesungsprozess nach Trauma sowie die Wiederherstellung des gesunden Selbst zu unterstützen.",
+      "description4": "Die IoPT-Therapie basiert auf einem spezifischen Verständnis von Trauma sowie der psychischen Fragmentierung als Überlebensmechanismus angesichts von Trauma.",
+      "facilitatesTitle": "Die Ausbildung ermöglicht:",
+      "facilitates": [
+        "Tiefes Verständnis der identitätsorientierten Psychotrauma-Theorie",
+        "Entwicklung von Fähigkeiten für die Arbeit mit Trauma und psychischer Fragmentierung",
+        "Sichere Erforschung der eigenen traumatischen Biografie",
+        "Authentische Verbindung mit der eigenen Identität und dem gesunden Selbst",
+        "Integration der IoPT-Methoden in die therapeutische Praxis"
+      ],
+      "structureTitle": "PROGRAMMSTRUKTUR",
+      "duration": "Dauer: 12 Monate",
+      "format": "Format: Hybrid (online + Präsenz)",
+      "modules": [
+        {
+          "title": "Modul 1: Theoretische Grundlagen IoPT",
+          "description": "Verständnis der Psychotrauma-Theorie und des Identitätskonzepts"
+        },
+        {
+          "title": "Modul 2: Traumatische Biografie",
+          "description": "Erforschung der eigenen Geschichte und der Auswirkungen von Trauma"
+        },
+        {
+          "title": "Modul 3: Praktische Methoden",
+          "description": "Techniken für die Arbeit mit Trauma und Aufstellungen"
+        },
+        {
+          "title": "Modul 4: Supervision und Integration",
+          "description": "Anwendung der Methoden in der therapeutischen Praxis"
+        }
+      ],
+      "requirementsTitle": "TEILNAHMEVORAUSSETZUNGEN",
+      "requirements": [
+        "Grundausbildung in Psychologie, Psychotherapie oder Beratung",
+        "Erfahrung in der Arbeit mit Klienten (empfohlen)",
+        "Bereitschaft zur persönlichen Arbeit und Selbsterforschung",
+        "Teilnahme am Vorgespräch"
+      ],
+      "ctaTitle": "Beginnen Sie Ihre Reise",
+      "ctaDescription": "Bewerben Sie sich jetzt für das Vorgespräch und entdecken Sie, wie Sie IoPT in Ihre Praxis integrieren können.",
+      "ctaButton": "Vorgespräch anfordern"
+    },
+    "intervision": {
+      "tagline": "IoPT Intervision",
+      "title": "IoPT Intervision in deutscher Sprache ab 2026",
+      "intro": "Ab 2026 sind wir in IoPT-Intervisionssitzungen aktiv, die ausschließlich in deutscher Sprache stattfinden.",
+      "purpose": "Ziel dieser Treffen ist es, einen dedizierten Rahmen für das Üben, Lernen und die vertiefte Integration der IoPT-Technik zu bieten.",
+      "detailsTitle": "Durchführungsdetails:",
+      "format": "Format: Online, über die Zoom-Plattform.",
+      "context": "Kontext: Die Sitzungen finden im Anschluss an die von Prof. Franz Ruppert geleiteten Ausbildungsmodule statt.",
+      "language": "Arbeitssprache: Deutsch (ausschließlich).",
+      "calendar": "Kalender: Die genauen Termine werden ausschließlich per E-Mail an die eingeschriebenen Personen mitgeteilt.",
+      "openInvitation": "Alle Interessierten aus den IoPT-Ausbildungsjahrgängen ab 2014 \u2014 sowie alle anderen Interessierten \u2014 sind eingeladen, sich in den optionalen Online-Sitzungen der \u201ESelbstbegegnung\u201C zwischen 09:00 und 18:00 Uhr für die Praxis zu vernetzen.",
+      "registration": "Für die Teilnahme an diesen Sitzungen ist eine Anmeldung erforderlich.",
+      "cost": "Für die Teilnehmer an der Intervision fallen keine Kosten an.",
+      "ctaDescription": "Um den Kalender der Treffen und die Verbindungsdetails zu erhalten, melden Sie sich bitte über den untenstehenden Button an oder senden Sie eine Nachricht direkt an die angegebene E-Mail-Adresse.",
+      "ctaButton": "Jetzt anmelden",
+      "email": "iopt.intervision@gmail.com",
+      "emailLabel": "E-Mail für Anmeldungen und Details:"
+    }
   },
   "assessment": {
     "title": "Vorgespräch-Fragebogen",

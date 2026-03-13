@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Diana Raluca | Cabinet de Psihologie",
-    "description": "Servicii profesionale de psihologie oferind EMDR, Mindfulness, NLP și diverse abordări terapeutice pentru anxietate, depresie, traumă și multe altele."
+    "description": "Servicii profesionale de psihologie oferind IoPT, NLP, Mindfulness și diverse abordări terapeutice pentru anxietate, depresie, traumă și multe altele."
   },
   "nav": {
     "home": "Acasă",
@@ -28,21 +28,21 @@
   },
   "about": {
     "tagline": "Despre Mine",
-    "titleStart": "Dipl. Psih.",
+    "titleStart": "Psiholog clinician și psihoterapeut",
     "titleHighlight": "Raluca Diana Tocoian",
     "titleEnd": "",
-    "description": "Ca psihoterapeut autorizat (Heilpraktikerin für Psychotherapie), sunt dedicată să ghidez indivizii către sănătate mintală prin abordări terapeutice bazate pe dovezi. Cu cunoștințe aprofundate în Terapia Schemelor, ACT, DBT și formare în IoPT 'Teoria Psihotraumei Orientată spre Identitate' dezvoltată de Prof. Dr. Franz Ruppert prin Metoda Intenției, ofer îngrijire personalizată într-un mediu cald și suportiv. Ofer consultații în germană, română și engleză.",
+    "description": "Sunt dedicată să ghidez indivizii către sănătate mintală prin abordări terapeutice bazate pe dovezi. Am aprofundat cunoștințele terapeutice în Terapia de familie și cuplu, consiliere sistemică, NLP, psihoterapia pozitivă, IoPT 'Teoria Psihotraumei Orientată spre Identitate' dezvoltată de Prof. Dr. Franz Ruppert prin Metoda Intenției. Din interese atât personale cât și profesionale am aprofundat cunoștințele și în Mindfulness, ACT, DBT, terapia schemelor, psihanaliza și analiza tranzacțională. Ofer îngrijire personalizată într-un mediu cald și suportiv. Consultațiile le pot desfășura la cerere atât în limba germană, română cât și în engleză.",
     "yearsOfExcellence": "Ani de Excelență",
     "qualifications": {
       "title": "Calificări",
       "items": [
-        "Psihoterapeut Autorizat (Heilpraktikerin für Psychotherapie)",
-        "Specialist în Terapia Traumei Orientată pe Identitate (IoPT)",
-        "Psihoterapie Pozitivă & Transculturală",
-        "Terapie Sistemică de Familie și Cuplu",
-        "Master Practician NLP Certificat",
-        "Consiliere în Psihosexualitate",
-        "Formată în Terapia Schemelor, ACT & DBT"
+        "Psiholog clinician și psihoterapeut",
+        "IoPT, Specializare în terapia traumei orientată pe identitate",
+        "Psihoterapie pozitivă și transculturală",
+        "Terapie de familie și cuplu",
+        "NLP Trainer",
+        "Consiliere în psihosexualitate",
+        "Consiliere sistemică"
       ]
     },
     "values": {
@@ -273,7 +273,7 @@
         }
       },
       "nlp": {
-        "name": "Tehnici NLP",
+        "name": "NLP",
         "description": "Metode de Programare Neuro-Lingvistică pentru a transforma credințele limitante și a crea schimbări comportamentale pozitive.",
         "fullTitle": "Programarea Neuro-Lingvistică (NLP)",
         "intro": "NLP este folosit ca metodă de dezvoltare personală prin promovarea abilităților precum auto-reflecția, încrederea și comunicarea. Tehnica schimbă gândurile și comportamentele pentru a ajuta la atingerea rezultatelor dorite.",
@@ -567,6 +567,7 @@
     "description": "Fă primul pas către bunăstarea mintală. Contactează-ne pentru o consultație confidențială și descoperă cum putem lucra împreună.",
     "phone": "Telefon",
     "phoneValue": "+49 163 786 5012",
+    "phoneValueRo": "+40 745 671 737",
     "email": "Email",
     "emailValue": "dianatocoian@mindcores.org",
     "location": "Locație",
@@ -595,7 +596,7 @@
   },
   "footer": {
     "brandName": "Mindcores",
-    "brandDescription": "Dipl. Psih. Raluca Diana Tocoian - Psihoterapeut Autorizat (Heilpraktikerin für Psychotherapie). Dedicată să ghidez indivizii către bunăstarea mintală prin abordări terapeutice bazate pe dovezi și îngrijire compasivă.",
+    "brandDescription": "Raluca-Diana Tocoian - Psiholog clinician și psihoterapeut. Dedicată să ghidez indivizii către bunăstarea mintală prin abordări terapeutice bazate pe dovezi și îngrijire compasivă.",
     "quickLinks": "Linkuri Rapide",
     "services": "Servicii",
     "contact": "Contact",
@@ -609,8 +610,8 @@
     "privacyPolicy": "Politica de Confidențialitate",
     "termsOfService": "Termeni și Condiții",
     "impressum": "Impressum",
-    "professionalLicense": "Autorizată de Gesundheitsamt Ingolstadt",
-    "accreditations": "Acreditată de CPR România | Recunoscută de BDP Germania | Membru WAPP, IoPT, NLP | Membru VFP (Germania)"
+    "professionalLicense": "Gesundheitsamt Ingolstadt",
+    "accreditations": "CPR România | BDP | WAPP | IoPT | NLP | VFP | Gesundheitsamt Ingolstadt | Schweizerische Eidgenossenschaft"
   },
   "conditions": {
     "anxiety": {
@@ -693,11 +694,11 @@
         "title": "Abordarea Noastră Terapeutică",
         "description": "Folosim o combinație de tehnici bazate pe dovezi pentru a trata anxietatea, adaptate nevoilor tale individuale.",
         "methods": [
-          "Terapia Cognitiv-Comportamentală (TCC) pentru identificarea și restructurarea gândurilor anxioase",
-          "EMDR pentru procesarea experiențelor traumatice care alimentează anxietatea",
-          "Tehnici de mindfulness și relaxare pentru gestionarea simptomelor fizice",
-          "Terapia Acceptării și Angajamentului (ACT) pentru flexibilitate psihologică",
-          "NLP pentru transformarea credințelor limitante",
+          "Identificare și restructurarea gândurilor anxioase",
+          "Exerciții pentru procesarea experiențelor traumatice care alimentează anxietatea",
+          "Tehnici de relaxare, mindfulness pentru gestionarea simptomelor fizice",
+          "Flexibilitate psihologică prin acceptare și angajament",
+          "Transformarea credințelor limitative",
           "Exerciții de respirație și grounding pentru atacurile de panică"
         ]
       },
@@ -774,12 +775,12 @@
         "title": "Abordarea Noastră Terapeutică",
         "description": "Oferim un plan de tratament personalizat care combină multiple abordări terapeutice.",
         "methods": [
-          "Terapia Cognitiv-Comportamentală pentru restructurarea gândurilor negative",
-          "Terapia Schemelor pentru pattern-urile emoționale adânc înrădăcinate",
+          "Identificare și restructurarea gândurilor negative",
+          "Identificarea patternurilor emoționale adânc înrădăcinate",
           "Activarea comportamentală pentru recâștigarea motivației și plăcerii",
-          "Tehnici de mindfulness pentru conștientizare și auto-compasiune",
-          "EMDR pentru depresia legată de traumă",
-          "Terapia interpersonală pentru îmbunătățirea relațiilor"
+          "Tehnici de autocompasiune și conștientizare",
+          "Abordări pentru îmbunătățirea relațiilor interpersonale",
+          "Flexibilitate psihologică prin acceptare și angajament"
         ]
       },
       "warningSignsDetailed": {
@@ -850,12 +851,12 @@
         "title": "Abordarea Noastră Terapeutică",
         "description": "Oferim tratament specializat pentru traumă folosind metode validate științific.",
         "methods": [
-          "EMDR - tratament standard de aur recunoscut de OMS și APA pentru PTSD",
-          "Terapia Psihotraumei Orientată pe Identitate (IoPT) - metodă specializată dezvoltată de Prof. Dr. Franz Ruppert",
-          "Terapia Cognitiv-Comportamentală focusată pe traumă",
+          "Tehnici EMDR",
+          "Terapia psihotraumei orientată pe identitate (IoPT)",
           "Tehnici de stabilizare și grounding",
-          "Terapia Schemelor pentru pattern-urile generate de traumă",
-          "Procesarea somatică și lucrul cu corpul"
+          "Skills",
+          "Identificarea patternurilor generate de traumă",
+          "Procesarea psihosomatică și lucrul cu corpul"
         ]
       },
       "ptsdDetailed": {
@@ -939,9 +940,9 @@
       "treatmentApproach": {
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
-          "Terapia Cognitiv-Comportamentală pentru identificarea și schimbarea pattern-urilor de gândire",
-          "Terapia focusată pe traumă pentru abordarea cauzelor subiacente",
-          "Tehnici de mindfulness pentru gestionarea poftelor și impulsurilor",
+          "Identificarea și schimbarea patternurilor de gândire",
+          "Focusarea pe traumă pentru abordarea cauzelor subiacente",
+          "Tehnici pentru gestionarea impulsurilor și impulsurilor",
           "Terapia de grup și suport în recuperare",
           "Dezvoltarea mecanismelor de coping sănătoase",
           "Abordarea duală - tratarea simultană a dependenței și a afecțiunilor mintale asociate"
@@ -1070,9 +1071,9 @@
       "treatmentApproach": {
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
-          "Terapia Schemelor pentru pattern-urile de atașament",
+          "Focusarea pattern-urilor de atașament",
           "IoPT - Terapia Psihotraumei Orientată pe Identitate",
-          "Terapie focusată pe emoții pentru vindecarea rănilor de atașament",
+          "Focusarea pe emoții pentru vindecarea rănilor de atașament",
           "Identificarea declanșatorilor și gestionarea emoțiilor",
           "Dezvoltarea comportamentelor sociale sănătoase",
           "Ghidaj în alegerea partenerilor sănătoși"
@@ -1128,10 +1129,11 @@
         "title": "Abordarea Noastră Terapeutică",
         "description": "Recuperarea de o tulburare de alimentație este absolut posibilă cu tratamentul adecvat.",
         "methods": [
-          "Terapia Cognitiv-Comportamentală adaptată pentru tulburări de alimentație",
-          "Terapia Schemelor pentru pattern-urile emoționale subiacente",
-          "Tehnici de mindful eating și reconectare cu corpul",
-          "Abordarea traumei subiacente prin EMDR",
+          "Orientarea și focusarea din punct de vedere cognitiv-comportamental adaptat pentru tulburări de alimentație",
+          "Identificarea pattern-urilor emoționale subiacente",
+          "Tehnici de mindful eating",
+          "Focusarea asupra reconectării cu corpul",
+          "Abordarea traumei subiacente",
           "Lucrul cu imaginea corporală și stima de sine",
           "Suport nutrițional integrat în procesul terapeutic"
         ]
@@ -1468,9 +1470,9 @@
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
           "Evaluare specializată pentru tulburări perinatale",
-          "Terapia Cognitiv-Comportamentală adaptată pentru perioada perinatală",
+          "Orientarea și focusarea cognitiv-comportamental adaptată pentru perioada perinatală",
           "Suport pentru crearea legăturii mamă-copil",
-          "Tehnici de mindfulness pentru gestionarea anxietății",
+          "Tehnici de relaxare și mindfulness pentru gestionarea anxietății",
           "Consiliere de cuplu pentru tranziția la parentaj",
           "Planificare pentru prevenirea recăderii"
         ]
@@ -1549,8 +1551,8 @@
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
           "Consiliere psihosexuală sensibilă și profesională",
-          "Terapia Cognitiv-Comportamentală pentru anxietatea de performanță",
-          "EMDR pentru trauma sexuală",
+          "Abordarea și focusarea cognitiv-comportamentală pentru anxietatea de performanță",
+          "Tehnici și focusarea pentru trauma sexuală",
           "Tehnici de mindfulness și reconectare cu corpul",
           "Consiliere de cuplu pentru îmbunătățirea comunicării intime",
           "Exerciții specifice pentru îmbunătățirea funcției sexuale"
@@ -1679,8 +1681,8 @@
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
           "Psihoeducație despre tulburarea bipolară și managementul simptomelor",
-          "Terapia Cognitiv-Comportamentală pentru gestionarea episoadelor",
-          "Tehnici de reglare emoțională și mindfulness",
+          "Focusare cognitiv-comportamentală pentru gestionarea episoadelor",
+          "Tehnici de reglare emoțională, mindfulness și relaxare",
           "Monitorizarea dispozițiilor și identificarea semnelor de avertizare",
           "Suport pentru aderența la tratament",
           "Terapia interpersonală și a ritmurilor sociale"
@@ -1732,11 +1734,16 @@
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
           "Terapia Schemelor - abordare specializată pentru tulburări de personalitate",
-          "DBT (Terapia Dialectică Comportamentală) - în special pentru Borderline",
+          "Intervenții terapeutice din Terapia Dialectică Comportamentală (DBT) - în special pentru Borderline",
           "Terapia focusată pe mentalizare",
           "Dezvoltarea abilităților de reglare emoțională",
           "Lucrul cu relațiile interpersonale",
-          "Tehnici de mindfulness și auto-compasiune"
+          "Tehnici de mindfulness și auto-compasiune",
+          "Mindfulness pentru gestionarea emoțiilor copleșitoare",
+          "Terapia psihotraumei orientată pe identitate (IoPT)",
+          "Tehnici de stabilizare, grounding, Skills",
+          "Identificarea patternurilor generate de traumă",
+          "Procesarea psihosomatică și lucrul cu corpul"
         ]
       }
     },
@@ -1816,14 +1823,26 @@
       "treatmentApproach": {
         "title": "Abordarea Noastră Terapeutică",
         "methods": [
-          "Terapia Cognitiv-Comportamentală pentru restructurarea gândurilor negative",
-          "Terapia Schemelor pentru pattern-urile adânc înrădăcinate",
+          "Identificarea și restructurarea gândurilor negative",
+          "Identificarea, reformularea și recadrarea pattern-urilor adânc înrădăcinate",
           "Tehnici de auto-compasiune și mindfulness",
           "Exerciții de construire a încrederii",
           "Dezvoltarea abilităților asertive",
           "Lucrul cu imaginea de sine și identitatea"
         ]
       }
+    },
+    "sexualAbuse": {
+      "title": "Abuzul Sexual",
+      "subtitle": "Înțelegerea și Abordarea Abuzului Sexual",
+      "intro": "Abuzul sexual reprezintă o traumă, o încălcare gravă a drepturilor individuale, implicând comportamente sexuale nedorite și vătămătoare. Acesta cuprinde o gamă largă de acte, de la hărțuire verbală până la agresiune fizică. Pentru victime, urmările implică adesea traume psihologice și emoționale profunde, care le afectează sănătatea mintală, relațiile și starea generală de bine. Prevenția și conștientizarea sunt esențiale în abordarea acestei probleme, alături de oferirea de resurse și sprijin pentru supraviețuitori.",
+      "couplesContext": "Abuzul sexual în cuplu se referă la comportamente abuzive ce survin în cadrul relațiilor intime, în care un partener exercită putere și control asupra celuilalt prin coerciție sexuală, manipulare sau violență. Acesta se poate manifesta sub diverse forme, inclusiv avansuri sexuale nedorite, acte sexuale forțate sau utilizarea intimidării pentru a impune conformarea.",
+      "dynamics": "Înțelegerea dinamicii abuzului în cuplu este vitală, deoarece implică adesea legături emoționale complexe, care fac dificilă recunoașterea situației sau părăsirea mediului abuziv. Multe victime se pot simți izolate, rușinate sau temătoare în a cere ajutor, ceea ce poate perpetua ciclul abuzului. Abordarea acestei probleme necesită conștientizare, sprijin și intervenție pentru a ajuta persoanele afectate să scape de mediul toxic și pentru a promova relații sănătoase, bazate pe consimțământ.",
+      "genderNote": "Atât femeile, cât și bărbații pot fi victime ale abuzului sexual.",
+      "cta": "Dacă recunoașteți oricare dintre aceste comportamente, nu ezitați să cereți ajutor. Contactați-ne astăzi!",
+      "sessionInfo": "Ședință online de 60+ minute",
+      "appointmentsLabel": "Pentru programări",
+      "languagesAvailable": "Germană - Engleză - Română"
     }
   },
   "legal": {
@@ -1883,6 +1902,75 @@
         "description": "Ofer abilități concrete și instrumente practice pentru schimbare semnificativă și durabilă în viața ta."
       }
     ]
+  },
+  "ioptTraining": {
+    "pageTitle": "Formare și Intervizare IoPT",
+    "training": {
+      "tagline": "FORMARE IoPT",
+      "trainerName": "Prof. Franz Ruppert",
+      "intro": "Programul de formare oferă o înțelegere profundă a modului în care trauma afectează întregul organism uman viu și cum este posibilă vindecarea efectelor traumei pentru a redobândi un sine sănătos și o voință sănătoasă.",
+      "description1": "Vindecarea atât a tulburărilor fizice, cât și a celor psihice necesită un scop clar. Potrivit prof. dr. Franz Ruppert, acest scop \u201Eechivalează cu a trăi pe deplin și complet propria identitate, astfel încât să putem exprima și realiza ceea ce se află în nucleul ființei noastre\u201D.",
+      "description2": "Pentru a fi în contact cu propria identitate, este necesar \u201Esă avem un sine sănătos, o voință liberă și o conexiune emoțională autentică cu propriul corp\u201D.",
+      "description3": "Cadrul IoPT oferă o modalitate sigură de explorare a părților reprimate și inconștiente ale psihicului, sprijinind procesul de recuperare în urma traumei și restabilirea sinelui sănătos.",
+      "description4": "Terapia IoPT se bazează pe o înțelegere specifică a traumei, precum și a fragmentării psihice ca mecanism de supraviețuire în fața traumei.",
+      "facilitatesTitle": "Formarea facilitează:",
+      "facilitates": [
+        "Înțelegerea profundă a teoriei psihotraumei orientate pe identitate",
+        "Dezvoltarea abilităților de lucru cu trauma și fragmentarea psihică",
+        "Explorarea sigură a propriei biografii traumatice",
+        "Conectarea autentică cu propria identitate și sinele sănătos",
+        "Integrarea metodelor IoPT în practica terapeutică"
+      ],
+      "structureTitle": "STRUCTURA PROGRAMULUI",
+      "duration": "Durata: 12 luni",
+      "format": "Format: Hibrid (online + prezențial)",
+      "modules": [
+        {
+          "title": "Modulul 1: Fundamente teoretice IoPT",
+          "description": "Înțelegerea teoriei psihotraumei și a conceptului de identitate"
+        },
+        {
+          "title": "Modulul 2: Biografia traumatică",
+          "description": "Explorarea propriei istorii și impactul traumei"
+        },
+        {
+          "title": "Modulul 3: Metode practice",
+          "description": "Tehnici de lucru cu trauma și constelații"
+        },
+        {
+          "title": "Modulul 4: Supervizare și integrare",
+          "description": "Aplicarea metodelor în practica terapeutică"
+        }
+      ],
+      "requirementsTitle": "CERINȚE DE PARTICIPARE",
+      "requirements": [
+        "Formarea de bază în psihologie, psihoterapie sau consiliere",
+        "Experiență în lucrul cu clienți (recomandat)",
+        "Disponibilitate pentru lucrul personal și autoexplorare",
+        "Participare la interviul preliminar"
+      ],
+      "ctaTitle": "Începe Călătoria Ta",
+      "ctaDescription": "Aplică acum pentru interviul preliminar și descoperă cum poți integra IoPT în practica ta.",
+      "ctaButton": "Solicită interviul preliminar"
+    },
+    "intervision": {
+      "tagline": "Intervizare IoPT",
+      "title": "Intervizare IoPT în limba germană începând cu anul 2026",
+      "intro": "Începând cu anul 2026, activăm în sesiuni de intervizare IoPT, care se vor desfășura exclusiv în limba germană.",
+      "purpose": "Scopul acestor întâlniri este de a oferi un cadru dedicat pentru practicarea, învățarea și integrarea aprofundată a tehnicii IoPT.",
+      "detailsTitle": "Detalii de desfășurare:",
+      "format": "Format: Online, prin platforma Zoom.",
+      "context": "Context: Sesiunile au loc în continuarea modulelor de formare susținute de prof. Franz Ruppert.",
+      "language": "Limba de lucru: Germană (exclusiv).",
+      "calendar": "Calendar: Datele exacte de desfășurare vor fi anunțate exclusiv prin email persoanelor înscrise.",
+      "openInvitation": "Toți cei interesați din promoțiile de formare IoPT începând cu anul 2014 — precum și orice alte persoane interesate — sunt invitați să se reconecteze pentru practică în cadrul sesiunilor opționale de \"Întâlnirea Sinelui\" (Selbstbegegnung) online, ce au loc între orele 09:00 și 18:00.",
+      "registration": "Pentru a putea participa la aceste sesiuni, este nevoie de înscriere.",
+      "cost": "În cadrul intervizării, nu sunt costuri pentru participanți.",
+      "ctaDescription": "Pentru a primi calendarul întâlnirilor și detaliile de conectare, vă rugăm să vă înscrieți folosind butonul de mai jos sau trimiteți un mesaj direct la adresa de email specificată.",
+      "ctaButton": "Înscrie-te acum",
+      "email": "iopt.intervision@gmail.com",
+      "emailLabel": "Email pentru înscrieri și detalii:"
+    }
   },
   "assessment": {
     "title": "Chestionar Pre-Consultație",
