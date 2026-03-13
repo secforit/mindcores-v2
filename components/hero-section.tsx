@@ -9,7 +9,6 @@ import { ArrowRight, Award } from "lucide-react"
 export function HeroSection() {
   const t = useTranslations("hero")
   const tAbout = useTranslations("about")
-  const tFooter = useTranslations("footer")
 
   return (
     <section className="relative flex items-center justify-center overflow-hidden bg-background pt-20">
@@ -92,12 +91,6 @@ export function HeroSection() {
           </div>
         </div>
 
-        {/* Accreditations */}
-        <div className="mt-8 pt-6 border-t border-border/20 text-center">
-          <p className="text-xs text-muted-foreground">
-            {tFooter("professionalLicense")} • {tFooter("accreditations")}
-          </p>
-        </div>
       </div>
 
     </section>
