@@ -12,7 +12,7 @@ export function HeroSection() {
   const tFooter = useTranslations("footer")
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-background pt-20">
+    <section className="relative flex items-center justify-center overflow-hidden bg-background pt-20">
       {/* Decorative Elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute top-1/4 right-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl" />
@@ -20,7 +20,7 @@ export function HeroSection() {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-primary/3 rounded-full blur-3xl" />
       </div>
 
-      <div className="relative mx-auto max-w-7xl px-6 py-16 lg:px-8 lg:py-24">
+      <div className="relative mx-auto max-w-7xl px-6 py-12 lg:px-8 lg:py-16">
         {/* Main Hero - Photo and Introduction First */}
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-16 items-center mb-16">
           {/* Photo - First on mobile */}
@@ -110,13 +110,6 @@ export function HeroSection() {
         </div>
       </div>
 
-      {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2">
-        <div className="flex flex-col items-center gap-2">
-          <span className="text-xs text-muted-foreground tracking-widest uppercase">{t("scroll")}</span>
-          <div className="w-px h-8 bg-gradient-to-b from-primary/50 to-transparent" />
-        </div>
-      </div>
     </section>
   )
 }

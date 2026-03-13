@@ -610,8 +610,8 @@
     "privacyPolicy": "Politica de Confidențialitate",
     "termsOfService": "Termeni și Condiții",
     "impressum": "Impressum",
-    "professionalLicense": "Gesundheitsamt Ingolstadt",
-    "accreditations": "CPR România | BDP | WAPP | IoPT | NLP | VFP | Gesundheitsamt Ingolstadt | Schweizerische Eidgenossenschaft"
+    "professionalLicense": "Departamentul de Sănătate Publică Ingolstadt",
+    "accreditations": "CPR România | BDP | WAPP | IoPT | NLP | VFP | Departamentul de Sănătate Publică Ingolstadt | Confederația Elvețiană"
   },
   "conditions": {
     "anxiety": {
@@ -1852,7 +1852,7 @@
       "professionalTitle": "Titlu Profesional",
       "professionalTitleValue": "Psihoterapeut Licențiat (Heilpraktikerin für Psychotherapie)",
       "issuedBy": "Emis de",
-      "issuedByValue": "Gesundheitsamt Ingolstadt",
+      "issuedByValue": "Departamentul de Sănătate Publică Ingolstadt",
       "germanAddress": "Adresa din Germania",
       "romanianAddress": "Adresa din România",
       "taxInfo": "Informații Fiscale",
