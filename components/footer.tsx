@@ -48,12 +48,9 @@ export function Footer() {
             <p className="text-sm text-background/70 leading-relaxed">
               {t("brandDescription")}
             </p>
-            <div className="flex items-center gap-2 text-xs text-background/50">
-              <Award className="h-4 w-4 text-primary" />
-              <span>{t("professionalLicense")}</span>
-            </div>
-            <div className="text-xs text-background/50 leading-relaxed mt-2">
-              {t("accreditations")}
+            <div className="flex items-center gap-2 text-xs text-background/50 mt-2">
+              <Award className="h-4 w-4 text-primary shrink-0" />
+              <span>{t("accreditations")}</span>
             </div>
             <div className="flex flex-wrap items-center gap-3 mt-3">
               {[

@@ -61,22 +61,12 @@ export function HeroSection() {
                 {tAbout("titleStart")}{" "}
                 <span className="text-primary font-medium">{tAbout("titleHighlight")}</span>
               </h1>
-              <p className="text-lg text-muted-foreground">
-                Heilpraktikerin für Psychotherapie
-              </p>
             </div>
 
             <p className="text-base lg:text-lg text-muted-foreground leading-relaxed max-w-xl mx-auto lg:mx-0">
               {t("heroIntro")}
             </p>
 
-            {/* Credentials */}
-            <div className="flex flex-wrap justify-center lg:justify-start gap-2 text-xs text-muted-foreground">
-              <span className="px-3 py-1 bg-primary/5 rounded-full border border-primary/10">IoPT Specialist</span>
-              <span className="px-3 py-1 bg-primary/5 rounded-full border border-primary/10">NLP Master</span>
-              <span className="px-3 py-1 bg-primary/5 rounded-full border border-primary/10">Schema Therapy</span>
-              <span className="px-3 py-1 bg-primary/5 rounded-full border border-primary/10">ACT & DBT</span>
-            </div>
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
